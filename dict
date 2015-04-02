@@ -1994,7 +1994,6 @@ Alokul~iy~api l k u0 ll ii0 y a t i0
 Alokurodiy~i l k u0 r d ii0 y i0
 Alokutolapi l k u0 t l a t i0
 Alokutubi l k u0 t u0 b i0
-Alokutuـbi l k u0 t u0 b i0
 Alokuwayokiba l k uu0 a y k i0 b a
 Alokuwayoti l k uu0 a y t i0
 Alokuwayotiy~o l k uu0 a y t ii0 y
@@ -2060,8 +2059,8 @@ AlomadaAri^i l m a d aa r i0 ^ i0
 Alomadiynapi l m a d ii0 n a t i0
 AlomadofuwEapi l m a d f uu0 E a t i0
 AlomadoluwlaAti l m a d l uu0 l aa t i0
+Alomadorasapi l m a d r a s a t i0
 Alomadorasapu l m a d r a s a t u0
-Alomadorasaـpi l m a d r a s a t i0
 AlomafotuwHapi l m a f t uu0 H a t i0
 AlomagaAribapi l m a g AA r i0 b a t i0
 Alomagorabi l m a g r a b i0
@@ -2469,7 +2468,6 @@ Alotuwnusiy~apu l t uu0 n u0 s ii0 y a t u0
 Alot~axofiyfi tt a x f ii0 f i0
 AlowaAHidi l w aa H i0 d i0
 AlowaAlidayoni l w aa l i0 d a y n i0
-AlowaAlidayoـni l w aa l i0 d a ii0 n i0
 AlowaAliy l w aa l i0
 AlowaAliy l w aa l ii0
 AlowaAqiEi l w AA q I0 E i0
@@ -2522,6 +2520,7 @@ Aloxaliyjiy~iyna l x A l ii0 j ii0 y ii0 n a
 Aloxamiysa l x A m ii0 s a
 Aloxamiysi l x A m ii0 s i0
 Aloxamiyso l x A m ii0 s
+Aloxamosapi l x A m s a t i0
 Aloxamosiyniy~aAti l x A m s ii0 n ii0 y aa t i0
 Aloxamsapa l x A m s a t a
 AloxaraA}iTi l x A r aa AH I0 T I0
@@ -2641,6 +2640,7 @@ Also^Aniy l s ^ aa n ii0
 Als~AbiEapa ss aa b i0 E a t a
 Als~aAEapi ss aa E a t i0
 Als~aAHili ss aa H i0 l i0
+Als~aAbiEa ss aa b i0 E a
 Als~aAbiEapi ss aa b i0 E a t i0
 Als~aAbiEi ss aa b i0 E i0
 Als~aAbiqa ss aa b I0 q A
@@ -2895,8 +2895,6 @@ Al~atiy aa ll a t i0
 Al~atiy aa ll a t ii0
 Al~atiy ll a t i0
 Al~atiy ll a t ii0
-Alـoxamosapi l x A m s a t i0
-Alـs~aAbiEa l ss aa b i0 E a
 Amora>apF m r a AH a t a n
 Amora>apK m r a AH a t i1 n
 Amotad~ato m t a dd a t
@@ -3945,6 +3943,7 @@ bi>ay~api b i0 AH a y y a t i0
 biAEotibaArihaA b i0 E t i0 b aa r i0 h a
 biAEotibaArihaA b i0 E t i0 b aa r i0 h aa
 biAEotibaArihi b i0 E t i0 b aa r i0 h i0
+biAEotilaAli b i0 E t i0 l aa l i0
 biAEotiqaAlaAtK b i0 E t I0 q AA l aa t i1 n
 biAhotimaAmK b i0 h t i0 m aa m i1 n
 biAkotiSHaAfi b i0 k t i0 SH aa f i0
@@ -3998,6 +3997,7 @@ biAlogurobapi b i0 l g U0 r b a t i0
 biAlohawaAtifi b i0 l h a w aa t i0 f i0
 biAlojazaA}iri b i0 l j a z aa AH i0 r i0
 biAlojuwEi b i0 l j uu0 E i0
+biAlomaTari b i0 l m A T A r i0
 biAlomadiynapi b i0 l m a d ii0 n a t i0
 biAlomafohuwmi b i0 l m a f h uu0 m i0
 biAlomagoribi b i0 l m a g r i0 b i0
@@ -4094,6 +4094,8 @@ biTariyqapK b I0 T A r ii0 q A t I1 n
 biTaroHi b I0 T A r H i0
 bi^AniyapK b i0 ^ aa n ii0 a t i1 n
 bi^alaA^api b i0 ^ a l aa ^ a t i0
+bi^amAniyap b i0 ^ a m aa n ii0 a
+bi^amAniyapK b i0 ^ a m aa n ii0 a t i1 n
 bi^iyaAbihumu b i0 ^ ii0 aa b i0 h u0 m u0
 bibaAriysa b i0 b aa r ii0 s a
 bibaEoDi b i0 b a E D I0
@@ -4116,7 +4118,7 @@ bifaroDi b i0 f a r D I0
 bifaroHapK b i0 f a r H a t i1 n
 bifawozihi b i0 f a w z i0 h i0
 bifayoruwsi b i0 f a y r uu0 s i0
-bifiـyـka b i0 f ii0 k a
+bifiyka b i0 f ii0 k a
 bihaA b i0 h a
 bihaA b i0 h aa
 bihaTHaA b i0 h a TH a
@@ -4254,10 +4256,7 @@ biyumonaAhu b ii0 u0 m n aa h u0
 biyusoraAhu b ii0 u0 s r aa h u0
 bizabuwnK b i0 z a b uu0 n i1 n
 bizamani b i0 z a m a n i0
-bizayoـdK b i0 z a ii0 d i1 n
-biـAEotilaAli b i0 aa E t i0 l aa l i0
-biـAlomaTari b i0 aa l m A T A r i0
-biـ^amAniyap b i0 ^ a m aa n ii0 a
+bizayodK b i0 z a y d i1 n
 bolaAsotiykiy~apN b l aa s t ii0 k ii0 y a t u1 n
 boliynAlo b l ii0 n aa l
 boni b n i0
@@ -4300,7 +4299,6 @@ bySobara b II0 S b a r a
 byroditoSH b ii0 r d i0 t SH
 bysobara b ii0 s b a r a
 b~aAroSHomaAnot bb aa r SH m aa n t
-bـi^amAniyapK b i0 ^ a m aa n ii0 a t i1 n
 dASobara d AA S b a r a
 dAsobara d aa s b a r a
 daAEiyAF d aa E ii0 a n
@@ -4523,6 +4521,8 @@ fi<in~a f i0 AH i0 nn a
 fiEoliy~AF f i0 E l ii0 y a n
 fiSobara f I0 S b a r a
 fiToriy~aAtK f I0 T r ii0 y aa t i1 n
+fiY f i0 a
+fiY f i0 aa
 fikorapi f i0 k r a t i0
 fikoriy~apK f i0 k r ii0 y a t i1 n
 filasoTiyna f i0 l a s T II0 n a
@@ -4574,7 +4574,6 @@ fiyyin~aA f ii0 y i0 nn aa
 fi}apK f i0 AH a t i1 n
 fi}apa f i0 AH a t a
 fi}oraAnK f i0 AH r aa n i1 n
-fiی f i0
 folaAdiymiyro f l aa d ii0 m ii0 r
 forAnokolyno f r aa n k l ii0 n
 foraAnoso f r aa n s

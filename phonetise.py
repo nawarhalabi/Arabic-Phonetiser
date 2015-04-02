@@ -26,9 +26,10 @@ buckwalter = {
 	u'\u0623': u'>' , u'\u0621': u'\'', u'\u0626': u'}' , u'\u0624': u'&',
 	u'\u0625': u'<' , u'\u0622': u'|' , u'\u0627': u'A' , u'\u0649': u'Y',
 	u'\u0629': u'p' , u'\u064a': u'y' , u'\u0644': u'l' , u'\u0648': u'w',
-	u'\u064B': u'F' , u'\u064C': u'N' , u'\u064D': u'K' , u'\u064E': u'a',
-	u'\u064F': u'u' , u'\u0650': u'i' , u'\u0651': u'~' , u'\u0652': u'o'
+	u'\u064b': u'F' , u'\u064c': u'N' , u'\u064d': u'K' , u'\u064e': u'a',
+	u'\u064f': u'u' , u'\u0650': u'i' , u'\u0651': u'~' , u'\u0652': u'o'
 }
+
 def arabicToBuckwalter(word):
 	res = ''
 	for letter in word:
@@ -122,17 +123,19 @@ result = ''
 for utterance in utterances:
 	number = utterance.split(',')[0].strip()
 	utterance = utterance.split(',')[1].strip()
-	
+
 	utteranceText = arabicToBuckwalter(utterance)
-	
+
 	zeros = "" + "0" * (4 - len(number))
 	utteranceLabelFile = codecs.open("labels/ARA NORM  " + zeros + number + ".lab", "w", "utf-8")
+
 	utteranceLabelFile.write(utteranceText.replace(' - ', ' sil '))
 	utteranceLabelFile.close()
-	
+
 	utteranceText = utteranceText.split(' ')
-	
+
 	utterance = utterance.replace(u'\u0627\u064b', u'\u064b')
+	utterance = utterance.replace(u'\u0640', u'')
 	utterance = utterance.replace(u'\u0652', u'')
 	utterance = utterance.replace(u'\u064e\u0627', u'\u0627')
 	utterance = utterance.replace(u'\u064e\u0649', u'\u0649')
@@ -284,5 +287,5 @@ for utterance in utterances:
 				result += orthography + ' ' + ' '.join(pronunciation) + '\n'
 			
 outFile = codecs.open('dict', 'w', u'utf-8')
-outFile.write(result)
+outFile.write(result.strip())
 outFile.close()
