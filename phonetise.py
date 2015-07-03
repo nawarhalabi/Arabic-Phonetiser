@@ -103,14 +103,14 @@ def isFixedWord(word, results, orthography):
 		lastLetter = [u'i0']
 	elif(lastLetter in unambiguousConsonantMap):
 		lastLetter = [unambiguousConsonantMap[lastLetter]]
-	wordConsonants = re.sub(u'[^\u0647\u0630\u0627\u0647\u0646\u0621\u0623\u0648\u0644\u0626\u0643\u0645\u064A\u0637\u062a\u0641\u062F]', '', word)
-	if(wordConsonants in fixedWords):
+	wordConsonants = re.sub(u'[^\u0647\u0630\u0627\u0647\u0646\u0621\u0623\u0648\u0644\u0626\u0643\u0645\u064A\u0637\u062a\u0641\u062F]', '', word)#Remove all dacritics from word
+	if(wordConsonants in fixedWords):#check if word is in the fixed word lookup table
 		if(isinstance(fixedWords[wordConsonants], list)):
 			for pronunciation in fixedWords[wordConsonants]:
 				if(pronunciation.split(' ')[-1] in lastLetter):
-					results += orthography + ' ' + pronunciation + '\n'
+					results += orthography + ' ' + pronunciation + '\n'#add each pronunciation to the pronunciation dictionary
 		else:
-			results += orthography + ' ' + fixedWords[wordConsonants] + '\n'
+			results += orthography + ' ' + fixedWords[wordConsonants] + '\n'#add pronunciation to the pronunciation dictionary
 	return results
 
 inputFileName = sys.argv[1]
@@ -199,24 +199,26 @@ for utterance in utterances:
 				#----------------------------------------------------------------------------------------------------------------
 				if(letter in vowelMap):
 					if(letter in [u'\u0648', u'\u064a']): #Waw and Ya are complex they could be consonants or vowels and their gemination is complex as it could be a combination of a vowel and consonants
-						if(letter1 in diacriticsWithoutShadda + [u'\u0627'] or (letter1 in [u'\u0648', u'\u064a'] and not letter2 in diacritics + [u'\u0627', u'\u0648', u'\u064a']) or (letter_1 in diacriticsWithoutShadda and letter1 in consonants)):
-							if((letter in [u'\u0648'] and letter_1 in [u'\u064f']) or (letter in [u'\u064a'] and letter_1 in [u'\u0650'])):
+						if(letter1 in diacriticsWithoutShadda + [u'\u0627', u'\u0649'] or (letter1 in [u'\u0648', u'\u064a'] and not letter2 in diacritics + [u'\u0627', u'\u0648', u'\u064a']) or (letter_1 in diacriticsWithoutShadda and letter1 in consonants)):
+							if((letter in [u'\u0648'] and letter_1 in [u'\u064f'] and not letter1 in [u'\u064e', u'\u0650', u'\u0627', u'\u0649']) or (letter in [u'\u064a'] and letter_1 in [u'\u0650'] and not letter1 in [u'\u064e', u'\u064f', u'\u0627', u'\u0649'])):
 								if(emphaticContext):
 									phones += [vowelMap[letter][1][0]]
 								else:
 									phones += [vowelMap[letter][0][0]]
 							else:
-								phones += [ambiguousConsonantMap[letter]]
+								if(letter1 in [u'\u0627'] and letter in [u'\u0648'] and letter2 in [u'e']):
+									phones += [[ambiguousConsonantMap[letter], vowelMap[letter][0][0]]]
+								else:
+									phones += [ambiguousConsonantMap[letter]]
 						elif(letter1 in [u'\u0651']):
 							if(letter_1 in [u'\u064e'] or (letter in [u'\u0648'] and letter_1 in [u'\u0650', u'\u064a']) or (letter in [u'\u064a'] and letter_1 in [u'\u0648', u'\u064f'])):
 								phones += [ambiguousConsonantMap[letter], ambiguousConsonantMap[letter]]
 							else:
 								phones += [vowelMap[letter][0][0], ambiguousConsonantMap[letter]]
-						else:
+						else:#Waws and Ya's at the end of the word could be shortened
 							if(emphaticContext):
 								if(letter_1 in consonants + [u'\u064f', u'\u0650'] and letter1 in [u'e']):
 									phones += [[vowelMap[letter][1][0], vowelMap[letter][1][0][1:]]]
-									print phones
 								else:
 									phones += [vowelMap[letter][1][0]]
 							else:
@@ -240,7 +242,7 @@ for utterance in utterances:
 							phones += [[vowelMap[letter][0][0], u'a']]
 						elif(letter in [u'\u0627'] and letter_1 in [u'\u064f', u'\u0650']):
 							temp = True #do nothing
-						elif(letter in [u'\u0627'] and letter_1 in [u'\u0648'] and letter1 in [u'e']):
+						elif(letter in [u'\u0627'] and letter_1 in [u'\u0648'] and letter1 in [u'e']): #Waw al jama3a: The Alif after is optional
 							phones += [[vowelMap[letter][0][0], vowelMap[letter][0][1]]]
 						elif(letter in [u'\u0627', u'\u0649'] and letter1 in [u'e']):
 							if(emphaticContext):
@@ -280,6 +282,9 @@ for utterance in utterances:
 					if(letter in ['u0', 'i0'] and prevLetter.lower() == letter.lower()):
 						toDelete.append(i - 1)
 						pronunciation[i] = pronunciation[i - 1]
+					if(letter in ['y', 'w'] and prevLetter == letter):
+						pronunciation[i - 1] += pronunciation[i - 1]
+						toDelete.append(i);
 					
 					prevLetter = letter
 				for i in reversed(range(0, len(toDelete))):

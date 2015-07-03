@@ -46,6 +46,8 @@
 <iboraAhiymi AH i0 b r aa h ii0 m i0
 <iboraAhiymo AH i0 b r aa h ii0 m
 <ibotakara AH i0 b t a k a r a
+<ibotakaruwA AH i0 b t a k a r u0 w
+<ibotakaruwA AH i0 b t a k a r u0 w aa
 <ibotakaruwA AH i0 b t a k a r uu0
 <ibotakaruwA AH i0 b t a k a r uu0 aa
 <idomaAni AH i0 d m aa n i0
@@ -145,12 +147,12 @@
 <itaAHatuhaA AH i0 t aa H a t u0 h aa
 <itoyaAno AH i0 t y aa n
 <it~ifaAqiy~apu AH i0 tt i0 f AA q II0 y a t u0
-<iw~wmN AH i0 w w uu0 m u1 n
+<iw~wmN AH i0 ww uu0 m u1 n
 <iySobara AH ii0 S b a r a
-<iyaAhumaA AH ii0 aa h u0 m a
-<iyaAhumaA AH ii0 aa h u0 m aa
-<iyafuw AH ii0 a f u0
-<iyafuw AH ii0 a f uu0
+<iyaAhumaA AH i0 y aa h u0 m a
+<iyaAhumaA AH i0 y aa h u0 m aa
+<iyafuw AH i0 y a f u0
+<iyafuw AH i0 y a f uu0
 <iybuwlaA AH ii0 b uu0 l a
 <iybuwlaA AH ii0 b uu0 l aa
 <iydaA AH ii0 d a
@@ -305,7 +307,7 @@
 >ajosaAmihumu AH a j s aa m i0 h u0 m u0
 >ajowaA'K AH a j w aa AH i1 n
 >ajozaA'K AH a j z aa AH i1 n
->akaAdiymiyapi AH a k aa d ii0 m ii0 a t i0
+>akaAdiymiyapi AH a k aa d ii0 m i0 y a t i0
 >ako^ara AH a k ^ a r a
 >ako^aru AH a k ^ a r u0
 >akobara AH a k b a r a
@@ -331,7 +333,7 @@
 >alTH~ahabiy~i AH a THTH a h a b ii0 y i0
 >alT~aAhir AH a TT AA h i1 r
 >alT~abiybu AH a TT A b ii0 b u0
->alT~ay~ib AH a TT A y y i1 b
+>alT~ay~ib AH a TT A yy i1 b
 >alT~ifolu AH a TT I0 f l u0
 >alZ~aAhirapi AH a ZZ AA h i0 r a t i0
 >al^~Ali^a AH a ^^ aa l i0 ^ a
@@ -349,7 +351,7 @@
 >alfK AH a l f i1 n
 >alfayni AH a l f a y n i0
 >alfayoni AH a l f a y n i0
->alfay~o AH a l f a y y
+>alfay~o AH a l f a yy
 >alhaAno AH a l h aa n
 >aliAbotidaA}iy~api AH a l i0 b t i0 d aa AH ii0 y a t i0
 >alj~amoEiy~apu AH a jj a m E ii0 y a t u0
@@ -361,10 +363,10 @@
 >aln~aq~ra AH a nn A qq r a
 >aln~awoEu AH a nn a w E u0
 >aln~awomu AH a nn a w m u0
->aln~iyuwziylanodiy AH a nn ii0 uu0 z ii0 l a n d i0
->aln~iyuwziylanodiy AH a nn ii0 uu0 z ii0 l a n d ii0
+>aln~iyuwziylanodiy AH a nn i0 y uu0 z ii0 l a n d i0
+>aln~iyuwziylanodiy AH a nn i0 y uu0 z ii0 l a n d ii0
 >aln~usoxapu AH a nn u0 s x A t U0
->alo<iHotiyaATiy~i AH a l AH i0 H t ii0 AA T II0 y i0
+>alo<iHotiyaATiy~i AH a l AH i0 H t i0 y AA T II0 y i0
 >alo<iTHona AH a l AH i0 TH n a
 >alo<ibilu AH a l AH i0 b i0 l u0
 >alo<ilikotruwniy~apu AH a l AH i0 l i0 k t r uu0 n ii0 y a t u0
@@ -473,11 +475,11 @@
 >aloka^iyra AH a l k a ^ ii0 r a
 >aloka^iyru AH a l k a ^ ii0 r u0
 >alokasorapu AH a l k a s r a t u0
->alokiymiyaA'u AH a l k ii0 m ii0 aa AH u0
+>alokiymiyaA'u AH a l k ii0 m i0 y aa AH u0
 >alokiyny~u AH a l k ii0 n ii0 y u0
 >alomaAliy~api AH a l m aa l ii0 y a t i0
->alomaAniyaA AH a l m aa n ii0 a
->alomaAniyaA AH a l m aa n ii0 aa
+>alomaAniyaA AH a l m aa n i0 y a
+>alomaAniyaA AH a l m aa n i0 y aa
 >alomaAnoyaA AH a l m aa n y a
 >alomaAnoyaA AH a l m aa n y aa
 >alomaEoruwDapi AH a l m a E r uu0 D A t I0
@@ -505,7 +507,7 @@
 >alomi}awiy~api AH a l m i0 AH a w ii0 y a t i0
 >alomuDoribi AH a l m U0 D r i0 b i0
 >alomuEolanapi AH a l m u0 E l a n a t i0
->alomuHaATHiyapi AH a l m u0 H aa TH ii0 a t i0
+>alomuHaATHiyapi AH a l m u0 H aa TH i0 y a t i0
 >alomuSan~afu AH a l m U0 S A nn a f u0
 >alomuToribu AH a l m U0 T r i0 b u0
 >alomu^aq~afiyna AH a l m u0 ^ A qq A f ii0 n a
@@ -523,7 +525,7 @@
 >alomusaAbaqapu AH a l m u0 s aa b A q A t U0
 >alomusaj~alapi AH a l m u0 s a jj a l a t i0
 >alomuta>al~iqi AH a l m u0 t a AH a ll I0 q I0
->alomutakaw~anapa AH a l m u0 t a k a w w a n a t a
+>alomutakaw~anapa AH a l m u0 t a k a ww a n a t a
 >alomutama^~ili AH a l m u0 t a m a ^^ i0 l i0
 >alomutaqad~imapi AH a l m u0 t A q A dd i0 m a t i0
 >alomutaxaS~iSi AH a l m u0 t a x A SS I0 S I0
@@ -547,8 +549,8 @@
 >aloxaDoraA'u AH a l x A D r aa AH u0
 >aloxafoD AH a l x A f D
 >aloxamiysa AH a l x A m ii0 s a
->aloxiyaAr AH a l x II0 aa r
->aloxiyaAra AH a l x II0 aa r a
+>aloxiyaAr AH a l x I0 y aa r
+>aloxiyaAra AH a l x I0 y aa r a
 >aloyAbAniy AH a l y aa b aa n i0
 >aloyAbAniy AH a l y aa b aa n ii0
 >aloyaAbaAniy~apa AH a l y aa b aa n ii0 y a t a
@@ -576,7 +578,7 @@
 >als~iynamaA}iy~i AH a ss ii0 n a m aa AH ii0 y i0
 >als~uEuwdiy~apu AH a ss u0 E uu0 d ii0 y a t u0
 >altoraAyA^oluwno AH a l t r aa y aa ^ l uu0 n
->alt~agoTiyaAti AH a tt a g T II0 aa t i0
+>alt~agoTiyaAti AH a tt a g T I0 y aa t i0
 >alt~iTowaAniy~a AH a tt I0 T w aa n ii0 y a
 >alt~iqoniy~apu AH a tt I0 q n ii0 y a t u0
 >al|na AH a l AH aa n a
@@ -615,7 +617,7 @@
 >anoSHiTapK AH a n SH I0 T A t I1 n
 >anoSHiTatihi AH a n SH I0 T A t i0 h i0
 >anoZimapi AH a n Z I0 m a t i0
->anodoriyAs AH a n d r ii0 aa s
+>anodoriyAs AH a n d r i0 y aa s
 >anohaAri AH a n h aa r i0
 >anojiylaA AH a n j ii0 l a
 >anojiylaA AH a n j ii0 l aa
@@ -634,8 +636,8 @@
 >aqodama AH A q d a m a
 >aqomiSHapN AH A q m i0 SH a t u1 n
 >aqorabu AH A q r a b u0
->aqowaY AH A q uu0 a
->aqowaY AH A q uu0 aa
+>aqowaY AH A q w a
+>aqowaY AH A q w aa
 >arADiy AH a r AA D I0
 >arADiy AH a r AA D II0
 >arbaEapa AH a r b a E a t a
@@ -710,15 +712,15 @@
 >awozokaAno AH a w z k aa n
 >awruwgowaAy AH a w r uu0 g w aa ii0
 >awsobara AH a w s b a r a
->aw~aAmN AH a w w aa m u1 n
->aw~ala AH a w w a l a
->aw~alaAF AH a w w a l a a n
->aw~ali AH a w w a l i0
->aw~aliy~apK AH a w w a l ii0 y a t i1 n
->aw~alu AH a w w a l u0
->aw~aluhaA AH a w w a l u0 h a
->aw~aluhaA AH a w w a l u0 h aa
->aw~ymN AH a w w ii0 m u1 n
+>aw~aAmN AH a ww aa m u1 n
+>aw~ala AH a ww a l a
+>aw~alaAF AH a ww a l a a n
+>aw~ali AH a ww a l i0
+>aw~aliy~apK AH a ww a l ii0 y a t i1 n
+>aw~alu AH a ww a l u0
+>aw~aluhaA AH a ww a l u0 h a
+>aw~aluhaA AH a ww a l u0 h aa
+>aw~ymN AH a ww ii0 m u1 n
 >axoTaA'K AH a x T AA AH i1 n
 >aySobara AH a y S b a r a
 >ayaquwnapi AH a y A q UU0 n a t i0
@@ -730,31 +732,31 @@
 >aysobara AH a y s b a r a
 >ayuwmiy AH a y uu0 m i0
 >ayuwmiy AH a y uu0 m ii0
->ay~aAmAF AH a y y aa m a n
->ay~aAmK AH a y y aa m i1 n
->ay~aAmN AH a y y aa m u1 n
->ay~aAmi AH a y y aa m i0
->ay~aAmo AH a y y aa m
->ay~aAro AH a y y aa r
->ay~aHoSula AH a y y a H S U0 l a
->ay~aboda>a AH a y y a b d a AH a
->ay~i AH a y y i0
->ay~u AH a y y u0
->ay~uhaA AH a y y u0 h a
->ay~uhaA AH a y y u0 h aa
->ay~uxil~a AH a y y u0 x I0 ll a
->ay~wmN AH a y y uu0 m u1 n
+>ay~aAmAF AH a yy aa m a n
+>ay~aAmK AH a yy aa m i1 n
+>ay~aAmN AH a yy aa m u1 n
+>ay~aAmi AH a yy aa m i0
+>ay~aAmo AH a yy aa m
+>ay~aAro AH a yy aa r
+>ay~aHoSula AH a yy a H S U0 l a
+>ay~aboda>a AH a yy a b d a AH a
+>ay~i AH a yy i0
+>ay~u AH a yy u0
+>ay~uhaA AH a yy u0 h a
+>ay~uhaA AH a yy u0 h aa
+>ay~uxil~a AH a yy u0 x I0 ll a
+>ay~wmN AH a yy uu0 m u1 n
 >uHofuwriy~aAtK AH u0 H f uu0 r ii0 y aa t i1 n
 >uSiybaA AH U0 S II0 b a
 >uSiybaA AH U0 S II0 b aa
 >uSobara AH U0 S b a r a
 >uSuwlK AH U0 S UU0 l i1 n
 >ubika AH u0 b i0 k a
->ugoniyapa AH u0 g n ii0 a t a
->uhodiya AH u0 h d ii0 a
->ujoriyato AH u0 j r ii0 a t
+>ugoniyapa AH u0 g n i0 y a t a
+>uhodiya AH u0 h d i0 y a
+>ujoriyato AH u0 j r i0 y a t
 >ukosiydi AH u0 k s ii0 d i0
->uloqiyato AH u0 l q II0 a t
+>uloqiyato AH u0 l q I0 y a t
 >umami AH u0 m a m i0
 >umanaA'i AH u0 m a n aa AH i0
 >um~ihi AH u0 mm i0 h i0
@@ -789,9 +791,9 @@
 >uwruwb~aA AH uu0 r uu0 bb aa
 >uxoraY AH u0 x r a
 >uxoraY AH u0 x r aa
->uy~ymN AH u0 y y ii0 m u1 n
+>uy~ymN AH u0 yy ii0 m u1 n
 >~an~a AHAH a nn a
->~ay~u AHAH a y y u0
+>~ay~u AHAH a yy u0
 AEotabarato E t a b a r a t
 AEotiTHaAri E t i0 TH aa r i0
 AEotinaAqihi E t i0 n AA q I0 h i0
@@ -814,8 +816,10 @@ AboraAhiymuwfiytoSH b r aa h ii0 m uu0 f ii0 t SH
 AbotidaA'F b t i0 d aa AH a n
 AbotisaAmapN b t i0 s aa m a t u1 n
 AfotitaAHi f t i0 t aa H i0
-AgotiyaAlK g t ii0 aa l i1 n
+AgotiyaAlK g t i0 y aa l i1 n
 AhotimaAma h t i0 m aa m a
+AkotaSHafuwA k t a SH a f u0 w
+AkotaSHafuwA k t a SH a f u0 w aa
 AkotaSHafuwA k t a SH a f uu0
 AkotaSHafuwA k t a SH a f uu0 aa
 AkotafaY k t a f a
@@ -853,7 +857,7 @@ AlD~ifapi DD I0 f a t i0
 AlD~if~api DD I0 ff a t i0
 AlD~uw'i DD UU0 AH i0
 AlEiSHoriyna l E i0 SH r ii0 n a
-AlE~ay~inaAti EE a y y i0 n aa t i0
+AlE~ay~inaAti EE a yy i0 n aa t i0
 AlSH~aASHapi SHSH aa SH a t i0
 AlSH~aAbu SHSH aa b u0
 AlSH~aAmiy SHSH aa m i0
@@ -948,20 +952,20 @@ AlS~inaAEaAti SS I0 n aa E aa t i0
 AlS~inaAEiy~api SS I0 n aa E ii0 y a t i0
 AlS~iraAEi SS I0 r aa E i0
 AlS~irobiy~u SS I0 r b ii0 y u0
-AlS~iyaAma SS II0 aa m a
-AlS~iyaAmi SS II0 aa m i0
-AlS~iyaAnapi SS II0 aa n a t i0
+AlS~iyaAma SS I0 y aa m a
+AlS~iyaAmi SS I0 y aa m i0
+AlS~iyaAnapi SS I0 y aa n a t i0
 AlS~iyni SS II0 n i0
 AlS~iyniy~api SS II0 n ii0 y a t i0
 AlS~iyniy~uwna SS II0 n ii0 y uu0 n a
 AlS~iyno SS II0 n
-AlS~uwari SS UU0 a r i0
-AlS~uwaru SS UU0 a r u0
+AlS~uwari SS U0 w a r i0
+AlS~uwaru SS U0 w a r u0
 AlS~uwyaA SS UU0 y a
 AlS~uwyaA SS UU0 y aa
 AlTH~aAkirapi THTH aa k i0 r a t i0
 AlTH~ahaAbi THTH a h aa b i0
-AlTH~ahabay~ap THTH a h a b a y y a
+AlTH~ahabay~ap THTH a h a b a yy a
 AlTH~ahabi THTH a h a b i0
 AlTH~ahabiy~api THTH a h a b ii0 y a t i0
 AlTH~ahabiy~apu THTH a h a b ii0 y a t u0
@@ -976,7 +980,7 @@ AlTH~axiyrapi THTH a x II0 r a t i0
 AlTH~ihoniy~i THTH i0 h n ii0 y i0
 AlTH~ikoraY THTH i0 k r a
 AlTH~ikoraY THTH i0 k r aa
-AlTH~ikoriyaAti THTH i0 k r ii0 aa t i0
+AlTH~ikoriyaAti THTH i0 k r i0 y aa t i0
 AlTH~uywli THTH u0 y uu0 l i0
 AlT~aAlibi TT AA l i0 b i0
 AlT~aAqapi TT AA q A t I0
@@ -1025,9 +1029,9 @@ Al^~aAminapi ^^ aa m i0 n a t i0
 Al^~aAmini ^^ aa m i0 n i0
 Al^~aAniy ^^ aa n i0
 Al^~aAniy ^^ aa n ii0
-Al^~aAniya ^^ aa n ii0 a
-Al^~aAniyapi ^^ aa n ii0 a t i0
-Al^~aAniyapu ^^ aa n ii0 a t u0
+Al^~aAniya ^^ aa n i0 y a
+Al^~aAniyapi ^^ aa n i0 y a t i0
+Al^~aAniyapu ^^ aa n i0 y a t u0
 Al^~aAniy~api ^^ aa n ii0 y a t i0
 Al^~aAny ^^ aa n i0
 Al^~aAny ^^ aa n ii0
@@ -1097,8 +1101,8 @@ Ald~iyni dd ii0 n i0
 Ald~iyniy~api dd ii0 n ii0 y a t i0
 Ald~iywaAnu dd ii0 w aa n u0
 Ald~iyzali dd ii0 z a l i0
-Ald~uwala dd uu0 a l a
-Ald~uwali dd uu0 a l i0
+Ald~uwala dd u0 w a l a
+Ald~uwali dd u0 w a l i0
 Ald~uwlaAraAti dd uu0 l aa r aa t i0
 Ald~uwoliy~i dd uu0 l ii0 y i0
 Ald~ynaASuwraAti dd ii0 n AA S UU0 r aa t i0
@@ -1109,7 +1113,7 @@ Alj~aAmiEiy~api jj aa m i0 E ii0 y a t i0
 Alj~aliydiy~api jj a l ii0 d ii0 y a t i0
 Alj~awaA}izi jj a w aa AH i0 z i0
 Alj~awolapi jj a w l a t i0
-Alj~aw~iy~api jj a w w ii0 y a t i0
+Alj~aw~iy~api jj a ww ii0 y a t i0
 Alj~ihaAzi jj i0 h aa z i0
 Alj~umoEapa jj u0 m E a t a
 Alj~umuEapi jj u0 m u0 E a t i0
@@ -1192,8 +1196,8 @@ Aln~asiyo nn a s ii0
 Aln~ataA}iji nn a t aa AH i0 j i0
 Aln~ataA}iju nn a t aa AH i0 j u0
 Aln~atiyjapi nn a t ii0 j a t i0
-Aln~awaY nn a uu0 a
-Aln~awaY nn a uu0 aa
+Aln~awaY nn a w a
+Aln~awaY nn a w aa
 Aln~awawiy~i nn a w a w ii0 y i0
 Aln~awoEi nn a w E i0
 Aln~awoEu nn a w E u0
@@ -1234,7 +1238,7 @@ Alo<iSHogaAli l AH i0 SH g AA l i0
 Alo<iSaAbapi l AH I0 S AA b a t i0
 Alo<iSaAbapu l AH I0 S AA b a t u0
 Alo<iSoTinaAEiy~i l AH I0 S T I0 n aa E ii0 y i0
-Alo<iSoTiyaAfi l AH I0 S T II0 aa f i0
+Alo<iSoTiyaAfi l AH I0 S T I0 y aa f i0
 Alo<iTHoni l AH i0 TH n i0
 Alo<iTaAri l AH I0 T AA r i0
 Alo<iTolaAqi l AH I0 T l AA q I0
@@ -1369,7 +1373,7 @@ Alo>a^aA^i l AH a ^ aa ^ i0
 Alo>aboEaAdi l AH a b E aa d i0
 Alo>aboHaA^a l AH a b H aa ^ a
 Alo>aboTaAli l AH a b T AA l i0
-Alo>aboniyapi l AH a b n ii0 a t i0
+Alo>aboniyapi l AH a b n i0 y a t i0
 Alo>aboyaDi l AH a b y A D I0
 Alo>adabiy~i l AH a d a b ii0 y i0
 Alo>afoDala l AH a f D A l a
@@ -1452,10 +1456,10 @@ Alo>asowaAqi l AH a s w AA q I0
 Alo>awaA}ilu l AH a w aa AH i0 l u0
 Alo>awoDaAEu l AH a w D AA E u0
 Alo>awolaAdi l AH a w l aa d i0
-Alo>aw~ala l AH a w w a l a
-Alo>aw~ali l AH a w w a l i0
-Alo>aw~aliy~api l AH a w w a l ii0 y a t i0
-Alo>aw~alo l AH a w w a l
+Alo>aw~ala l AH a ww a l a
+Alo>aw~ali l AH a ww a l i0
+Alo>aw~aliy~api l AH a ww a l ii0 y a t i0
+Alo>aw~alo l AH a ww a l
 Alo>axaS~i l AH a x A SS I0
 Alo>axiyoru l AH a x II0 r u0
 Alo>axiyrapa l AH a x II0 r a t a
@@ -1466,8 +1470,8 @@ Alo>axoSHaAbi l AH a x SH aa b i0
 Alo>axobaAri l AH a x b aa r i0
 Alo>axobaAru l AH a x b aa r u0
 Alo>axolaAqi l AH a x l AA q I0
-Alo>ay~aAmo l AH a y y aa m
-Alo>ay~aAmu l AH a y y aa m u0
+Alo>ay~aAmo l AH a yy aa m
+Alo>ay~aAmu l AH a yy aa m u0
 Alo>azomapi l AH a z m a t i0
 Alo>azoyaA'i l AH a z y aa AH i0
 Alo>uHofuwriy~aAti l AH u0 H f uu0 r ii0 y aa t i0
@@ -1515,8 +1519,8 @@ AloEaAlamu l E aa l a m u0
 AloEaAlimi l E aa l i0 m i0
 AloEaAliy l E aa l i0
 AloEaAliy l E aa l ii0
-AloEaAliyapi l E aa l ii0 a t i0
-AloEaAliyapu l E aa l ii0 a t u0
+AloEaAliyapi l E aa l i0 y a t i0
+AloEaAliyapu l E aa l i0 y a t u0
 AloEaAma l E aa m a
 AloEaAmapu l E aa m a t u0
 AloEaAmi l E aa m i0
@@ -1526,7 +1530,7 @@ AloEaAm~api l E aa mm a t i0
 AloEaAm~i l E aa mm i0
 AloEaAm~iy~api l E aa mm ii0 y a t i0
 AloEaAm~u l E aa mm u0
-AloEaAtiyapu l E aa t ii0 a t u0
+AloEaAtiyapu l E aa t i0 y a t u0
 AloEaA}idaAti l E aa AH i0 d aa t i0
 AloEaSHarapu l E a SH a r a t u0
 AloEaSabiy~a l E A S A b ii0 y a
@@ -1540,8 +1544,8 @@ AloEadiyda l E a d ii0 d a
 AloEadiydi l E a d ii0 d i0
 AloEadiydu l E a d ii0 d u0
 AloEadoli l E a d l i0
-AloEadowaY l E a d uu0 a
-AloEadowaY l E a d uu0 aa
+AloEadowaY l E a d w a
+AloEadowaY l E a d w aa
 AloEad~A'apu l E a dd aa AH a t u0
 AloEad~aA'aAtu l E a dd aa AH aa t u0
 AloEad~aA'i l E a dd aa AH i0
@@ -1650,8 +1654,8 @@ AloHad~i l H a dd i0
 AloHajiyji l H a j ii0 j i0
 AloHajozu l H a j z u0
 AloHalobi l H a l b i0
-AloHalowaY l H a l uu0 a
-AloHalowaY l H a l uu0 aa
+AloHalowaY l H a l w a
+AloHalowaY l H a l w aa
 AloHal~aAqo l H a ll AA q
 AloHamiydi l H a m ii0 d i0
 AloHamiymiy~api l H a m ii0 m ii0 y a t i0
@@ -1671,7 +1675,7 @@ AloHayaApa l H a y aa t a
 AloHayaApi l H a y aa t i0
 AloHayawiy~api l H a y a w ii0 y a t i0
 AloHayawiy~i l H a y a w ii0 y i0
-AloHay~aAno l H a y y aa n
+AloHay~aAno l H a yy aa n
 AloHifaAZi l H i0 f AA Z I0
 AloHimoDiy~aAtu aa l H i0 m D II0 y aa t u0
 AloHiqobapi l H I0 q b a t i0
@@ -1752,7 +1756,7 @@ AlobaronaAmaju l b a r n aa m a j u0
 AlobasaATapi l b a s AA T A t I0
 AlobasiyTapi l b a s ii0 T A t I0
 AlobasiyTapu l b a s ii0 T A t U0
-Alobaw~aAbapi l b a w w aa b a t i0
+Alobaw~aAbapi l b a ww aa b a t i0
 AlobayaAnaAti l b a y aa n aa t i0
 AlobayaAnu l b a y aa n u0
 AlobayoDaA'i l b a y D AA AH i0
@@ -1822,7 +1826,7 @@ Alofat~aAH l f a tt aa H
 Alofat~aAHi l f a tt aa H i0
 AlofawoDawiy~a l f a w D A w ii0 y a
 Alofawori l f a w r i0
-Alofaw~aAHapa l f a w w aa H a t a
+Alofaw~aAHapa l f a ww aa H a t a
 AlofiD~iy l f I0 DD I0
 AlofiD~iy l f I0 DD II0
 Alofijoli l f i0 j l i0
@@ -1888,7 +1892,7 @@ Alohujuwmi l h u0 j uu0 m i0
 Alohumuwmi l h u0 m uu0 m i0
 Alohuwlanodiy~i l h uu0 l a n d ii0 y i0
 Alohuwni l h uu0 n i0
-AlojaAliyaAti l j aa l ii0 aa t i0
+AlojaAliyaAti l j aa l i0 y aa t i0
 AlojaAliy~api l j aa l ii0 y a t i0
 AlojaAmaAyokiy~i l j aa m aa ii0 k ii0 y i0
 AlojaAnibi l j aa n i0 b i0
@@ -1915,10 +1919,10 @@ AlojawoEaY l j a w E a
 AlojawoEaY l j a w E aa
 Alojawofiy~api l j a w f ii0 y a t i0
 Alojawolapi l j a w l a t i0
-Alojaw~aAlapi l j a w w aa l a t i0
-Alojaw~i l j a w w i0
-Alojaw~iy~api l j a w w ii0 y a t i0
-Alojaw~y~api l j a w w ii0 y a t i0
+Alojaw~aAlapi l j a ww aa l a t i0
+Alojaw~i l j a ww i0
+Alojaw~iy~api l j a ww ii0 y a t i0
+Alojaw~y~api l j a ww ii0 y a t i0
 AlojazaA}iri l j a z aa AH i0 r i0
 AlojazaA}iriy~u l j a z aa AH i0 r ii0 y u0
 Alojazari l j a z a r i0
@@ -1994,17 +1998,17 @@ Alokul~iy~api l k u0 ll ii0 y a t i0
 Alokurodiy~i l k u0 r d ii0 y i0
 Alokutolapi l k u0 t l a t i0
 Alokutubi l k u0 t u0 b i0
-Alokuwayokiba l k uu0 a y k i0 b a
-Alokuwayoti l k uu0 a y t i0
-Alokuwayotiy~o l k uu0 a y t ii0 y
+Alokuwayokiba l k u0 w a y k i0 b a
+Alokuwayoti l k u0 w a y t i0
+Alokuwayotiy~o l k u0 w a y t ii0 y
 Alokuwliysotoruwli l k uu0 l ii0 s t r uu0 l i0
 Alokuwnogorisu l k uu0 n g r i0 s u0
 AlomaA'i l m aa AH i0
 AlomaADiy l m AA D I0
 AlomaADiy l m AA D II0
-AlomaADiya l m AA D II0 a
-AlomaADiyapi l m AA D II0 a t i0
-AlomaADiyayoni l m AA D II0 a y n i0
+AlomaADiya l m AA D I0 y a
+AlomaADiyapi l m AA D I0 y a t i0
+AlomaADiyayoni l m AA D I0 y a y n i0
 AlomaADiy~api l m AA D II0 y a t i0
 AlomaAdiy~api l m aa d ii0 y a t i0
 AlomaAd~apa l m aa dd a t a
@@ -2148,7 +2152,7 @@ AlomawotaY l m a w t aa
 Alomawozi l m a w z i0
 AlomaxaAwifi l m a x AA w i0 f i0
 AlomaxoluwEi l m a x l uu0 E i0
-Alomay~aAsapi l m a y y aa s a t i0
+Alomay~aAsapi l m a yy aa s a t i0
 Alomaziydi l m a z ii0 d i0
 AlomiSoriy~a l m I0 S r ii0 y a
 AlomiSoriy~apa l m I0 S r ii0 y a t a
@@ -2162,7 +2166,7 @@ Alomigonisoywmo l m i0 g n i0 s y uu0 m
 AlomihorajaAni l m i0 h r a j aa n i0
 AlomihorajaAnu l m i0 h r a j aa n u0
 AlomilaAHapi l m i0 l aa H a t i0
-AlomiyaAhi l m ii0 aa h i0
+AlomiyaAhi l m i0 y aa h i0
 AlomiykaAniykiy~api l m ii0 k aa n ii0 k ii0 y a t i0
 AlomiylaAdi l m ii0 l aa d i0
 Alomi}ap l m i0 AH a
@@ -2202,8 +2206,8 @@ AlomuHiyTayoni l m u0 H ii0 T A y n i0
 AlomuHiyTi l m u0 H ii0 T I0
 AlomuHotaj~iyna l m u0 H t a jj ii0 n a
 AlomuHotamali l m u0 H t a m a l i0
-AlomuHotawaY l m u0 H t a uu0 a
-AlomuHotawaY l m u0 H t a uu0 aa
+AlomuHotawaY l m u0 H t a w a
+AlomuHotawaY l m u0 H t a w aa
 AlomuSHaAhidiyno l m u0 SH aa h i0 d ii0 n
 AlomuSHaArikapa l m u0 SH aa r i0 k a t a
 AlomuSHaArikiyna l m u0 SH aa r i0 k ii0 n a
@@ -2219,7 +2223,7 @@ AlomuSoHafi l m U0 S H a f i0
 AlomuTHah~abapi l m u0 TH a hh a b a t i0
 AlomuTHan~abi l m u0 TH a nn a b i0
 AlomuTaAbiqapi l m U0 T AA b I0 q A t I0
-AlomuTaw~aru l m U0 T A w w a r u0
+AlomuTaw~aru l m U0 T A ww a r u0
 AlomuT~aridi l m U0 TT A r i0 d i0
 Alomu^al~a^i l m u0 ^ a ll a ^ i0
 Alomu^an~aY l m u0 ^ a nn a
@@ -2262,11 +2266,11 @@ AlomukaAfiHapi l m u0 k aa f i0 H a t i0
 Alomuka^~afa l m u0 k a ^^ a f a
 Alomuka^~afapi l m u0 k a ^^ a f a t i0
 Alomukar~amapa l m u0 k a rr a m a t a
-Alomukaw~anu l m u0 k a w w a n u0
+Alomukaw~anu l m u0 k a ww a n u0
 Alomukotasabi l m u0 k t a s a b i0
 AlomulaAHaZaAti l m u0 l aa H A Z AA t i0
 AlomumaArasaAtu l m u0 m aa r a s aa t u0
-Alomumay~azapi l m u0 m a y y a z a t i0
+Alomumay~azapi l m u0 m a yy a z a t i0
 Alomumokini l m u0 m k i0 n i0
 AlomumotaAzi l m u0 m t aa z i0
 AlomunaAfisi l m u0 n aa f i0 s i0
@@ -2282,7 +2286,7 @@ AlomunaZ~amapi l m u0 n A ZZ A m a t i0
 AlomunaZ~amapu l m u0 n A ZZ A m a t u0
 AlomunaZ~imapu l m u0 n A ZZ I0 m a t u0
 AlomunaZ~imuwna l m u0 n A ZZ I0 m uu0 n a
-Alomunaw~arapi l m u0 n a w w a r a t i0
+Alomunaw~arapi l m u0 n a ww a r a t i0
 AlomunoSHa>apu l m u0 n SH a AH a t u0
 AlomunoSHaq~u l m u0 n SH A qq U0
 AlomunoSHidu l m u0 n SH i0 d u0
@@ -2343,11 +2347,11 @@ AlomusotaxolaSu l m u0 s t a x l A S U0
 AlomutaEaArafi l m u0 t a E aa r a f i0
 AlomutaEal~iqapi l m u0 t a E a ll I0 q A t I0
 AlomutaSaH~irapi l m u0 t A S A HH i0 r a t i0
-AlomutaTaw~irapi l m u0 t A T A w w i0 r a t i0
+AlomutaTaw~irapi l m u0 t A T A ww i0 r a t i0
 AlomutaZaAhiruwna l m u0 t A Z AA h i0 r uu0 n a
-Alomutajaw~ila l m u0 t a j a w w i0 l a
-Alomutajaw~iliyna l m u0 t a j a w w i0 l ii0 n a
-Alomutamay~izi l m u0 t a m a y y i0 z i0
+Alomutajaw~ila l m u0 t a j a ww i0 l a
+Alomutajaw~iliyna l m u0 t a j a ww i0 l ii0 n a
+Alomutamay~izi l m u0 t a m a yy i0 z i0
 AlomutanaAZirapi l m u0 t a n AA Z I0 r a t i0
 AlomutanaAwalapi l m u0 t a n aa w a l a t i0
 Alomutan~aq~ilapi l m u0 t a nn A qq I0 l a t i0
@@ -2363,13 +2367,13 @@ Alomutawaq~aEapu l m u0 t a w A qq A E a t u0
 Alomutawas~iTapi l m u0 t a w a ss I0 T A t I0
 Alomutawas~iTi l m u0 t a w a ss I0 T I0
 AlomutaxaS~iSapi l m u0 t a x A SS I0 S A t I0
-Alomutazaw~ijiyna l m u0 t a z a w w i0 j ii0 n a
+Alomutazaw~ijiyna l m u0 t a z a ww i0 j ii0 n a
 Alomut~aHidapi l m u0 tt a H i0 d a t i0
 Alomut~aHidapu l m u0 tt a H i0 d a t u0
 AlomuwSili l m uu0 S I0 l i0
-AlomuwaATinayoni l m uu0 AA T I0 n a y n i0
-Alomuwaj~ahapi l m uu0 a jj a h a t i0
-Alomuwaj~ahapu l m uu0 a jj a h a t u0
+AlomuwaATinayoni l m u0 w AA T I0 n a y n i0
+Alomuwaj~ahapi l m u0 w a jj a h a t i0
+Alomuwaj~ahapu l m u0 w a jj a h a t u0
 AlomuwnodoyaAli l m uu0 n d y aa l i0
 Alomuwozi l m uu0 z i0
 AlomuwriytaAniy~api l m uu0 r ii0 t aa n ii0 y a t i0
@@ -2447,12 +2451,12 @@ AloqiTaAru l q I0 T AA r u0
 AloqinaAEu l q I0 n aa E u0
 AloqiraA'api l q I0 r aa AH a t i0
 AloqitaAli l q I0 t aa l i0
-AloqiwaY l q I0 uu0 a
-AloqiwaY l q I0 uu0 aa
+AloqiwaY l q I0 w a
+AloqiwaY l q I0 w aa
 Aloqiy^Ari l q II0 ^ aa r i0
 Aloqiy^Aru l q II0 ^ aa r u0
-AloqiyaAmi l q II0 aa m i0
-AloqiyaAsi l q II0 aa s i0
+AloqiyaAmi l q I0 y aa m i0
+AloqiyaAsi l q I0 y aa s i0
 Aloqiymapu l q II0 m a t u0
 AloquTobiy~i l q U0 T b ii0 y i0
 AloquToniy~i l q U0 T n ii0 y i0
@@ -2462,7 +2466,7 @@ Aloqunobulapu l q U0 n b u0 l a t u0
 Aloquro|ni l q U0 r AH aa n i0
 Aloquw~aAti l q UU0 w aa t i0
 Alor~asaA}ili rr a s aa AH i0 l i0
-AlotagoTHiyapi l t a g TH ii0 a t i0
+AlotagoTHiyapi l t a g TH i0 y a t i0
 Alotamori l t a m r i0
 Alotuwnusiy~apu l t uu0 n u0 s ii0 y a t u0
 Alot~axofiyfi tt a x f ii0 f i0
@@ -2533,7 +2537,7 @@ Aloxayoro l x A y r
 Aloxidomapu l x I0 d m a t u0
 Aloxir~iyjiyna l x I0 rr ii0 j ii0 n a
 AloxitaAmiy~api l x I0 t aa m ii0 y a t i0
-AloxiyaAri l x II0 aa r i0
+AloxiyaAri l x I0 y aa r i0
 AloxuDaAri l x U0 D AA r i0
 AloxuSuwSiy~api l x U0 S UU0 S II0 y a t i0
 AloxuTowapi l x U0 T w a t i0
@@ -2566,7 +2570,7 @@ Alo|minapi l AH aa m i0 n a t i0
 Alo|n l AH aa n
 Alo|na l AH aa n a
 Alo|no l AH aa n
-Alo|soyaw~y~api l AH aa s y a w w ii0 y a t i0
+Alo|soyaw~y~api l AH aa s y a ww ii0 y a t i0
 Alo|winapi l AH aa w i0 n a t i0
 Alo|xara l AH aa x A r a
 Alo|xari l AH aa x A r i0
@@ -2609,12 +2613,12 @@ Alr~ijaAla rr i0 j aa l a
 Alr~ijaAli rr i0 j aa l i0
 Alr~imaAli rr i0 m aa l i0
 Alr~iwaAyapi rr i0 w aa y a t i0
-Alr~iyADapi rr ii0 AA D A t I0
-Alr~iyaADapi rr ii0 AA D A t I0
-Alr~iyaADapu rr ii0 AA D A t U0
-Alr~iyaADiy~api rr ii0 AA D II0 y a t i0
-Alr~iyaADiy~i rr ii0 AA D II0 y i0
-Alr~iyaADiy~uwna rr ii0 AA D II0 y uu0 n a
+Alr~iyADapi rr i0 y AA D A t I0
+Alr~iyaADapi rr i0 y AA D A t I0
+Alr~iyaADapu rr i0 y AA D A t U0
+Alr~iyaADiy~api rr i0 y AA D II0 y a t i0
+Alr~iyaADiy~i rr i0 y AA D II0 y i0
+Alr~iyaADiy~uwna rr i0 y AA D II0 y uu0 n a
 Alr~iyfi rr ii0 f i0
 Alr~iy~aADaAti rr ii0 y AA D AA t i0
 Alr~iy~aADapi rr ii0 y AA D A t I0
@@ -2682,12 +2686,12 @@ Als~ariyEi ss a r ii0 E i0
 Als~ariyEu ss a r ii0 E u0
 Als~awaA}ili ss a w aa AH i0 l i0
 Als~ayori ss a y r i0
-Als~ay~aAraAti ss a y y aa r aa t i0
-Als~ay~aAraAtu ss a y y aa r aa t u0
-Als~ay~aArapi ss a y y aa r a t i0
-Als~ay~idaAti ss a y y i0 d aa t i0
-Als~ay~idapi ss a y y i0 d a t i0
-Als~ay~idapu ss a y y i0 d a t u0
+Als~ay~aAraAti ss a yy aa r aa t i0
+Als~ay~aAraAtu ss a yy aa r aa t u0
+Als~ay~aArapi ss a yy aa r a t i0
+Als~ay~idaAti ss a yy i0 d aa t i0
+Als~ay~idapi ss a yy i0 d a t i0
+Als~ay~idapu ss a yy i0 d a t u0
 Als~ibAqi ss i0 b AA q I0
 Als~ilaAHi ss i0 l aa H i0
 Als~imonapa ss i0 m n a t a
@@ -2700,10 +2704,10 @@ Als~itaAru ss i0 t aa r u0
 Als~it~a ss i0 tt a
 Als~it~iyna ss i0 tt ii0 n a
 Als~iwiysoriy~api ss i0 w ii0 s r ii0 y a t i0
-Als~iyAsAti ss ii0 aa s aa t i0
-Als~iyaAHapi ss ii0 aa H a t i0
-Als~iyaAsiy~api ss ii0 aa s ii0 y a t i0
-Als~iyaAsiy~i ss ii0 aa s ii0 y i0
+Als~iyAsAti ss i0 y aa s aa t i0
+Als~iyaAHapi ss i0 y aa H a t i0
+Als~iyaAsiy~api ss i0 y aa s ii0 y a t i0
+Als~iyaAsiy~i ss i0 y aa s ii0 y i0
 Als~iyjaArapu ss ii0 j aa r a t u0
 Als~iylikuwno ss ii0 l i0 k uu0 n
 Als~iynamaA ss ii0 n a m a
@@ -2742,7 +2746,7 @@ Alt~aAsiEa tt aa s i0 E a
 Alt~aAsiEapi tt aa s i0 E a t i0
 Alt~aAsiEi tt aa s i0 E i0
 Alt~aDax~umi tt A D A xx U0 m i0
-Alt~aDoHiyaAti tt A D H ii0 aa t i0
+Alt~aDoHiyaAti tt A D H i0 y aa t i0
 Alt~aDoyiyqi tt A D y ii0 q I0
 Alt~aEaAbiyri tt a E aa b ii0 r i0
 Alt~aEaAdula tt a E aa d u0 l a
@@ -2758,15 +2762,15 @@ Alt~aEoliymiy~i tt a E l ii0 m ii0 y i0
 Alt~aHaAlufu tt a H aa l u0 f u0
 Alt~aHad~iy tt a H a dd i0
 Alt~aHad~iy tt a H a dd ii0
-Alt~aHad~iyaAti tt a H a dd ii0 aa t i0
+Alt~aHad~iyaAti tt a H a dd i0 y aa t i0
 Alt~aHak~umi tt a H a kk u0 m i0
-Alt~aHaw~ulaAti tt a H a w w u0 l aa t i0
+Alt~aHaw~ulaAti tt a H a ww u0 l aa t i0
 Alt~aHokiymi tt a H k ii0 m i0
 Alt~aHoqiyqu tt a H q II0 q U0
 Alt~aSHogiylo tt a SH g II0 l
 Alt~aSHokiyliy~i tt a SH k ii0 l ii0 y i0
 Alt~aSaH~uri tt A S A HH u0 r i0
-Alt~aSofiyaAti tt A S f ii0 aa t i0
+Alt~aSofiyaAti tt A S f i0 y aa t i0
 Alt~aSomiymi tt A S m ii0 m i0
 Alt~aSomiymu tt A S m ii0 m u0
 Alt~aSoniyfi tt A S n ii0 f i0
@@ -2785,9 +2789,9 @@ Alt~afaAEuliy~api tt a f aa E u0 l ii0 y a t i0
 Alt~afaASiyli tt a f AA S II0 l i0
 Alt~afokiyri tt a f k ii0 r i0
 Alt~aforiyqi tt a f r ii0 q I0
-Alt~agay~ura tt a g A y y u0 r a
-Alt~agay~uri tt a g A y y u0 r i0
-Alt~agoTHiyapi tt a g TH ii0 a t i0
+Alt~agay~ura tt a g A yy u0 r a
+Alt~agay~uri tt a g A yy u0 r i0
+Alt~agoTHiyapi tt a g TH i0 y a t i0
 Alt~ahaAniy tt a h aa n i0
 Alt~ahaAniy tt a h aa n ii0
 Alt~ahodi}api tt a h d i0 AH a t i0
@@ -2796,7 +2800,7 @@ Alt~ajaAwuzaAti tt a j aa w u0 z aa t i0
 Alt~akolufapi tt a k l u0 f a t i0
 Alt~akosiyri tt a k s ii0 r i0
 Alt~alaAmiyTHi tt a l aa m ii0 TH i0
-Alt~alaw~u^i tt a l a w w u0 ^ i0
+Alt~alaw~u^i tt a l a ww u0 ^ i0
 Alt~amaAriynir tt a m aa r ii0 n i1 r
 Alt~amo^iyli tt a m ^ ii0 l i0
 Alt~amori tt a m r i0
@@ -2844,7 +2848,7 @@ Alt~axal~uSu tt a x A ll U0 S U0
 Alt~axar~uji tt a x A rr u0 j i0
 Alt~axofiyfi tt a x f ii0 f i0
 Alt~ayosiyru tt a y s ii0 r u0
-Alt~ay~aAri tt a y y aa r i0
+Alt~ay~aAri tt a yy aa r i0
 Alt~iSHiykiy~i tt i0 SH ii0 k ii0 y i0
 Alt~ibiti tt i0 b i0 t i0
 Alt~ibogi tt i0 b g I0
@@ -2865,12 +2869,12 @@ Alt~urokiy~api tt u0 r k ii0 y a t i0
 Alt~urokiy~apu tt u0 r k ii0 y a t u0
 Alt~urokiy~i tt u0 r k ii0 y i0
 Alt~urokiy~u tt u0 r k ii0 y u0
-Alt~uroquwapi tt u0 r q UU0 a t i0
+Alt~uroquwapi tt u0 r q U0 w a t i0
 Alt~uwnisiy~iyna tt uu0 n i0 s ii0 y ii0 n a
 Alt~uwnusiy~api tt uu0 n u0 s ii0 y a t i0
 Alt~uwnusiy~u tt uu0 n u0 s ii0 y u0
 Alt~waS~uli tt w A SS U0 l i0
-Alz~aAwiyapi zz aa w ii0 a t i0
+Alz~aAwiyapi zz aa w i0 y a t i0
 Alz~aA}iri zz aa AH i0 r i0
 Alz~aEamaA'i zz a E a m aa AH i0
 Alz~abaA}ini zz a b aa AH i0 n i0
@@ -2884,7 +2888,7 @@ Alz~awojiy~apa zz a w j ii0 y a t a
 Alz~ayotuwni zz a y t uu0 n i0
 Alz~iraAEapi zz i0 r aa E a t i0
 Alz~iraAEiy~api zz i0 r aa E ii0 y a t i0
-Alz~iyaAdapi zz ii0 aa d a t i0
+Alz~iyaAdapi zz i0 y aa d a t i0
 Alz~uw~aAra zz uu0 w aa r a
 Al~aTHiy aa ll a TH i0
 Al~aTHiy aa ll a TH ii0
@@ -2974,8 +2978,8 @@ At~ifaAqK tt i0 f AA q I1 n
 At~ihaAmK tt i0 h aa m i1 n
 At~ijaAhaAtihimo tt i0 j aa h aa t i0 h i1 m
 AxotiraAEi x t i0 r aa E i0
-AxotiyaAri x t ii0 aa r i0
-AxotiyaAru x t ii0 aa r u0
+AxotiyaAri x t i0 y aa r i0
+AxotiyaAru x t i0 y aa r u0
 AzodiHaAmi z d i0 H aa m i0
 AzodihaAra z d i0 h aa r a
 DASobara D AA S b a r a
@@ -3069,6 +3073,8 @@ EaSHrapa E a SH r a t a
 EaSafato E A S A f a t
 EaSobara E A S b a r a
 EaSori E A S r i0
+Ea^aruwA E a ^ a r u0 w
+Ea^aruwA E a ^ a r u0 w aa
 Ea^aruwA E a ^ a r uu0
 Ea^aruwA E a ^ a r uu0 aa
 EabaAdiy E a b aa d i0
@@ -3090,8 +3096,8 @@ Eadadi E a d a d i0
 Eadami E a d a m i0
 EadiydapK E a d ii0 d a t i1 n
 EadiydapN E a d ii0 d a t u1 n
-EadowaY E a d uu0 a
-EadowaY E a d uu0 aa
+EadowaY E a d w a
+EadowaY E a d w aa
 Ead~A'ayni E a dd aa AH a y n i0
 EafowK E a f w i1 n
 Eahodi E a h d i0
@@ -3175,7 +3181,7 @@ Eawsobara E a w s b a r a
 EaySobara E a y S b a r a
 Eayoni E a y n i0
 Eaysobara E a y s b a r a
-Eay~inapF E a y y i0 n a t a n
+Eay~inapF E a yy i0 n a t a n
 Eazafa E a z a f a
 Eazoli E a z l i0
 Eaz~a E a zz a
@@ -3201,8 +3207,8 @@ EinodamaA E i0 n d a m a
 EinodamaA E i0 n d a m aa
 EiroqK E i0 r q I1 n
 Eisobara E i0 s b a r a
-EiyaAru E ii0 aa r u0
-EiyaAruhu E ii0 aa r u0 h u0
+EiyaAru E i0 y aa r u0
+EiyaAruhu E i0 y aa r u0 h u0
 EuDowAF E U0 D w a n
 EuDowiy~api E U0 D w ii0 y a t i0
 EuSHobu E u0 SH b u0
@@ -3264,7 +3270,7 @@ HaTHofi H a TH f i0
 HaTHowa H a TH w a
 HaTH~ara H a THTH a r a
 HaTH~arato H a THTH a r a t
-HaZiyato H A Z II0 a t
+HaZiyato H A Z I0 y a t
 HaZorK H A Z r i1 n
 HaZ~AF H A ZZ A n
 Habosi H a b s i0
@@ -3290,8 +3296,8 @@ Haj~aAj H a jj aa j
 HalaqaAtK H a l A q AA t i1 n
 Halaqiy~AF H a l A q II0 y a n
 HaliybAF H a l ii0 b a n
-HalowaY H a l uu0 a
-HalowaY H a l uu0 aa
+HalowaY H a l w a
+HalowaY H a l w aa
 Hal~AF H a ll a n
 Hal~K H a ll i1 n
 Hal~N H a ll u1 n
@@ -3312,6 +3318,8 @@ Haq~a H A qq A
 Haq~aqa H A qq A q A
 Haq~aqahaA H A qq A q A h a
 Haq~aqahaA H A qq A q A h aa
+Haq~aquwA H A qq A q U0 w
+Haq~aquwA H A qq A q U0 w aa
 Haq~aquwA H A qq A q UU0
 Haq~aquwA H A qq A q UU0 aa
 Haq~i H A qq I0
@@ -3350,8 +3358,8 @@ HayaAtihimo H a y aa t i0 h i1 m
 HayaAtiy~apK H a y aa t ii0 y a t i1 n
 Hayo^u H a y ^ u0
 Haysobara H a y s b a r a
-Hay~i H a y y i0
-Hay~iza H a y y i0 z a
+Hay~i H a yy i0
+Hay~iza H a yy i0 z a
 Hazina H a z i0 n a
 HaziyraAna H a z ii0 r aa n a
 HiSaAnK H I0 S AA n i1 n
@@ -3522,10 +3530,14 @@ SadiyqN S A d ii0 q U1 n
 Safoqapi S A f q A t I0
 SagiyrapF S A g II0 r a t a n
 SalAalap S A l aa a l a
+Sal~awoA S A ll a uu0
+Sal~awoA S A ll a uu0 aa
 Sal~awoA S A ll a w
 Sal~awoA S A ll a w aa
 SamotK S A m t i1 n
 Sam~ama S A mm a m a
+SanaEuwA S A n a E u0 w
+SanaEuwA S A n a E u0 w aa
 SanaEuwA S A n a E uu0
 SanaEuwA S A n a E uu0 aa
 SanoEaA'a S A n E aa AH a
@@ -3551,7 +3563,7 @@ SiforK S I0 f r i1 n
 Sigari S I0 g A r i0
 SinaAEiy~K S I0 n aa E ii0 y i1 n
 Sisobara S I0 s b a r a
-SiyaAmi S II0 aa m i0
+SiyaAmi S I0 y aa m i0
 Siy~aAnapK S II0 y aa n a t i1 n
 SuEuwbaAtK S U0 E uu0 b aa t i1 n
 SuEuwbapa S U0 E uu0 b a t a
@@ -3561,8 +3573,8 @@ Sufuwfi S U0 f uu0 f i0
 Sunoduwqu S U0 n d uu0 q U0
 Sun~aAEa S U0 nn aa E a
 Susobara S U0 s b a r a
-SuwarK S UU0 a r i1 n
-SuwarN S UU0 a r u1 n
+SuwarK S U0 w a r i1 n
+SuwarN S U0 w a r u1 n
 Suwfiy S UU0 f i0
 Suwfiy S UU0 f ii0
 SuwrapF S UU0 r a t a n
@@ -3657,12 +3669,12 @@ TawiylapF T A w ii0 l a t a n
 TawiylapN T A w ii0 l a t u1 n
 TaworK T A w r i1 n
 Tawsobara T A w s b a r a
-Taw~ara T A w w a r a
+Taw~ara T A ww a r a
 TaySobara T A y S b a r a
 Taysobara T A y s b a r a
-Tay~aArK T A y y aa r i1 n
-Tay~ib T A y y i1 b
-Tay~ibo T A y y i1 b
+Tay~aArK T A yy aa r i1 n
+Tay~ib T A yy i1 b
+Tay~ibo T A yy i1 b
 TiSobara T I0 S b a r a
 TifolihaA T I0 f l i0 h a
 TifolihaA T I0 f l i0 h aa
@@ -3709,14 +3721,14 @@ Zysobara Z ii0 s b a r a
 ^ASobara ^ AA S b a r a
 ^Aniy ^ aa n i0
 ^Aniy ^ aa n ii0
-^AniyAF ^ aa n ii0 a n
-^AniyapF ^ aa n ii0 a t a n
+^AniyAF ^ aa n i0 y a n
+^AniyapF ^ aa n i0 y a t a n
 ^Asobara ^ aa s b a r a
 ^aAli^AF ^ aa l i0 ^ a n
 ^aAniy ^ aa n i0
 ^aAniy ^ aa n ii0
-^aAniyAF ^ aa n ii0 a n
-^aAniyapF ^ aa n ii0 a t a n
+^aAniyAF ^ aa n i0 y a n
+^aAniyapF ^ aa n i0 y a t a n
 ^aAniy~apF ^ aa n ii0 y a t a n
 ^aSobara ^ A S b a r a
 ^alA^N ^ a l aa ^ u1 n
@@ -3735,16 +3747,16 @@ Zysobara Z ii0 s b a r a
 ^alaA^i ^ a l aa ^ i0
 ^alaA^iyna ^ a l aa ^ ii0 n a
 ^alaA^uwna ^ a l aa ^ uu0 n a
-^amAniya ^ a m aa n ii0 a
-^amAniyap ^ a m aa n ii0 a
-^amAniyapF ^ a m aa n ii0 a t a n
-^amAniyapa ^ a m aa n ii0 a t a
+^amAniya ^ a m aa n i0 y a
+^amAniyap ^ a m aa n i0 y a
+^amAniyapF ^ a m aa n i0 y a t a n
+^amAniyapa ^ a m aa n i0 y a t a
 ^amAnuwna ^ a m aa n uu0 n a
 ^amaAnimi}apK ^ a m aa n i0 m i0 AH a t i1 n
 ^amaAniy ^ a m aa n i0
 ^amaAniy ^ a m aa n ii0
-^amaAniya ^ a m aa n ii0 a
-^amaAniyapK ^ a m aa n ii0 a t i1 n
+^amaAniya ^ a m aa n i0 y a
+^amaAniyapK ^ a m aa n i0 y a t i1 n
 ^amaAniyna ^ a m aa n ii0 n a
 ^amaAniypK ^ a m aa n ii0 t i1 n
 ^amiynK ^ a m ii0 n i1 n
@@ -3763,7 +3775,7 @@ Zysobara Z ii0 s b a r a
 ^uSobara ^ U0 S b a r a
 ^ubuwti ^ u0 b uu0 t i0
 ^ulA^y~apu ^ u0 l aa ^ ii0 y a t u0
-^ulu^ay~i ^ u0 l u0 ^ a y y i0
+^ulu^ay~i ^ u0 l u0 ^ a yy i0
 ^um~a ^ u0 mm a
 ^uqoba ^ U0 q b a
 ^usobara ^ u0 s b a r a
@@ -3777,6 +3789,8 @@ bAblw b aa b l u0
 bAblw b aa b l uu0
 bAsobara b aa s b a r a
 bAyorino b aa ii0 r i1 n
+baAEuwA b aa E u0 w
+baAEuwA b aa E u0 w aa
 baAEuwA b aa E uu0
 baAEuwA b aa E uu0 aa
 baAHatahu b aa H a t a h u0
@@ -3875,7 +3889,7 @@ basobara b a s b a r a
 bawSobara b a w S b a r a
 bawaAdira b a w aa d i0 r a
 bawsobara b a w s b a r a
-baw~aAbaAtK b a w w aa b aa t i1 n
+baw~aAbaAtK b a ww aa b aa t i1 n
 bax~aAxa b a xx AA x A
 baySobara b a y S b a r a
 bayaAnN b a y aa n u1 n
@@ -3938,8 +3952,8 @@ bi>an~ahu b i0 AH a nn a h u0
 bi>arobaEi b i0 AH a r b a E i0
 bi>asoEaArK b i0 AH a s E aa r i1 n
 bi>asoEaAri b i0 AH a s E aa r i0
-bi>aw~ali b i0 AH a w w a l i0
-bi>ay~api b i0 AH a y y a t i0
+bi>aw~ali b i0 AH a ww a l i0
+bi>ay~api b i0 AH a yy a t i0
 biAEotibaArihaA b i0 E t i0 b aa r i0 h a
 biAEotibaArihaA b i0 E t i0 b aa r i0 h aa
 biAEotibaArihi b i0 E t i0 b aa r i0 h i0
@@ -4047,7 +4061,7 @@ biAsotinokaAri b i0 s t i0 n k aa r i0
 biAsotiqolaAliy~apK b i0 s t I0 q l aa l ii0 y a t i1 n
 biAsotixodaAmi b i0 s t i0 x d aa m i0
 biAxotilaAfi b i0 x t i0 l aa f i0
-biAxotiyaAri b i0 x t ii0 aa r i0
+biAxotiyaAri b i0 x t i0 y aa r i0
 biDaAEapF b I0 D AA E a t a n
 biDaraworapi b I0 D A r a w r a t i0
 biDarobatayoni b I0 D A r b a t a y n i0
@@ -4062,8 +4076,8 @@ biEo^api b i0 E ^ a t i0
 biEunowaAni b i0 E u0 n w aa n i0
 biHaAlatihi b i0 H aa l a t i0 h i0
 biHajozi b i0 H a j z i0
-biHalowaY b i0 H a l uu0 a
-biHalowaY b i0 H a l uu0 aa
+biHalowaY b i0 H a l w a
+biHalowaY b i0 H a l w aa
 biHamoli b i0 H a m l i0
 biHasabi b i0 H a s a b i0
 biHawozapi b i0 H a w z a t i0
@@ -4092,11 +4106,11 @@ biTaAlapF b I0 T AA l a t a n
 biTala b I0 T A l a
 biTariyqapK b I0 T A r ii0 q A t I1 n
 biTaroHi b I0 T A r H i0
-bi^AniyapK b i0 ^ aa n ii0 a t i1 n
+bi^AniyapK b i0 ^ aa n i0 y a t i1 n
 bi^alaA^api b i0 ^ a l aa ^ a t i0
-bi^amAniyap b i0 ^ a m aa n ii0 a
-bi^amAniyapK b i0 ^ a m aa n ii0 a t i1 n
-bi^iyaAbihumu b i0 ^ ii0 aa b i0 h u0 m u0
+bi^amAniyap b i0 ^ a m aa n i0 y a
+bi^amAniyapK b i0 ^ a m aa n i0 y a t i1 n
+bi^iyaAbihumu b i0 ^ i0 y aa b i0 h u0 m u0
 bibaAriysa b i0 b aa r ii0 s a
 bibaEoDi b i0 b a E D I0
 bibaEo^i b i0 b a E ^ i0
@@ -4108,7 +4122,7 @@ bidaAyapF b i0 d aa y a t a n
 bidaAyapi b i0 d aa y a t i0
 bidafoEi b i0 d a f E i0
 bidaworK b i0 d a w r i1 n
-biduwali b i0 d uu0 a l i0
+biduwali b i0 d u0 w a l i0
 biduwni b i0 d uu0 n i0
 biduxuwli b i0 d u0 x UU0 l i0
 bifaAriqK b i0 f aa r I0 q I1 n
@@ -4200,7 +4214,7 @@ bino b i0 n
 binojal~uwno b i0 n j a ll uu0 n
 binoziymap b i0 n z ii0 m a
 biqaliylK b I0 q A l ii0 l i1 n
-biqiyaAdapi b I0 q II0 aa d a t i0
+biqiyaAdapi b I0 q I0 y aa d a t i0
 biqud~aAsK b I0 q U0 dd aa s i1 n
 biquw~apK b I0 q UU0 w a t i1 n
 biraSiydi b i0 r A S II0 d i0
@@ -4226,7 +4240,7 @@ bitaTowiyri b i0 t A T w ii0 r i0
 bitadaf~uqaAtK b i0 t a d a ff U0 q AA t i1 n
 bitajodiydi b i0 t a j d ii0 d i0
 bitanaAwuli b i0 t a n aa w u0 l i0
-bitanaw~uEi b i0 t a n a w w u0 E i0
+bitanaw~uEi b i0 t a n a ww u0 E i0
 bitaqoliyli b i0 t A q l ii0 l i0
 bitaqosiymi b i0 t A q s ii0 m i0
 bitarobiy~api b i0 t a r b ii0 y a t i0
@@ -4244,7 +4258,7 @@ biwujuwdihaA b i0 w u0 j uu0 d i0 h a
 biwujuwdihaA b i0 w u0 j uu0 d i0 h aa
 bixamosi b i0 x A m s i0
 bixuTYF b i0 x U0 T AA A n
-biyaAnK b ii0 aa n i1 n
+biyaAnK b i0 y aa n i1 n
 biybarobaAk b ii0 b a r b aa k
 biykaAsuw b ii0 k aa s u0
 biykaAsuw b ii0 k aa s uu0
@@ -4252,8 +4266,8 @@ biyliytiy b ii0 l ii0 t i0
 biyliytiy b ii0 l ii0 t ii0
 biytokaAmaAkiy b ii0 t k aa m aa k i0
 biytokaAmaAkiy b ii0 t k aa m aa k ii0
-biyumonaAhu b ii0 u0 m n aa h u0
-biyusoraAhu b ii0 u0 s r aa h u0
+biyumonaAhu b i0 y u0 m n aa h u0
+biyusoraAhu b i0 y u0 s r aa h u0
 bizabuwnK b i0 z a b uu0 n i1 n
 bizamani b i0 z a m a n i0
 bizayodK b i0 z a y d i1 n
@@ -4276,13 +4290,13 @@ buHuw^i b u0 H uu0 ^ i0
 buSobara b U0 S b a r a
 buTuwlapi b U0 T UU0 l a t i0
 bugoyapa b u0 g y a t a
-bukuruwaAtoyaA b u0 k u0 r uu0 aa t y a
-bukuruwaAtoyaA b u0 k u0 r uu0 aa t y aa
+bukuruwaAtoyaA b u0 k u0 r u0 w aa t y a
+bukuruwaAtoyaA b u0 k u0 r u0 w aa t y aa
 bulodaAni b u0 l d aa n i0
 buluwgi b u0 l uu0 g I0
 buluwgihi b u0 l uu0 g I0 h i0
 buluwgihim b u0 l uu0 g I0 h i1 m
-buniyato b u0 n ii0 a t
+buniyato b u0 n i0 y a t
 buqoEapK b U0 q E a t i1 n
 buroja b u0 r j a
 buruwdapa b u0 r uu0 d a t a
@@ -4301,7 +4315,7 @@ bysobara b ii0 s b a r a
 b~aAroSHomaAnot bb aa r SH m aa n t
 dASobara d AA S b a r a
 dAsobara d aa s b a r a
-daAEiyAF d aa E ii0 a n
+daAEiyAF d aa E i0 y a n
 daAna d aa n a
 daAnimaArokiy~N d aa n i0 m aa r k ii0 y u1 n
 daAru d aa r u0
@@ -4365,7 +4379,7 @@ diraAsapN d i0 r aa s a t u1 n
 diraAsatahumo d i0 r aa s a t a h u1 m
 dirohamK d i0 r h a m i1 n
 disobara d i0 s b a r a
-diyaAnatahu d ii0 aa n a t a h u0
+diyaAnatahu d i0 y aa n a t a h u0
 diyfidu d ii0 f i0 d u0
 diymuqoraATiy~aAtK d ii0 m U0 q r AA T II0 y aa t i1 n
 diynaASuwrK d ii0 n AA S UU0 r i1 n
@@ -4383,10 +4397,10 @@ doyiyguw d y ii0 g UU0
 duSobara d U0 S b a r a
 dumuwEa d u0 m uu0 E a
 dusobara d u0 s b a r a
-duwalK d uu0 a l i1 n
-duwala d uu0 a l a
-duwali d uu0 a l i0
-duwalu d uu0 a l u0
+duwalK d u0 w a l i1 n
+duwala d u0 w a l a
+duwali d u0 w a l i0
+duwalu d u0 w a l u0
 duwlAro d uu0 l aa r
 duwlaArAF d uu0 l aa r a n
 duwlaArK d uu0 l aa r i1 n
@@ -4433,7 +4447,7 @@ faEaAliy~aAtuhu f a E aa l ii0 y aa t u0 h u0
 faEamila f a E a m i0 l a
 faE~aAlK f a EE aa l i1 n
 faE~aAlapK f a EE aa l a t i1 n
-faE~aAliyaAtu f a EE aa l ii0 aa t u0
+faE~aAliyaAtu f a EE aa l i0 y aa t u0
 faE~aAliy~aAti f a EE aa l ii0 y aa t i0
 faE~aAliy~aAtu f a EE aa l ii0 y aa t u0
 faE~aAliy~apN f a EE aa l ii0 y a t u1 n
@@ -4450,12 +4464,12 @@ faTalabahaA f A T A l a b a h aa
 fabalagato f a b a l a g A t
 fafiy f a f i0
 fafiy f a f ii0
-fahay~a>ahaA f a h a y y a AH a h a
-fahay~a>ahaA f a h a y y a AH a h aa
+fahay~a>ahaA f a h a yy a AH a h a
+fahay~a>ahaA f a h a yy a AH a h aa
 fahomahumo f a h m a h u1 m
 fahomihi f a h m i0 h i0
 fahunaAka f a h u0 n aa k a
-fahuwa f a h uu0 a
+fahuwa f a h u0 w a
 faj~ara f a jj a r a
 fakaAna f a k aa n a
 falaA f a l a
@@ -4547,8 +4561,8 @@ fiy f i0
 fiy f ii0
 fiy^onitiy f ii0 ^ n i0 t i0
 fiy^onitiy f ii0 ^ n i0 t ii0
-fiydiyuw f ii0 d ii0 u0
-fiydiyuw f ii0 d ii0 uu0
+fiydiyuw f ii0 d i0 y u0
+fiydiyuw f ii0 d i0 y uu0
 fiydiyuw v i0 d y uu1
 fiyguw f ii0 g U0
 fiyguw f ii0 g UU0
@@ -4577,11 +4591,15 @@ fi}oraAnK f i0 AH r aa n i1 n
 folaAdiymiyro f l aa d ii0 m ii0 r
 forAnokolyno f r aa n k l ii0 n
 foraAnoso f r aa n s
+foranosowA f r a n s uu0
+foranosowA f r a n s uu0 aa
 foranosowA f r a n s w
 foranosowA f r a n s w aa
 foruwto f r uu0 t
 frAnoSHiysokuw f r aa n SH ii0 s k u0
 frAnoSHiysokuw f r aa n SH ii0 s k uu0
+fraAnosowaA f r aa n s uu0
+fraAnosowaA f r aa n s uu0 aa
 fraAnosowaA f r aa n s w
 fraAnosowaA f r aa n s w aa
 fruwto f r uu0 t
@@ -4643,7 +4661,7 @@ gaz~ap g A zz a
 giSobara g I0 S b a r a
 giTHaA'K g I0 TH aa AH i1 n
 gisobara g I0 s b a r a
-giyaAbi g II0 aa b i0
+giyaAbi g I0 y aa b i0
 giyn g II0 n
 giynoyaA g II0 n y a
 giynoyaA g II0 n y aa
@@ -4652,8 +4670,8 @@ gurafN g U0 r a f u1 n
 gurofapi g U0 r f a t i0
 guruwbi g U0 r uu0 b i0
 gusobara g U0 s b a r a
-guwArodiywlA g UU0 aa r d ii0 uu0 l a
-guwArodiywlA g UU0 aa r d ii0 uu0 l aa
+guwArodiywlA g U0 w aa r d ii0 uu0 l a
+guwArodiywlA g U0 w aa r d ii0 uu0 l aa
 guwgolo g UU0 g l
 guwnkuwro g UU0 n k uu0 r
 guwno^oro g UU0 n ^ r
@@ -4717,7 +4735,7 @@ hibapF h i0 b a t a n
 hikotArK h i0 k t aa r i1 n
 hisobara h i0 s b a r a
 hiwaAyapN h i0 w aa y a t u1 n
-hiya h ii0 a
+hiya h i0 y a
 hiyruwSHiymaA h ii0 r uu0 SH ii0 m a
 hiyruwSHiymaA h ii0 r uu0 SH ii0 m aa
 huSobara h U0 S b a r a
@@ -4733,7 +4751,7 @@ hunaA h u0 n aa
 hunaAka h u0 n aa k a
 huromuwni h u0 r m uu0 n i0
 husobara h u0 s b a r a
-huwa h uu0 a
+huwa h u0 w a
 huwlanodiy~uwna h uu0 l a n d ii0 y uu0 n a
 huwloyuwd h uu0 l y uu0 d
 hwSobara h UU0 S b a r a
@@ -4743,6 +4761,8 @@ hySobara h II0 S b a r a
 hysobara h ii0 s b a r a
 jASobara j AA S b a r a
 jAsobara j aa s b a r a
+jaA&uwA j aa AH u0 w
+jaA&uwA j aa AH u0 w aa
 jaA&uwA j aa AH uu0
 jaA&uwA j aa AH uu0 aa
 jaA'a j aa AH a
@@ -4774,8 +4794,8 @@ jadiydAF j a d ii0 d a n
 jadiydK j a d ii0 d i1 n
 jadiydapK j a d ii0 d a t i1 n
 jadiydapN j a d ii0 d a t u1 n
-jadowaY j a d uu0 a
-jadowaY j a d uu0 aa
+jadowaY j a d w a
+jadowaY j a d w aa
 jalosapi j a l s a t i0
 jalosapu j a l s a t u0
 jal~uwn j a ll uu0 n
@@ -4796,7 +4816,7 @@ janobAF j a n b a n
 janobK j a n b i1 n
 januwbAF j a n uu0 b a n
 januwbi j a n uu0 b i0
-januwbiya j a n uu0 b ii0 a
+januwbiya j a n uu0 b i0 y a
 januwbu j a n uu0 b u0
 janwbi j a n uu0 b i0
 jaraY j a r a
@@ -4816,11 +4836,11 @@ jawolapK j a w l a t i1 n
 jawolapi j a w l a t i0
 jawoqapK j a w q A t I1 n
 jawsobara j a w s b a r a
-jaw~iy~K j a w w ii0 y i1 n
+jaw~iy~K j a ww ii0 y i1 n
 jaySobara j a y S b a r a
 jayoSHi j a y SH i0
 jaysobara j a y s b a r a
-jay~idK j a y y i0 d i1 n
+jay~idK j a yy i0 d i1 n
 jazaA}iriy~apK j a z aa AH i0 r ii0 y a t i1 n
 jazaA}iriy~uwna j a z aa AH i0 r ii0 y uu0 n a
 jiSobara j I0 S b a r a
@@ -4847,7 +4867,7 @@ jumolapK j u0 m l a t i1 n
 junayohAF j u0 n a y h a n
 junayohK j u0 n a y h i1 n
 jusobara j u0 s b a r a
-juwaAwo j uu0 aa uu0
+juwaAwo j u0 w aa uu0
 juwjilo j uu0 j i1 l
 juwn j uu0 n
 juwno j uu0 n
@@ -4955,7 +4975,7 @@ kamA k a m aa
 kamaA k a m a
 kamaA k a m aa
 kamaAlo k a m aa l
-kam~ay~apu k a mm a y y a t u0
+kam~ay~apu k a mm a yy a t u0
 kam~iy~api k a mm ii0 y a t i0
 kariymu k a r ii0 m u0
 kar~asatohu k a rr a s a t h u0
@@ -5020,6 +5040,8 @@ kutiba k u0 t i0 b a
 kutibato k u0 t i0 b a t
 kuwbaAniy k uu0 b aa n i0
 kuwbaAniy k uu0 b aa n ii0
+kuwfi}uwA k uu0 f i0 AH u0 w
+kuwfi}uwA k uu0 f i0 AH u0 w aa
 kuwfi}uwA k uu0 f i0 AH uu0
 kuwfi}uwA k uu0 f i0 AH uu0 aa
 kuwsuwfuw k uu0 s uu0 f u0
@@ -5105,7 +5127,7 @@ layolatahumo l a y l a t a h u1 m
 layosa l a y s a
 layosato l a y s a t
 laysobara l a y s b a r a
-lay~inapK l a y y i0 n a t i1 n
+lay~inapK l a yy i0 n a t i1 n
 li<iEaAdapi l i0 AH i0 E aa d a t i0
 li<iEoTaA'i l i0 AH i0 E T AA AH i0
 li<iHoyaA'i l i0 AH i0 H y aa AH i0
@@ -5134,7 +5156,7 @@ li>amojaAdihimo l i0 AH a m j aa d i0 h i1 m
 li>an~ahu l i0 AH a nn a h u0
 li>asobaAbi l i0 AH a s b aa b i0
 li>asowaAqK l i0 AH a s w AA q I1 n
-li>aw~ali l i0 AH a w w a l i0
+li>aw~ali l i0 AH a ww a l i0
 li>azoyaA'i l i0 AH a z y aa AH i0
 li>usarihimo l i0 AH u0 s a r i0 h i1 m
 liAEotimaAdi l i0 E t i0 m aa d i0
@@ -5159,7 +5181,7 @@ liEibaAdapi l i0 E i0 b aa d a t i0
 liHawaAdi^i l i0 H a w aa d i0 ^ i0
 liHikaAyaAti l i0 H i0 k aa y aa t i0
 liHimaAyapi l i0 H i0 m aa y a t i0
-liHiyaAkapi l i0 H ii0 aa k a t i0
+liHiyaAkapi l i0 H i0 y aa k a t i0
 liHuquwqi l i0 H U0 q UU0 q I0
 liSHaHoni l i0 SH a H n i0
 liSHawoTayoni l i0 SH a w T A y n i0
@@ -5194,7 +5216,7 @@ ligayori l i0 g A y r i0
 lihaTHaA l i0 h a TH a
 lihaTHaA l i0 h a TH aa
 lihaTHihi l i0 h a TH i0 h i0
-lihuwaApi l i0 h uu0 aa t i0
+lihuwaApi l i0 h u0 w aa t i0
 lijaA}izapi l i0 j aa AH i0 z a t i0
 lijisomi l i0 j i0 s m i0
 likaAf~api l i0 k aa ff a t i0
@@ -5221,7 +5243,7 @@ lilSH~uEuwri l i0 SHSH u0 E uu0 r i0
 lilSH~uhubi l i0 SHSH u0 h u0 b i0
 lilS~aHaAfapi l i0 SS A H aa f a t i0
 lilS~iraAEi l i0 SS I0 r aa E i0
-lilS~iyaAmi l i0 SS II0 aa m i0
+lilS~iyaAmi l i0 SS I0 y aa m i0
 lilTH~ikorayaAti l i0 THTH i0 k r a y aa t i0
 lilT~aAbiEi l i0 TT AA b i0 E i0
 lilT~ifoli l i0 TT I0 f l i0
@@ -5231,7 +5253,7 @@ lild~awolapi l i0 dd a w l a t i0
 lild~axoli l i0 dd a x l i0
 lild~ifaAEi l i0 dd i0 f aa E i0
 lild~iymuqoraATiy~api l i0 dd ii0 m U0 q r AA T II0 y a t i0
-lild~uwali l i0 dd uu0 a l i0
+lild~uwali l i0 dd u0 w a l i0
 liliynuwna l i0 l ii0 n uu0 n a
 lilj~amaAhiyri l i0 jj a m aa h ii0 r i0
 liln~aAsi l i0 nn aa s i0
@@ -5258,7 +5280,7 @@ lilo>aSHoyaA'i l i0 l AH a SH y aa AH i0
 lilo>aSowaAti l i0 l AH A S w aa t i0
 lilo>aboHA^i l i0 l AH a b H aa ^ i0
 lilo>aboTaAli l i0 l AH a b T AA l i0
-lilo>adowiyapi l i0 l AH a d w ii0 a t i0
+lilo>adowiyapi l i0 l AH a d w i0 y a t i0
 lilo>akosadapi l i0 l AH a k s a d a t i0
 lilo>aloEaAbi l i0 l AH a l E aa b i0
 lilo>amoraADi l i0 l AH a m r AA D I0
@@ -5273,8 +5295,8 @@ liloEaASifapi l i0 l E AA S I0 f a t i0
 liloEaAlami l i0 l E aa l a m i0
 liloEaSori l i0 l E A S r i0
 liloEadiydi l i0 l E a d ii0 d i0
-liloEadowaY l i0 l E a d uu0 a
-liloEadowaY l i0 l E a d uu0 aa
+liloEadowaY l i0 l E a d w a
+liloEadowaY l i0 l E a d w aa
 liloEarabi l i0 l E a r a b i0
 liloEayoSHi l i0 l E a y SH i0
 liloEilaAji l i0 l E i0 l aa j i0
@@ -5314,7 +5336,7 @@ lilohubuwTi l i0 l h u0 b uu0 T I0
 lilohuruwbi l i0 l h u0 r uu0 b i0
 lilojaziyrapi l i0 l j a z ii0 r a t i0
 lilokitaAbi l i0 l k i0 t aa b i0
-lilomaASHiyapi l i0 l m aa SH ii0 a t i0
+lilomaASHiyapi l i0 l m aa SH i0 y a t i0
 lilomaEoraDi l i0 l m a E r A D I0
 lilomaEoriDi l i0 l m a E r I0 D I0
 lilomadaArisi l i0 l m a d aa r i0 s i0
@@ -5346,11 +5368,11 @@ liloqaDaAyaA l i0 l q A D AA y aa
 liloqalobi l i0 l q A l b i0
 liloquro|ni l i0 l q U0 r AH aa n i0
 liloqur~aA'i l i0 l q U0 rr aa AH i0
-liloquwaY l i0 l q UU0 a
-liloquwaY l i0 l q UU0 aa
+liloquwaY l i0 l q U0 w a
+liloquwaY l i0 l q U0 w aa
 liloquw~aAti l i0 l q UU0 w aa t i0
-lilosay~idAti l i0 l s a y y i0 d aa t i0
-lilotagay~uraAti l i0 l t a g A y y u0 r aa t i0
+lilosay~idAti l i0 l s a yy i0 d aa t i0
+lilotagay~uraAti l i0 l t a g A yy u0 r aa t i0
 lilowilaAyaAti l i0 l w i0 l aa y aa t i0
 lilowilaAyapi l i0 l w i0 l aa y a t i0
 liloxuduwSHi l i0 l x U0 d uu0 SH i0
@@ -5358,7 +5380,7 @@ lilo|daAbi l i0 l AH aa d aa b i0
 lilr~aSodi l i0 rr A S d i0
 lilr~amoyi l i0 rr a m y i0
 lilr~a}iysi l i0 rr a AH ii0 s i0
-lilr~iyaADiy~iyna l i0 rr ii0 AA D II0 y ii0 n a
+lilr~iyaADiy~iyna l i0 rr i0 y AA D II0 y ii0 n a
 lils~alaAmi l i0 ss a l aa m i0
 lils~araTaAno l i0 ss a r A T AA n
 lils~ayori l i0 ss a y r i0
@@ -5366,7 +5388,7 @@ lils~ibaAHapi l i0 ss i0 b aa H a t i0
 lils~ikowASHo l i0 ss i0 k w aa SH
 lilt~aDoyiyqi l i0 tt A D y ii0 q I0
 lilt~aEobi}api l i0 tt a E b i0 AH a t i0
-lilt~aSofiyaAti l i0 tt A S f ii0 aa t i0
+lilt~aSofiyaAti l i0 tt A S f i0 y aa t i0
 lilt~arab~uHi l i0 tt a r a bb u0 H i0
 lilt~arowiyHi l i0 tt a r w ii0 H i0
 lilt~awaASuli l i0 tt a w AA S U0 l i0
@@ -5377,7 +5399,7 @@ lilt~iqoniy~aAti l i0 tt I0 q n ii0 y aa t i0
 lilt~uraA^i l i0 tt u0 r aa ^ i0
 lilz~iraAEapi l i0 zz i0 r aa E a t i0
 lilz~iynapi l i0 zz ii0 n a t i0
-lilz~uwaAri l i0 zz uu0 aa r i0
+lilz~uwaAri l i0 zz u0 w aa r i0
 lilz~uw~Ari l i0 zz uu0 w aa r i0
 limaA l i0 m a
 limaA l i0 m aa
@@ -5406,7 +5428,7 @@ limuraAjaEapi l i0 m u0 r aa j a E a t i0
 limuraAqabapi l i0 m u0 r AA q A b a t i0
 limusaAEadapi l i0 m u0 s aa E a d a t i0
 limutaAbaEapi l i0 m u0 t aa b a E a t i0
-limuwaAjahapi l i0 m uu0 aa j a h a t i0
+limuwaAjahapi l i0 m u0 w aa j a h a t i0
 limuwsiyqaY l i0 m uu0 s ii0 q A
 limuwsiyqaY l i0 m uu0 s ii0 q AA
 linaASiri l i0 n AA S I0 r i0
@@ -5422,8 +5444,8 @@ liqaA'a l I0 q AA AH a
 liqaA'i l I0 q AA AH i0
 liqaAHaAtK l I0 q AA H aa t i1 n
 liqawaAniyni l I0 q A w aa n ii0 n i0
-liquwaY l I0 q UU0 a
-liquwaY l I0 q UU0 aa
+liquwaY l I0 q U0 w a
+liquwaY l I0 q U0 w aa
 lirafoEihi l i0 r a f E i0 h i0
 lirasomi l i0 r a s m i0
 lisababi l i0 s a b a b i0
@@ -5433,6 +5455,8 @@ lisobara l i0 s b a r a
 lita>o^iyri l i0 t a AH ^ ii0 r i0
 lita>omiyni l i0 t a AH m ii0 n i0
 litaAjo l i0 t aa j
+litaEaArafuwA l i0 t a E aa r a f u0 w
+litaEaArafuwA l i0 t a E aa r a f u0 w aa
 litaEaArafuwA l i0 t a E aa r a f uu0
 litaEaArafuwA l i0 t a E aa r a f uu0 aa
 litaEoriyfi l i0 t a E r ii0 f i0
@@ -5448,16 +5472,16 @@ litahodi}api l i0 t a h d i0 AH a t i0
 litakowiyni l i0 t a k w ii0 n i0
 litakuwna l i0 t a k uu0 n a
 litanoZiymi l i0 t a n Z II0 m i0
-litanomiyapi l i0 t a n m ii0 a t i0
+litanomiyapi l i0 t a n m i0 y a t i0
 litaqaAriyri l i0 t A q AA r ii0 r i0
 litaquwma l i0 t A q UU0 m a
 litawaq~ufi l i0 t a w A qq U0 f i0
-litawoEiyapi l i0 t a w E ii0 a t i0
+litawoEiyapi l i0 t a w E i0 y a t i0
 litaxofiyDi l i0 t a x f ii0 D I0
 litazowiydi l i0 t a z w ii0 d i0
 litiloka l i0 t i0 l k a
 litiqoniy~aAtK l i0 t I0 q n ii0 y aa t i1 n
-lituDofiya l i0 t U0 D f ii0 a
+lituDofiya l i0 t U0 D f i0 y a
 lituboriza l i0 t u0 b r i0 z a
 lituwqifa l i0 t uu0 q I0 f a
 liwaAlidatihi l i0 w aa l i0 d a t i0 h i0
@@ -5469,29 +5493,29 @@ lixaTari l i0 x A T A r i0
 lixamosapK l i0 x A m s a t i1 n
 liy l i0
 liy l ii0
-liyaHoTHuwa l ii0 a H TH uu0 a
-liyanoTabiEa l ii0 a n T A b i0 E a
-liyasohula l ii0 a s h u0 l a
-liyasotaxodimahaA l ii0 a s t a x d i0 m a h a
-liyasotaxodimahaA l ii0 a s t a x d i0 m a h aa
-liyatajaAwaza l ii0 a t a j aa w a z a
-liyatamak~ana l ii0 a t a m a kk a n a
-liyatim~a l ii0 a t i0 mm a
-liyawomi l ii0 a w m i0
-liyaxoruja l ii0 a x r u0 j a
+liyaHoTHuwa l i0 y a H TH u0 w a
+liyanoTabiEa l i0 y a n T A b i0 E a
+liyasohula l i0 y a s h u0 l a
+liyasotaxodimahaA l i0 y a s t a x d i0 m a h a
+liyasotaxodimahaA l i0 y a s t a x d i0 m a h aa
+liyatajaAwaza l i0 y a t a j aa w a z a
+liyatamak~ana l i0 y a t a m a kk a n a
+liyatim~a l i0 y a t i0 mm a
+liyawomi l i0 y a w m i0
+liyaxoruja l i0 y a x r u0 j a
 liymobuwbuw l ii0 m b uu0 b u0
 liymobuwbuw l ii0 m b uu0 b uu0
 liynuwn l ii0 n uu0 n
 liynuwno l ii0 n uu0 n
-liyuSobiHa l ii0 U0 S b i0 H a
-liyudaAfiEa l ii0 u0 d aa f i0 E a
-liyusaj~ila l ii0 u0 s a jj i0 l a
-liyutaAbiEa l ii0 u0 t aa b i0 E a
-liyuwniyl l ii0 uu0 n ii0 l
-liyuwniylo l ii0 uu0 n ii0 l
+liyuSobiHa l i0 y U0 S b i0 H a
+liyudaAfiEa l i0 y u0 d aa f i0 E a
+liyusaj~ila l i0 y u0 s a jj i0 l a
+liyutaAbiEa l i0 y u0 t aa b i0 E a
+liyuwniyl l i0 y uu0 n ii0 l
+liyuwniylo l i0 y uu0 n ii0 l
 lizawojihaA l i0 z a w j i0 h a
 lizawojihaA l i0 z a w j i0 h aa
-lizuwaAri l i0 z uu0 aa r i0
+lizuwaAri l i0 z u0 w aa r i0
 luSobara l U0 S b a r a
 lubonaAna l u0 b n aa n a
 lubonaAniy~apK l u0 b n aa n ii0 y a t i1 n
@@ -5791,8 +5815,8 @@ mitorAF m i0 t r a n
 mitorK m i0 t r i1 n
 mitorayoni m i0 t r a y n i0
 miySHiylo m ii0 SH ii0 l
-miyaAhK m ii0 aa h i1 n
-miyaAhi m ii0 aa h i0
+miyaAhK m i0 y aa h i1 n
+miyaAhi m i0 y aa h i0
 miydoyaA m ii0 d y a
 miydoyaA m ii0 d y aa
 miygaAwaAtK m ii0 g AA w aa t i1 n
@@ -5826,9 +5850,9 @@ mu&ar~axapF m u0 AH a rr a x A t A n
 mu&as~asapi m u0 AH a ss a s a t i0
 mu&ax~arAF m u0 AH a xx A r a n
 mu&ax~araAF m u0 AH a xx A r a a n
-mu&ay~idapN m u0 AH a y y i0 d a t u1 n
-mu&ay~idiy m u0 AH a y y i0 d i0
-mu&ay~idiy m u0 AH a y y i0 d ii0
+mu&ay~idapN m u0 AH a yy i0 d a t u1 n
+mu&ay~idiy m u0 AH a yy i0 d i0
+mu&ay~idiy m u0 AH a yy i0 d ii0
 mu&otamarAF m u0 AH t a m a r a n
 mu&otamarK m u0 AH t a m a r i1 n
 muDaAEafaAtK m U0 D AA E a f aa t i1 n
@@ -5933,10 +5957,10 @@ mudomajaAF m u0 d m a j a a n
 mudunK m u0 d u0 n i1 n
 mud~apK m u0 dd a t i1 n
 mufaroqaEaAtK m u0 f a r q A E aa t i1 n
-mufaw~aDiy~api m u0 f a w w A D II0 y a t i0
+mufaw~aDiy~api m u0 f a ww A D II0 y a t i0
 mugan~iy m u0 g A nn i0
 mugan~iy m u0 g A nn ii0
-mugan~iyapu m u0 g A nn ii0 a t u0
+mugan~iyapu m u0 g A nn i0 y a t u0
 mugan~iyna m u0 g A nn ii0 n a
 muham~aSHapK m u0 h a mm a SH a t i1 n
 muhanodisAF m u0 h a n d i0 s a n
@@ -5957,7 +5981,7 @@ mujorayaAtu m u0 j r a y aa t u0
 mukaAfaHapi m u0 k aa f a H a t i0
 mukaE~abK m u0 k a EE a b i1 n
 mulaA}imapK m u0 l aa AH i0 m a t i1 n
-mulaw~a^K m u0 l a w w a ^ i1 n
+mulaw~a^K m u0 l a ww a ^ i1 n
 mulax~iSAF m u0 l a xx I0 S A n
 mumaA^ilapK m u0 m aa ^ i0 l a t i1 n
 mumaArasapi m u0 m aa r a s a t i0
@@ -6004,7 +6028,7 @@ muraAjaEapu m u0 r aa j a E a t u0
 muraAsili m u0 r aa s i0 l i0
 murab~aEAF m u0 r a bb a E a n
 murak~azapK m u0 r a kk a z a t i1 n
-muroDiyapK m u0 r D II0 a t i1 n
+muroDiyapK m u0 r D I0 y a t i1 n
 murojiEiyna m u0 r j i0 E ii0 n a
 murosiy m u0 r s i0
 murosiy m u0 r s ii0
@@ -6035,25 +6059,25 @@ musotagil~AF m u0 s t a g I0 ll a n
 musotaqir~K m u0 s t A q I0 rr i1 n
 musotaqobali m u0 s t A q b a l i0
 musotawaAhu m u0 s t a w aa h u0
-musotawaY m u0 s t a uu0 a
-musotawaY m u0 s t a uu0 aa
+musotawaY m u0 s t a w a
+musotawaY m u0 s t a w aa
 musotawal~ahu m u0 s t a w a ll a h u0
 mutaAbaEapi m u0 t aa b a E a t i0
 mutaEad~idapF m u0 t a E a dd i0 d a t a n
 mutaEal~iqapN m u0 t a E a ll I0 q A t U1 n
 mutabaAdalN m u0 t a b aa d a l u1 n
 mutafaAwitapK m u0 t a f aa w i0 t a t i1 n
-mutafaw~iqAF m u0 t a f a w w I0 q A n
-mutafaw~iqaAF m u0 t a f a w w I0 q A A n
-mutagay~iraAtN m u0 t a g A y y i0 r aa t u1 n
+mutafaw~iqAF m u0 t a f a ww I0 q A n
+mutafaw~iqaAF m u0 t a f a ww I0 q A A n
+mutagay~iraAtN m u0 t a g A yy i0 r aa t u1 n
 mutajad~idapN m u0 t a j a dd i0 d a t u1 n
 mutamas~ikAF m u0 t a m a ss i0 k a n
 mutanaAfisAF m u0 t a n aa f i0 s a n
-mutanaw~iEapK m u0 t a n a w w i0 E a t i1 n
+mutanaw~iEapK m u0 t a n a ww i0 E a t i1 n
 mutaqad~imapF m u0 t A q A dd i0 m a t a n
 mutarojamapK m u0 t a r j a m a t i1 n
 mutasaAbiquwna m u0 t a s aa b I0 q UU0 n a
-mutataAliyapK m u0 t a t aa l ii0 a t i1 n
+mutataAliyapK m u0 t a t aa l i0 y a t i1 n
 mutawaq~aEapN m u0 t a w A qq A E a t u1 n
 mutawas~iTi m u0 t a w a ss I0 T I0
 mutawas~iTu m u0 t a w a ss I0 T U0
@@ -6068,19 +6092,19 @@ mutoEapu m u0 t E a t u0
 mutoHafi m u0 t H a f i0
 mutoqanK m u0 t q A n i1 n
 mutoqanapK m u0 t q A n a t i1 n
-muwATinatahu m uu0 AA T I0 n a t a h u0
-muwATinatihA m uu0 AA T I0 n a t i0 h a
-muwATinatihA m uu0 AA T I0 n a t i0 h aa
+muwATinatahu m u0 w AA T I0 n a t a h u0
+muwATinatihA m u0 w AA T I0 n a t i0 h a
+muwATinatihA m u0 w AA T I0 n a t i0 h aa
 muwDiHapF m uu0 D I0 H a t a n
-muwaASalapu m uu0 AA S A l a t u0
-muwaATinatuhaA m uu0 AA T I0 n a t u0 h a
-muwaATinatuhaA m uu0 AA T I0 n a t u0 h aa
-muwaATinihi m uu0 AA T I0 n i0 h i0
-muwaATiniyna m uu0 AA T I0 n ii0 n a
-muwaAjahapi m uu0 aa j a h a t i0
-muwaAzK m uu0 aa z i1 n
-muwaD~iHapF m uu0 A DD I0 H a t a n
-muwaj~ahN m uu0 a jj a h u1 n
+muwaASalapu m u0 w AA S A l a t u0
+muwaATinatuhaA m u0 w AA T I0 n a t u0 h a
+muwaATinatuhaA m u0 w AA T I0 n a t u0 h aa
+muwaATinihi m u0 w AA T I0 n i0 h i0
+muwaATiniyna m u0 w AA T I0 n ii0 n a
+muwaAjahapi m u0 w aa j a h a t i0
+muwaAzK m u0 w aa z i1 n
+muwaD~iHapF m u0 w A DD I0 H a t a n
+muwaj~ahN m u0 w a jj a h u1 n
 muwdoyaAnuw m uu0 d y aa n u0
 muwdoyaAnuw m uu0 d y aa n uu0
 muwliynaA m uu0 l ii0 n a
@@ -6106,7 +6130,7 @@ mysobara m ii0 s b a r a
 nASobara n AA S b a r a
 nAlato n aa l a t
 nAsobara n aa s b a r a
-naAHiyatihi n aa H ii0 a t i0 h i0
+naAHiyatihi n aa H i0 y a t i0 h i0
 naASHofiylo n aa SH f ii0 l
 naAbiEAF n aa b i0 E a n
 naAdirapF n aa d i0 r a t a n
@@ -6114,7 +6138,7 @@ naAdirapK n aa d i0 r a t i1 n
 naAdiy n aa d i0
 naAdiy n aa d ii0
 naAhaza n aa h a z a
-naAmiyapK n aa m ii0 a t i1 n
+naAmiyapK n aa m i0 y a t i1 n
 naAnosiy n aa n s i0
 naAnosiy n aa n s ii0
 naDabato n A D A b a t
@@ -6133,6 +6157,8 @@ naSHaratohaA n a SH a r a t h aa
 naSHo>api n a SH AH a t i0
 naSHori n a SH r i0
 naSaA}iHa n A S AA AH i0 H a
+naSaHuwA n A S A H u0 w
+naSaHuwA n A S A H u0 w aa
 naSaHuwA n A S A H uu0
 naSaHuwA n A S A H uu0 aa
 naSiyr n A S II0 r
@@ -6167,8 +6193,8 @@ najaHato n i1 t
 najaHona n a j a H n a
 najomapF n a j m a t a n
 najomihi n a j m i0 h i0
-najowaY n a j uu0 a
-najowaY n a j uu0 aa
+najowaY n a j w a
+najowaY n a j w aa
 naj~aAro n a jj aa r
 namaATHija n a m aa TH i0 j a
 namaTi n a m A T I0
@@ -6236,8 +6262,8 @@ nit n i0 t
 nit n i1 t
 nito n i0 t
 nito n i1 t
-niyatahaA n ii0 a t a h a
-niyatahaA n ii0 a t a h aa
+niyatahaA n i0 y a t a h a
+niyatahaA n i0 y a t a h aa
 niybaAla n ii0 b aa l a
 niymaAra n ii0 m aa r a
 niysaAno n ii0 s aa n
@@ -6268,7 +6294,7 @@ nusoxapN n u0 s x A t U1 n
 nusuwra n u0 s uu0 r a
 nutaAbiEuhaA n u0 t aa b i0 E u0 h a
 nutaAbiEuhaA n u0 t aa b i0 E u0 h aa
-nuwaAkoSHuwTa n uu0 aa k SH uu0 T A
+nuwaAkoSHuwTa n u0 w aa k SH uu0 T A
 nuwbala n uu0 b a l a
 nuwbalo n uu0 b a l
 nuwbila n uu0 b i0 l a
@@ -6303,6 +6329,8 @@ qaAdirN q AA d i0 r u1 n
 qaAdiraAtN q AA d i0 r aa t u1 n
 qaAla q AA l a
 qaAlati q AA l a t i0
+qaAluwA q AA l u0 w
+qaAluwA q AA l u0 w aa
 qaAluwA q AA l uu0
 qaAluwA q AA l uu0 aa
 qaAma q AA m a
@@ -6320,6 +6348,8 @@ qaA}imapu q AA AH i0 m a t u0
 qaDaA}iy~apF q A D AA AH ii0 y a t a n
 qaDaA}iy~apK q A D AA AH ii0 y a t i1 n
 qaDato q A D A t
+qaDawoA q A D A uu0
+qaDawoA q A D A uu0 aa
 qaDawoA q A D A w
 qaDawoA q A D A w aa
 qaDiy~apa q A D II0 y a t a
@@ -6360,16 +6390,16 @@ qawolahaA q A w l a h a
 qawolahaA q A w l a h aa
 qawoli q A w l i0
 qawsobara q A w s b a r a
-qaw~aAmN q A w w aa m u1 n
-qaw~ymN q A w w ii0 m u1 n
+qaw~aAmN q A ww aa m u1 n
+qaw~ymN q A ww ii0 m u1 n
 qaySobara q A y S b a r a
 qayoSar q A y S A r
 qayodi q A y d i0
 qaysobara q A y s b a r a
-qay~aAmN q A y y aa m u1 n
-qay~imapK q A y y i0 m a t i1 n
-qay~imi q A y y i0 m i0
-qay~wmN q A y y uu0 m u1 n
+qay~aAmN q A yy aa m u1 n
+qay~imapK q A yy i0 m a t i1 n
+qay~imi q A yy i0 m i0
+qay~wmN q A yy uu0 m u1 n
 qiSHori q I0 SH r i0
 qiSaAri q I0 S AA r i0
 qiSaSAF q I0 S A S A n
@@ -6385,8 +6415,8 @@ qibali q I0 b a l i0
 qimami q I0 m a m i0
 qisobara q I0 s b a r a
 qis~K q I0 ss i1 n
-qiyaAdaAtK q II0 aa d aa t i1 n
-qiyaAsAF q II0 aa s a n
+qiyaAdaAtK q I0 y aa d aa t i1 n
+qiyaAsAF q I0 y aa s a n
 qiymapa q II0 m a t a
 qiymapi q II0 m a t i0
 qiymatahaA q II0 m a t a h a
@@ -6405,14 +6435,14 @@ quruwnK q U0 r uu0 n i1 n
 qur~aA}ihi q U0 rr aa AH i0 h i0
 qusobara q U0 s b a r a
 qutila q U0 t i0 l a
-quwaAhu q UU0 aa h u0
-quwaY q UU0 a
-quwaY q UU0 aa
+quwaAhu q U0 w aa h u0
+quwaY q U0 w a
+quwaY q U0 w aa
 quw~aAtK q UU0 w aa t i1 n
 quw~aAtu q UU0 w aa t u0
 quw~api q UU0 w a t i0
 quw~wmN q UU0 w uu0 m u1 n
-quy~ymN q U0 y y ii0 m u1 n
+quy~ymN q U0 yy ii0 m u1 n
 qwSobara q UU0 S b a r a
 qwsobara q uu0 s b a r a
 qySobara q II0 S b a r a
@@ -6495,8 +6525,8 @@ riwaAyaAtN r i0 w aa y aa t u1 n
 riwaAyapi r i0 w aa y a t i0
 riwaAyatihi r i0 w aa y a t i0 h i0
 riwaA}iy~AF r i0 w aa AH ii0 y a n
-riyaAHK r ii0 aa H i1 n
-riyaAl r ii0 aa l
+riyaAHK r i0 y aa H i1 n
+riyaAl r i0 y aa l
 riyfiy~apK r ii0 f ii0 y a t i1 n
 riyiykaA r ii0 ii0 k a
 riyiykaA r ii0 ii0 k aa
@@ -6515,7 +6545,7 @@ ruqaAqapF r U0 q AA q A t A n
 ruqoEapi r U0 q E a t i0
 rusobara r u0 s b a r a
 ruwHiy~N r uu0 H ii0 y u1 n
-ruwayotirozo r uu0 a y t i0 r z
+ruwayotirozo r u0 w a y t i0 r z
 ruwbuwtK r uu0 b uu0 t i1 n
 ruwbuwtihaA r uu0 b uu0 t i0 h a
 ruwbuwtihaA r uu0 b uu0 t i0 h aa
@@ -6616,15 +6646,15 @@ sayoTarapi s a y T A r a t i0
 sayoTarat s a y T A r a t
 sayoTaratahu s a y T A r a t a h u0
 saysobara s a y s b a r a
-sayuEaw~iDu s a y u0 E a w w I0 D U0
+sayuEaw~iDu s a y u0 E a ww I0 D U0
 sayuqad~imuwnahaA s a y U0 q A dd i0 m uu0 n a h a
 sayuqad~imuwnahaA s a y U0 q A dd i0 m uu0 n a h aa
 sayusaAEiduhumo s a y u0 s aa E i0 d u0 h u1 m
 sayusaAhimu s a y u0 s aa h i0 m u0
-sayuwaASilu s a y uu0 AA S I0 l u0
-say~ArapK s a y y aa r a t i1 n
-say~aArapK s a y y aa r a t i1 n
-say~idapi s a y y i0 d a t i0
+sayuwaASilu s a y u0 w AA S I0 l u0
+say~ArapK s a yy aa r a t i1 n
+say~aArapK s a yy aa r a t i1 n
+say~idapi s a yy i0 d a t i0
 siEora s i0 E r a
 siEorahu s i0 E r a h u0
 siEori s i0 E r i0
@@ -6660,12 +6690,12 @@ sit~i s i0 tt i0
 sit~iyna s i0 tt ii0 n a
 sit~iyniy~aAti s i0 tt ii0 n ii0 y aa t i0
 sit~pK s i0 tt t i1 n
-siyaAHiy~apK s ii0 aa H ii0 y a t i1 n
-siyaAqi s ii0 AA q I0
-siyaAsaAtK s ii0 aa s aa t i1 n
-siyaAsaAti s ii0 aa s aa t i0
-siyaAsapK s ii0 aa s a t i1 n
-siyaAsiy~apK s ii0 aa s ii0 y a t i1 n
+siyaAHiy~apK s i0 y aa H ii0 y a t i1 n
+siyaAqi s i0 y AA q I0
+siyaAsaAtK s i0 y aa s aa t i1 n
+siyaAsaAti s i0 y aa s aa t i0
+siyaAsapK s i0 y aa s a t i1 n
+siyaAsiy~apK s i0 y aa s ii0 y a t i1 n
 siymoyuwniy s ii0 m y uu0 n i0
 siymoyuwniy s ii0 m y uu0 n ii0
 siynamaA s ii0 n a m a
@@ -6697,11 +6727,11 @@ sury s u0 r i0
 sury s u0 r ii0
 susobara s u0 s b a r a
 suw'a s uu0 AH a
-suwaAriyzu s uu0 aa r ii0 z u0
-suwari s uu0 a r i0
+suwaAriyzu s u0 w aa r ii0 z u0
+suwari s u0 w a r i0
 suwqi s uu0 q I0
-suwriyaA s uu0 r ii0 a
-suwriyaA s uu0 r ii0 aa
+suwriyaA s uu0 r i0 y a
+suwriyaA s uu0 r i0 y aa
 suxoTa s u0 x T A
 swSobara s UU0 S b a r a
 swsobara s uu0 s b a r a
@@ -6710,10 +6740,10 @@ sysobara s ii0 s b a r a
 tASobara t AA S b a r a
 tAsobara t aa s b a r a
 tHotafilu t H t a f i0 l u0
-ta&~uSaw~ara t a AHAH U0 S A w w a r a
-ta&~usaw~ara t a AHAH u0 s a w w a r a
-ta&~wSaw~ara t a AHAH UU0 S A w w a r a
-ta&~wsaw~ara t a AHAH uu0 s a w w a r a
+ta&~uSaw~ara t a AHAH U0 S A ww a r a
+ta&~usaw~ara t a AHAH u0 s a ww a r a
+ta&~wSaw~ara t a AHAH UU0 S A ww a r a
+ta&~wsaw~ara t a AHAH uu0 s a ww a r a
 ta>ah~ala t a AH a hh a l a
 ta>ah~alato t a AH a hh a l a t
 ta>ax~uri t a AH a xx U0 r i0
@@ -6731,14 +6761,14 @@ ta>otiy t a AH t ii0
 ta>owiy t a AH w i0
 ta>owiy t a AH w ii0
 ta>oxiyri t a AH x II0 r i0
-ta>~aASaw~ara t a AHAH AA S A w w a r a
-ta>~aAsaw~ara t a AHAH aa s a w w a r a
-ta>~aaSaw~ara t a AHAH a A S A w w a r a
-ta>~aasaw~ara t a AHAH a a s a w w a r a
-ta>~aawSaw~ara t a AHAH a a w S A w w a r a
-ta>~aawsaw~ara t a AHAH a a w s a w w a r a
-ta>~aaySaw~ara t a AHAH a a y S A w w a r a
-ta>~aaysaw~ara t a AHAH a a y s a w w a r a
+ta>~aASaw~ara t a AHAH AA S A ww a r a
+ta>~aAsaw~ara t a AHAH aa s a ww a r a
+ta>~aaSaw~ara t a AHAH a A S A ww a r a
+ta>~aasaw~ara t a AHAH a a s a ww a r a
+ta>~aawSaw~ara t a AHAH a a w S A ww a r a
+ta>~aawsaw~ara t a AHAH a a w s a ww a r a
+ta>~aaySaw~ara t a AHAH a a y S A ww a r a
+ta>~aaysaw~ara t a AHAH a a y s a ww a r a
 taAbaEa t aa b a E a
 taAkaAwukaA t aa k aa w u0 k a
 taAkaAwukaA t aa k aa w u0 k aa
@@ -6754,25 +6784,27 @@ taAyomozo t aa ii0 m z
 taDam~anato t A D A mm a n a t
 taDoTar~a t A D T A rr a
 taDoribu t A D r i0 b u0
-taD~ASaw~ara t A DD AA S A w w a r a
-taD~Asaw~ara t A DD AA s a w w a r a
-taD~aSaw~ara t A DD A S A w w a r a
-taD~asaw~ara t A DD A s a w w a r a
-taD~awSaw~ara t A DD A w S A w w a r a
-taD~awsaw~ara t A DD A w s a w w a r a
-taD~aySaw~ara t A DD A y S A w w a r a
-taD~aysaw~ara t A DD A y s a w w a r a
-taD~iSaw~ara t A DD I0 S A w w a r a
-taD~isaw~ara t A DD I0 s a w w a r a
-taD~uSaw~ara t A DD U0 S A w w a r a
-taD~usaw~ara t A DD U0 s a w w a r a
-taD~wSaw~ara t A DD UU0 S A w w a r a
-taD~wsaw~ara t A DD uu0 s a w w a r a
-taD~ySaw~ara t A DD II0 S A w w a r a
-taD~ysaw~ara t A DD ii0 s a w w a r a
+taD~ASaw~ara t A DD AA S A ww a r a
+taD~Asaw~ara t A DD AA s a ww a r a
+taD~aSaw~ara t A DD A S A ww a r a
+taD~asaw~ara t A DD A s a ww a r a
+taD~awSaw~ara t A DD A w S A ww a r a
+taD~awsaw~ara t A DD A w s a ww a r a
+taD~aySaw~ara t A DD A y S A ww a r a
+taD~aysaw~ara t A DD A y s a ww a r a
+taD~iSaw~ara t A DD I0 S A ww a r a
+taD~isaw~ara t A DD I0 s a ww a r a
+taD~uSaw~ara t A DD U0 S A ww a r a
+taD~usaw~ara t A DD U0 s a ww a r a
+taD~wSaw~ara t A DD UU0 S A ww a r a
+taD~wsaw~ara t A DD uu0 s a ww a r a
+taD~ySaw~ara t A DD II0 S A ww a r a
+taD~ysaw~ara t A DD ii0 s a ww a r a
 taEaAmuli t a E aa m u0 l i0
 taEal~umi t a E a ll u0 m i0
 taEal~uqi t a E a ll U0 q I0
+taEam~aduwA t a E a mm a d u0 w
+taEam~aduwA t a E a mm a d u0 w aa
 taEam~aduwA t a E a mm a d uu0
 taEam~aduwA t a E a mm a d uu0 aa
 taEar~aDato t a E a rr A D A t
@@ -6794,35 +6826,35 @@ taEotamiduhaA t a E t a m i0 d u0 h aa
 taEoziyzi t a E z ii0 z i0
 taEudo t a E u1 d
 taEuwdu t a E uu0 d u0
-taE~ASaw~ara t a EE AA S A w w a r a
-taE~Asaw~ara t a EE aa s a w w a r a
-taE~aSaw~ara t a EE A S A w w a r a
-taE~asaw~ara t a EE a s a w w a r a
-taE~awSaw~ara t a EE a w S A w w a r a
-taE~awsaw~ara t a EE a w s a w w a r a
-taE~aySaw~ara t a EE a y S A w w a r a
-taE~aysaw~ara t a EE a y s a w w a r a
-taE~iSaw~ara t a EE I0 S A w w a r a
-taE~isaw~ara t a EE i0 s a w w a r a
-taE~uSaw~ara t a EE U0 S A w w a r a
-taE~usaw~ara t a EE u0 s a w w a r a
-taE~wSaw~ara t a EE UU0 S A w w a r a
-taE~wsaw~ara t a EE uu0 s a w w a r a
-taE~ySaw~ara t a EE II0 S A w w a r a
-taE~ysaw~ara t a EE ii0 s a w w a r a
+taE~ASaw~ara t a EE AA S A ww a r a
+taE~Asaw~ara t a EE aa s a ww a r a
+taE~aSaw~ara t a EE A S A ww a r a
+taE~asaw~ara t a EE a s a ww a r a
+taE~awSaw~ara t a EE a w S A ww a r a
+taE~awsaw~ara t a EE a w s a ww a r a
+taE~aySaw~ara t a EE a y S A ww a r a
+taE~aysaw~ara t a EE a y s a ww a r a
+taE~iSaw~ara t a EE I0 S A ww a r a
+taE~isaw~ara t a EE i0 s a ww a r a
+taE~uSaw~ara t a EE U0 S A ww a r a
+taE~usaw~ara t a EE u0 s a ww a r a
+taE~wSaw~ara t a EE UU0 S A ww a r a
+taE~wsaw~ara t a EE uu0 s a ww a r a
+taE~ySaw~ara t a EE II0 S A ww a r a
+taE~ysaw~ara t a EE ii0 s a ww a r a
 taHaAlufi t a H aa l u0 f i0
 taHad~a^ato t a H a dd a ^ a t
 taHad~iy t a H a dd i0
 taHad~iy t a H a dd ii0
 taHar~ukaAti t a H a rr u0 k aa t i0
 taHas~ubAF t a H a ss u0 b a n
-taHaw~ala t a H a w w a l a
-taHaw~alato t a H a w w a l a t
+taHaw~ala t a H a ww a l a
+taHaw~alato t a H a ww a l a t
 taHoDiyri t a H D II0 r i0
 taHoDiyrihi t a H D II0 r i0 h i0
 taHoDuru t a H D U0 r u0
 taHoDuruhu t a H D U0 r u0 h u0
-taHoTHuwa t a H TH uu0 a
+taHoTHuwa t a H TH u0 w a
 taHodiydi t a H d ii0 d i0
 taHojizu t a H j i0 z u0
 taHokumu t a H k u0 m u0
@@ -6842,26 +6874,26 @@ taHotawiy t a H t a w i0
 taHotawiy t a H t a w ii0
 taHowiy t a H w i0
 taHowiy t a H w ii0
-taHowiyaAni t a H w ii0 aa n i0
+taHowiyaAni t a H w i0 y aa n i0
 taHowiylaAti t a H w ii0 l aa t i0
 taHowiyluhaA t a H w ii0 l u0 h a
 taHowiyluhaA t a H w ii0 l u0 h aa
-taH~ASaw~ara t a HH AA S A w w a r a
-taH~Asaw~ara t a HH aa s a w w a r a
-taH~aSaw~ara t a HH A S A w w a r a
-taH~asaw~ara t a HH a s a w w a r a
-taH~awSaw~ara t a HH a w S A w w a r a
-taH~awsaw~ara t a HH a w s a w w a r a
-taH~aySaw~ara t a HH a y S A w w a r a
-taH~aysaw~ara t a HH a y s a w w a r a
-taH~iSaw~ara t a HH I0 S A w w a r a
-taH~isaw~ara t a HH i0 s a w w a r a
-taH~uSaw~ara t a HH U0 S A w w a r a
-taH~usaw~ara t a HH u0 s a w w a r a
-taH~wSaw~ara t a HH UU0 S A w w a r a
-taH~wsaw~ara t a HH uu0 s a w w a r a
-taH~ySaw~ara t a HH II0 S A w w a r a
-taH~ysaw~ara t a HH ii0 s a w w a r a
+taH~ASaw~ara t a HH AA S A ww a r a
+taH~Asaw~ara t a HH aa s a ww a r a
+taH~aSaw~ara t a HH A S A ww a r a
+taH~asaw~ara t a HH a s a ww a r a
+taH~awSaw~ara t a HH a w S A ww a r a
+taH~awsaw~ara t a HH a w s a ww a r a
+taH~aySaw~ara t a HH a y S A ww a r a
+taH~aysaw~ara t a HH a y s a ww a r a
+taH~iSaw~ara t a HH I0 S A ww a r a
+taH~isaw~ara t a HH i0 s a ww a r a
+taH~uSaw~ara t a HH U0 S A ww a r a
+taH~usaw~ara t a HH u0 s a ww a r a
+taH~wSaw~ara t a HH UU0 S A ww a r a
+taH~wsaw~ara t a HH uu0 s a ww a r a
+taH~ySaw~ara t a HH II0 S A ww a r a
+taH~ysaw~ara t a HH ii0 s a ww a r a
 taSHogiyli t a SH g II0 l i0
 taSHohada t a SH h a d a
 taSHohadu t a SH h a d u0
@@ -6872,22 +6904,22 @@ taSHotiyti t a SH t ii0 t i0
 taSHowiyhihaA t a SH w ii0 h i0 h a
 taSHowiyhihaA t a SH w ii0 h i0 h aa
 taSHoxiySN t a SH x II0 S U1 n
-taSH~ASaw~ara t a SHSH AA S A w w a r a
-taSH~Asaw~ara t a SHSH aa s a w w a r a
-taSH~aSaw~ara t a SHSH A S A w w a r a
-taSH~asaw~ara t a SHSH a s a w w a r a
-taSH~awSaw~ara t a SHSH a w S A w w a r a
-taSH~awsaw~ara t a SHSH a w s a w w a r a
-taSH~aySaw~ara t a SHSH a y S A w w a r a
-taSH~aysaw~ara t a SHSH a y s a w w a r a
-taSH~iSaw~ara t a SHSH I0 S A w w a r a
-taSH~isaw~ara t a SHSH i0 s a w w a r a
-taSH~uSaw~ara t a SHSH U0 S A w w a r a
-taSH~usaw~ara t a SHSH u0 s a w w a r a
-taSH~wSaw~ara t a SHSH UU0 S A w w a r a
-taSH~wsaw~ara t a SHSH uu0 s a w w a r a
-taSH~ySaw~ara t a SHSH II0 S A w w a r a
-taSH~ysaw~ara t a SHSH ii0 s a w w a r a
+taSH~ASaw~ara t a SHSH AA S A ww a r a
+taSH~Asaw~ara t a SHSH aa s a ww a r a
+taSH~aSaw~ara t a SHSH A S A ww a r a
+taSH~asaw~ara t a SHSH a s a ww a r a
+taSH~awSaw~ara t a SHSH a w S A ww a r a
+taSH~awsaw~ara t a SHSH a w s a ww a r a
+taSH~aySaw~ara t a SHSH a y S A ww a r a
+taSH~aysaw~ara t a SHSH a y s a ww a r a
+taSH~iSaw~ara t a SHSH I0 S A ww a r a
+taSH~isaw~ara t a SHSH i0 s a ww a r a
+taSH~uSaw~ara t a SHSH U0 S A ww a r a
+taSH~usaw~ara t a SHSH u0 s a ww a r a
+taSH~wSaw~ara t a SHSH UU0 S A ww a r a
+taSH~wsaw~ara t a SHSH uu0 s a ww a r a
+taSH~ySaw~ara t a SHSH II0 S A ww a r a
+taSH~ysaw~ara t a SHSH ii0 s a ww a r a
 taSa&~u t A S A AHAH u0
 taSa&~w t A S A AHAH uu0
 taSa>~aA t A S A AHAH a
@@ -7345,12 +7377,14 @@ taSar~utw t A S A rr u0 t u0
 taSar~utw t A S A rr u0 t uu0
 taSar~uty t A S A rr u0 t i0
 taSar~uty t A S A rr u0 t ii0
+taSar~uwA t A S A rr u0 w
+taSar~uwA t A S A rr u0 w aa
 taSar~uwA t A S A rr uu0
 taSar~uwA t A S A rr uu0 aa
-taSar~uwa t A S A rr uu0 a
-taSar~uwaw t A S A rr uu0 a uu0
-taSar~uway t A S A rr uu0 a ii0
-taSar~uwi t A S A rr uu0 i0
+taSar~uwa t A S A rr u0 w a
+taSar~uwaw t A S A rr u0 w a uu0
+taSar~uway t A S A rr u0 w a ii0
+taSar~uwi t A S A rr u0 w i0
 taSar~uwu t A S A rr uu0 u0
 taSar~uww t A S A rr uu0 uu0
 taSar~uwy t A S A rr uu0 ii0
@@ -7406,16 +7440,16 @@ taSat~i t A S A tt i0
 taSat~u t A S A tt u0
 taSat~w t A S A tt uu0
 taSat~y t A S A tt ii0
-taSaw~A t A S A w w a
-taSaw~A t A S A w w aa
-taSaw~a t A S A w w a
-taSaw~aw t A S A w w a uu0
-taSaw~ay t A S A w w a ii0
-taSaw~i t A S A w w i0
-taSaw~u t A S A w w u0
-taSaw~ura t A S A w w u0 r a
-taSaw~w t A S A w w uu0
-taSaw~y t A S A w w ii0
+taSaw~A t A S A ww a
+taSaw~A t A S A ww aa
+taSaw~a t A S A ww a
+taSaw~aw t A S A ww a uu0
+taSaw~ay t A S A ww a ii0
+taSaw~i t A S A ww i0
+taSaw~u t A S A ww u0
+taSaw~ura t A S A ww u0 r a
+taSaw~w t A S A ww uu0
+taSaw~y t A S A ww ii0
 taSax~A t A S A xx A
 taSax~A t A S A xx AA
 taSax~a t A S A xx A
@@ -7425,15 +7459,15 @@ taSax~i t A S A xx I0
 taSax~u t A S A xx U0
 taSax~w t A S A xx uu0
 taSax~y t A S A xx ii0
-taSay~A t A S A y y a
-taSay~A t A S A y y aa
-taSay~a t A S A y y a
-taSay~aw t A S A y y a uu0
-taSay~ay t A S A y y a ii0
-taSay~i t A S A y y i0
-taSay~u t A S A y y u0
-taSay~w t A S A y y uu0
-taSay~y t A S A y y ii0
+taSay~A t A S A yy a
+taSay~A t A S A yy aa
+taSay~a t A S A yy a
+taSay~aw t A S A yy a uu0
+taSay~ay t A S A yy a ii0
+taSay~i t A S A yy i0
+taSay~u t A S A yy u0
+taSay~w t A S A yy uu0
+taSay~y t A S A yy ii0
 taSaz~A t A S A zz a
 taSaz~A t A S A zz aa
 taSaz~a t A S A zz a
@@ -7457,102 +7491,102 @@ taSoniyfuhaA t A S n ii0 f u0 h a
 taSoniyfuhaA t A S n ii0 f u0 h aa
 taSoriyHK t A S r ii0 H i1 n
 taSowiytK t A S w ii0 t i1 n
-taS~ASaw~ara t A SS AA S A w w a r a
-taS~Asaw~ara t A SS AA s a w w a r a
-taS~aSaw~ara t A SS A S A w w a r a
-taS~asaw~ara t A SS A s a w w a r a
-taS~awSaw~ara t A SS A w S A w w a r a
-taS~awsaw~ara t A SS A w s a w w a r a
-taS~aySaw~ara t A SS A y S A w w a r a
-taS~aysaw~ara t A SS A y s a w w a r a
-taS~iSaw~ara t A SS I0 S A w w a r a
-taS~isaw~ara t A SS I0 s a w w a r a
-taS~uSaw~ara t A SS U0 S A w w a r a
-taS~usaw~ara t A SS U0 s a w w a r a
-taS~wSaw~ara t A SS UU0 S A w w a r a
-taS~wsaw~ara t A SS uu0 s a w w a r a
-taS~ySaw~ara t A SS II0 S A w w a r a
-taS~ysaw~ara t A SS ii0 s a w w a r a
+taS~ASaw~ara t A SS AA S A ww a r a
+taS~Asaw~ara t A SS AA s a ww a r a
+taS~aSaw~ara t A SS A S A ww a r a
+taS~asaw~ara t A SS A s a ww a r a
+taS~awSaw~ara t A SS A w S A ww a r a
+taS~awsaw~ara t A SS A w s a ww a r a
+taS~aySaw~ara t A SS A y S A ww a r a
+taS~aysaw~ara t A SS A y s a ww a r a
+taS~iSaw~ara t A SS I0 S A ww a r a
+taS~isaw~ara t A SS I0 s a ww a r a
+taS~uSaw~ara t A SS U0 S A ww a r a
+taS~usaw~ara t A SS U0 s a ww a r a
+taS~wSaw~ara t A SS UU0 S A ww a r a
+taS~wsaw~ara t A SS uu0 s a ww a r a
+taS~ySaw~ara t A SS II0 S A ww a r a
+taS~ysaw~ara t A SS ii0 s a ww a r a
 taTHokirapK t a TH k i0 r a t i1 n
-taTH~ASaw~ara t a THTH AA S A w w a r a
-taTH~Asaw~ara t a THTH aa s a w w a r a
-taTH~aSaw~ara t a THTH A S A w w a r a
-taTH~asaw~ara t a THTH a s a w w a r a
-taTH~awSaw~ara t a THTH a w S A w w a r a
-taTH~awsaw~ara t a THTH a w s a w w a r a
-taTH~aySaw~ara t a THTH a y S A w w a r a
-taTH~aysaw~ara t a THTH a y s a w w a r a
-taTH~iSaw~ara t a THTH I0 S A w w a r a
-taTH~isaw~ara t a THTH i0 s a w w a r a
-taTH~uSaw~ara t a THTH U0 S A w w a r a
-taTH~usaw~ara t a THTH u0 s a w w a r a
-taTH~wSaw~ara t a THTH UU0 S A w w a r a
-taTH~wsaw~ara t a THTH uu0 s a w w a r a
-taTH~ySaw~ara t a THTH II0 S A w w a r a
-taTH~ysaw~ara t a THTH ii0 s a w w a r a
-taTaw~uri t A T A w w u0 r i0
-taTaw~uru t A T A w w u0 r u0
+taTH~ASaw~ara t a THTH AA S A ww a r a
+taTH~Asaw~ara t a THTH aa s a ww a r a
+taTH~aSaw~ara t a THTH A S A ww a r a
+taTH~asaw~ara t a THTH a s a ww a r a
+taTH~awSaw~ara t a THTH a w S A ww a r a
+taTH~awsaw~ara t a THTH a w s a ww a r a
+taTH~aySaw~ara t a THTH a y S A ww a r a
+taTH~aysaw~ara t a THTH a y s a ww a r a
+taTH~iSaw~ara t a THTH I0 S A ww a r a
+taTH~isaw~ara t a THTH i0 s a ww a r a
+taTH~uSaw~ara t a THTH U0 S A ww a r a
+taTH~usaw~ara t a THTH u0 s a ww a r a
+taTH~wSaw~ara t a THTH UU0 S A ww a r a
+taTH~wsaw~ara t a THTH uu0 s a ww a r a
+taTH~ySaw~ara t a THTH II0 S A ww a r a
+taTH~ysaw~ara t a THTH ii0 s a ww a r a
+taTaw~uri t A T A ww u0 r i0
+taTaw~uru t A T A ww u0 r u0
 taToEiymi t A T E ii0 m i0
 taTobiyqa t A T b ii0 q A
 taTowiyra t A T w ii0 r a
-taT~ASaw~ara t A TT AA S A w w a r a
-taT~Asaw~ara t A TT AA s a w w a r a
-taT~aSaw~ara t A TT A S A w w a r a
+taT~ASaw~ara t A TT AA S A ww a r a
+taT~Asaw~ara t A TT AA s a ww a r a
+taT~aSaw~ara t A TT A S A ww a r a
 taT~aliEu t A TT A l i0 E u0
-taT~asaw~ara t A TT A s a w w a r a
-taT~awSaw~ara t A TT A w S A w w a r a
-taT~awsaw~ara t A TT A w s a w w a r a
-taT~aySaw~ara t A TT A y S A w w a r a
-taT~aysaw~ara t A TT A y s a w w a r a
-taT~iSaw~ara t A TT I0 S A w w a r a
-taT~isaw~ara t A TT I0 s a w w a r a
-taT~uSaw~ara t A TT U0 S A w w a r a
-taT~usaw~ara t A TT U0 s a w w a r a
-taT~wSaw~ara t A TT UU0 S A w w a r a
-taT~wsaw~ara t A TT uu0 s a w w a r a
-taT~ySaw~ara t A TT II0 S A w w a r a
-taT~ysaw~ara t A TT ii0 s a w w a r a
+taT~asaw~ara t A TT A s a ww a r a
+taT~awSaw~ara t A TT A w S A ww a r a
+taT~awsaw~ara t A TT A w s a ww a r a
+taT~aySaw~ara t A TT A y S A ww a r a
+taT~aysaw~ara t A TT A y s a ww a r a
+taT~iSaw~ara t A TT I0 S A ww a r a
+taT~isaw~ara t A TT I0 s a ww a r a
+taT~uSaw~ara t A TT U0 S A ww a r a
+taT~usaw~ara t A TT U0 s a ww a r a
+taT~wSaw~ara t A TT UU0 S A ww a r a
+taT~wsaw~ara t A TT uu0 s a ww a r a
+taT~ySaw~ara t A TT II0 S A ww a r a
+taT~ysaw~ara t A TT ii0 s a ww a r a
 taZaAhurapi t A Z AA h u0 r a t i0
 taZoharu t A Z h a r u0
-taZ~ASaw~ara t A ZZ AA S A w w a r a
-taZ~Asaw~ara t A ZZ AA s a w w a r a
-taZ~aSaw~ara t A ZZ A S A w w a r a
-taZ~asaw~ara t A ZZ A s a w w a r a
-taZ~awSaw~ara t A ZZ A w S A w w a r a
-taZ~awsaw~ara t A ZZ A w s a w w a r a
-taZ~aySaw~ara t A ZZ A y S A w w a r a
-taZ~aysaw~ara t A ZZ A y s a w w a r a
-taZ~iSaw~ara t A ZZ I0 S A w w a r a
-taZ~isaw~ara t A ZZ I0 s a w w a r a
-taZ~uSaw~ara t A ZZ U0 S A w w a r a
-taZ~usaw~ara t A ZZ U0 s a w w a r a
-taZ~wSaw~ara t A ZZ UU0 S A w w a r a
-taZ~wsaw~ara t A ZZ uu0 s a w w a r a
-taZ~ySaw~ara t A ZZ II0 S A w w a r a
-taZ~ysaw~ara t A ZZ ii0 s a w w a r a
+taZ~ASaw~ara t A ZZ AA S A ww a r a
+taZ~Asaw~ara t A ZZ AA s a ww a r a
+taZ~aSaw~ara t A ZZ A S A ww a r a
+taZ~asaw~ara t A ZZ A s a ww a r a
+taZ~awSaw~ara t A ZZ A w S A ww a r a
+taZ~awsaw~ara t A ZZ A w s a ww a r a
+taZ~aySaw~ara t A ZZ A y S A ww a r a
+taZ~aysaw~ara t A ZZ A y s a ww a r a
+taZ~iSaw~ara t A ZZ I0 S A ww a r a
+taZ~isaw~ara t A ZZ I0 s a ww a r a
+taZ~uSaw~ara t A ZZ U0 S A ww a r a
+taZ~usaw~ara t A ZZ U0 s a ww a r a
+taZ~wSaw~ara t A ZZ UU0 S A ww a r a
+taZ~wsaw~ara t A ZZ uu0 s a ww a r a
+taZ~ySaw~ara t A ZZ II0 S A ww a r a
+taZ~ysaw~ara t A ZZ ii0 s a ww a r a
 ta^iqu t a ^ I0 q U0
 ta^oqiyfiy~apK t a ^ q II0 f ii0 y a t i1 n
-ta^~ASaw~ara t a ^^ AA S A w w a r a
-ta^~Asaw~ara t a ^^ aa s a w w a r a
-ta^~aSaw~ara t a ^^ A S A w w a r a
-ta^~asaw~ara t a ^^ a s a w w a r a
-ta^~awSaw~ara t a ^^ a w S A w w a r a
-ta^~awsaw~ara t a ^^ a w s a w w a r a
-ta^~aySaw~ara t a ^^ a y S A w w a r a
-ta^~aysaw~ara t a ^^ a y s a w w a r a
-ta^~iSaw~ara t a ^^ I0 S A w w a r a
-ta^~isaw~ara t a ^^ i0 s a w w a r a
-ta^~uSaw~ara t a ^^ U0 S A w w a r a
-ta^~usaw~ara t a ^^ u0 s a w w a r a
-ta^~wSaw~ara t a ^^ UU0 S A w w a r a
-ta^~wsaw~ara t a ^^ uu0 s a w w a r a
-ta^~ySaw~ara t a ^^ II0 S A w w a r a
-ta^~ysaw~ara t a ^^ ii0 s a w w a r a
+ta^~ASaw~ara t a ^^ AA S A ww a r a
+ta^~Asaw~ara t a ^^ aa s a ww a r a
+ta^~aSaw~ara t a ^^ A S A ww a r a
+ta^~asaw~ara t a ^^ a s a ww a r a
+ta^~awSaw~ara t a ^^ a w S A ww a r a
+ta^~awsaw~ara t a ^^ a w s a ww a r a
+ta^~aySaw~ara t a ^^ a y S A ww a r a
+ta^~aysaw~ara t a ^^ a y s a ww a r a
+ta^~iSaw~ara t a ^^ I0 S A ww a r a
+ta^~isaw~ara t a ^^ i0 s a ww a r a
+ta^~uSaw~ara t a ^^ U0 S A ww a r a
+ta^~usaw~ara t a ^^ u0 s a ww a r a
+ta^~wSaw~ara t a ^^ UU0 S A ww a r a
+ta^~wsaw~ara t a ^^ uu0 s a ww a r a
+ta^~ySaw~ara t a ^^ II0 S A ww a r a
+ta^~ysaw~ara t a ^^ ii0 s a ww a r a
 tabaATa>ato t a b AA T A AH a t
 tabaATu'i t a b AA T U0 AH i0
 tabaq~aY t a b A qq A
 tabaq~aY t a b A qq AA
-tabay~ana t a b a y y a n a
+tabay~ana t a b a yy a n a
 taboda>a t a b d a AH a
 taboda>u t a b d a AH u0
 taboduw t a b d u0
@@ -7561,46 +7595,46 @@ taboniy t a b n i0
 taboniy t a b n ii0
 taboniyhaA t a b n ii0 h a
 taboniyhaA t a b n ii0 h aa
-tab~ASaw~ara t a bb AA S A w w a r a
-tab~Asaw~ara t a bb aa s a w w a r a
-tab~aSaw~ara t a bb A S A w w a r a
-tab~asaw~ara t a bb a s a w w a r a
-tab~awSaw~ara t a bb a w S A w w a r a
-tab~awsaw~ara t a bb a w s a w w a r a
-tab~aySaw~ara t a bb a y S A w w a r a
-tab~aysaw~ara t a bb a y s a w w a r a
-tab~iSaw~ara t a bb I0 S A w w a r a
-tab~isaw~ara t a bb i0 s a w w a r a
-tab~uSaw~ara t a bb U0 S A w w a r a
-tab~usaw~ara t a bb u0 s a w w a r a
-tab~wSaw~ara t a bb UU0 S A w w a r a
-tab~wsaw~ara t a bb uu0 s a w w a r a
-tab~ySaw~ara t a bb II0 S A w w a r a
-tab~ysaw~ara t a bb ii0 s a w w a r a
+tab~ASaw~ara t a bb AA S A ww a r a
+tab~Asaw~ara t a bb aa s a ww a r a
+tab~aSaw~ara t a bb A S A ww a r a
+tab~asaw~ara t a bb a s a ww a r a
+tab~awSaw~ara t a bb a w S A ww a r a
+tab~awsaw~ara t a bb a w s a ww a r a
+tab~aySaw~ara t a bb a y S A ww a r a
+tab~aysaw~ara t a bb a y s a ww a r a
+tab~iSaw~ara t a bb I0 S A ww a r a
+tab~isaw~ara t a bb i0 s a ww a r a
+tab~uSaw~ara t a bb U0 S A ww a r a
+tab~usaw~ara t a bb u0 s a ww a r a
+tab~wSaw~ara t a bb UU0 S A ww a r a
+tab~wsaw~ara t a bb uu0 s a ww a r a
+tab~ySaw~ara t a bb II0 S A ww a r a
+tab~ysaw~ara t a bb ii0 s a ww a r a
 tadafuqa t a d a f U0 q A
 tadaf~aqa t a d a ff A q A
 tadaf~uqihi t a d a ff U0 q I0 h i0
 tadahowuri t a d a h w u0 r i0
-tadan~iyaAF t a d a nn ii0 a a n
+tadan~iyaAF t a d a nn i0 y a a n
 tadoEamu t a d E a m u0
 tadoriybK t a d r ii0 b i1 n
 tadoriysu t a d r ii0 s u0
-tad~ASaw~ara t a dd AA S A w w a r a
-tad~Asaw~ara t a dd aa s a w w a r a
-tad~aSaw~ara t a dd A S A w w a r a
-tad~asaw~ara t a dd a s a w w a r a
-tad~awSaw~ara t a dd a w S A w w a r a
-tad~awsaw~ara t a dd a w s a w w a r a
-tad~aySaw~ara t a dd a y S A w w a r a
-tad~aysaw~ara t a dd a y s a w w a r a
-tad~iSaw~ara t a dd I0 S A w w a r a
-tad~isaw~ara t a dd i0 s a w w a r a
-tad~uSaw~ara t a dd U0 S A w w a r a
-tad~usaw~ara t a dd u0 s a w w a r a
-tad~wSaw~ara t a dd UU0 S A w w a r a
-tad~wsaw~ara t a dd uu0 s a w w a r a
-tad~ySaw~ara t a dd II0 S A w w a r a
-tad~ysaw~ara t a dd ii0 s a w w a r a
+tad~ASaw~ara t a dd AA S A ww a r a
+tad~Asaw~ara t a dd aa s a ww a r a
+tad~aSaw~ara t a dd A S A ww a r a
+tad~asaw~ara t a dd a s a ww a r a
+tad~awSaw~ara t a dd a w S A ww a r a
+tad~awsaw~ara t a dd a w s a ww a r a
+tad~aySaw~ara t a dd a y S A ww a r a
+tad~aysaw~ara t a dd a y s a ww a r a
+tad~iSaw~ara t a dd I0 S A ww a r a
+tad~isaw~ara t a dd i0 s a ww a r a
+tad~uSaw~ara t a dd U0 S A ww a r a
+tad~usaw~ara t a dd u0 s a ww a r a
+tad~wSaw~ara t a dd UU0 S A ww a r a
+tad~wsaw~ara t a dd uu0 s a ww a r a
+tad~ySaw~ara t a dd II0 S A ww a r a
+tad~ysaw~ara t a dd ii0 s a ww a r a
 tafaAdiy t a f aa d i0
 tafaAdiy t a f aa d ii0
 tafaSH~iy t a f a SHSH i0
@@ -7615,61 +7649,61 @@ tafosiyrAF t a f s ii0 r a n
 tafosiyri t a f s ii0 r i0
 tafosiyrihaA t a f s ii0 r i0 h a
 tafosiyrihaA t a f s ii0 r i0 h aa
-taf~ASaw~ara t a ff AA S A w w a r a
-taf~Asaw~ara t a ff aa s a w w a r a
-taf~aSaw~ara t a ff A S A w w a r a
-taf~asaw~ara t a ff a s a w w a r a
-taf~awSaw~ara t a ff a w S A w w a r a
-taf~awsaw~ara t a ff a w s a w w a r a
-taf~aySaw~ara t a ff a y S A w w a r a
-taf~aysaw~ara t a ff a y s a w w a r a
-taf~iSaw~ara t a ff I0 S A w w a r a
-taf~isaw~ara t a ff i0 s a w w a r a
-taf~uSaw~ara t a ff U0 S A w w a r a
-taf~usaw~ara t a ff u0 s a w w a r a
-taf~wSaw~ara t a ff UU0 S A w w a r a
-taf~wsaw~ara t a ff uu0 s a w w a r a
-taf~ySaw~ara t a ff II0 S A w w a r a
-taf~ysaw~ara t a ff ii0 s a w w a r a
-tagay~uraAtu t a g A y y u0 r aa t u0
+taf~ASaw~ara t a ff AA S A ww a r a
+taf~Asaw~ara t a ff aa s a ww a r a
+taf~aSaw~ara t a ff A S A ww a r a
+taf~asaw~ara t a ff a s a ww a r a
+taf~awSaw~ara t a ff a w S A ww a r a
+taf~awsaw~ara t a ff a w s a ww a r a
+taf~aySaw~ara t a ff a y S A ww a r a
+taf~aysaw~ara t a ff a y s a ww a r a
+taf~iSaw~ara t a ff I0 S A ww a r a
+taf~isaw~ara t a ff i0 s a ww a r a
+taf~uSaw~ara t a ff U0 S A ww a r a
+taf~usaw~ara t a ff u0 s a ww a r a
+taf~wSaw~ara t a ff UU0 S A ww a r a
+taf~wsaw~ara t a ff uu0 s a ww a r a
+taf~ySaw~ara t a ff II0 S A ww a r a
+taf~ysaw~ara t a ff ii0 s a ww a r a
+tagay~uraAtu t a g A yy u0 r aa t u0
 tagoyiyri t a g y ii0 r i0
-tag~ASaw~ara t a gg AA S A w w a r a
-tag~Asaw~ara t a gg AA s a w w a r a
-tag~aSaw~ara t a gg A S A w w a r a
-tag~asaw~ara t a gg A s a w w a r a
-tag~awSaw~ara t a gg A w S A w w a r a
-tag~awsaw~ara t a gg A w s a w w a r a
-tag~aySaw~ara t a gg A y S A w w a r a
-tag~aysaw~ara t a gg A y s a w w a r a
-tag~iSaw~ara t a gg I0 S A w w a r a
-tag~isaw~ara t a gg I0 s a w w a r a
-tag~uSaw~ara t a gg U0 S A w w a r a
-tag~usaw~ara t a gg U0 s a w w a r a
-tag~wSaw~ara t a gg UU0 S A w w a r a
-tag~wsaw~ara t a gg uu0 s a w w a r a
-tag~ySaw~ara t a gg II0 S A w w a r a
-tag~ysaw~ara t a gg ii0 s a w w a r a
+tag~ASaw~ara t a gg AA S A ww a r a
+tag~Asaw~ara t a gg AA s a ww a r a
+tag~aSaw~ara t a gg A S A ww a r a
+tag~asaw~ara t a gg A s a ww a r a
+tag~awSaw~ara t a gg A w S A ww a r a
+tag~awsaw~ara t a gg A w s a ww a r a
+tag~aySaw~ara t a gg A y S A ww a r a
+tag~aysaw~ara t a gg A y s a ww a r a
+tag~iSaw~ara t a gg I0 S A ww a r a
+tag~isaw~ara t a gg I0 s a ww a r a
+tag~uSaw~ara t a gg U0 S A ww a r a
+tag~usaw~ara t a gg U0 s a ww a r a
+tag~wSaw~ara t a gg UU0 S A ww a r a
+tag~wsaw~ara t a gg uu0 s a ww a r a
+tag~ySaw~ara t a gg II0 S A ww a r a
+tag~ysaw~ara t a gg ii0 s a ww a r a
 tahaAwati t a h aa w a t i0
 tahodifu t a h d i0 f u0
 tahodiydAF t a h d ii0 d a n
 tahoriybihaA t a h r ii0 b i0 h a
 tahoriybihaA t a h r ii0 b i0 h aa
-tah~ASaw~ara t a hh AA S A w w a r a
-tah~Asaw~ara t a hh aa s a w w a r a
-tah~aSaw~ara t a hh A S A w w a r a
-tah~asaw~ara t a hh a s a w w a r a
-tah~awSaw~ara t a hh a w S A w w a r a
-tah~awsaw~ara t a hh a w s a w w a r a
-tah~aySaw~ara t a hh a y S A w w a r a
-tah~aysaw~ara t a hh a y s a w w a r a
-tah~iSaw~ara t a hh I0 S A w w a r a
-tah~isaw~ara t a hh i0 s a w w a r a
-tah~uSaw~ara t a hh U0 S A w w a r a
-tah~usaw~ara t a hh u0 s a w w a r a
-tah~wSaw~ara t a hh UU0 S A w w a r a
-tah~wsaw~ara t a hh uu0 s a w w a r a
-tah~ySaw~ara t a hh II0 S A w w a r a
-tah~ysaw~ara t a hh ii0 s a w w a r a
+tah~ASaw~ara t a hh AA S A ww a r a
+tah~Asaw~ara t a hh aa s a ww a r a
+tah~aSaw~ara t a hh A S A ww a r a
+tah~asaw~ara t a hh a s a ww a r a
+tah~awSaw~ara t a hh a w S A ww a r a
+tah~awsaw~ara t a hh a w s a ww a r a
+tah~aySaw~ara t a hh a y S A ww a r a
+tah~aysaw~ara t a hh a y s a ww a r a
+tah~iSaw~ara t a hh I0 S A ww a r a
+tah~isaw~ara t a hh i0 s a ww a r a
+tah~uSaw~ara t a hh U0 S A ww a r a
+tah~usaw~ara t a hh u0 s a ww a r a
+tah~wSaw~ara t a hh UU0 S A ww a r a
+tah~wsaw~ara t a hh uu0 s a ww a r a
+tah~ySaw~ara t a hh II0 S A ww a r a
+tah~ysaw~ara t a hh ii0 s a ww a r a
 tajaAribahumo t a j aa r i0 b a h u1 m
 tajaAwazato t a j aa w a z a t
 tajan~ubu t a j a nn u0 b u0
@@ -7684,22 +7718,22 @@ tajoribapu t a j r i0 b a t u0
 tajosiydK t a j s ii0 d i1 n
 tajotaAHuhumo t a j t aa H u0 h u1 m
 tajowiyEa t a j w ii0 E a
-taj~ASaw~ara t a jj AA S A w w a r a
-taj~Asaw~ara t a jj aa s a w w a r a
-taj~aSaw~ara t a jj A S A w w a r a
-taj~asaw~ara t a jj a s a w w a r a
-taj~awSaw~ara t a jj a w S A w w a r a
-taj~awsaw~ara t a jj a w s a w w a r a
-taj~aySaw~ara t a jj a y S A w w a r a
-taj~aysaw~ara t a jj a y s a w w a r a
-taj~iSaw~ara t a jj I0 S A w w a r a
-taj~isaw~ara t a jj i0 s a w w a r a
-taj~uSaw~ara t a jj U0 S A w w a r a
-taj~usaw~ara t a jj u0 s a w w a r a
-taj~wSaw~ara t a jj UU0 S A w w a r a
-taj~wsaw~ara t a jj uu0 s a w w a r a
-taj~ySaw~ara t a jj II0 S A w w a r a
-taj~ysaw~ara t a jj ii0 s a w w a r a
+taj~ASaw~ara t a jj AA S A ww a r a
+taj~Asaw~ara t a jj aa s a ww a r a
+taj~aSaw~ara t a jj A S A ww a r a
+taj~asaw~ara t a jj a s a ww a r a
+taj~awSaw~ara t a jj a w S A ww a r a
+taj~awsaw~ara t a jj a w s a ww a r a
+taj~aySaw~ara t a jj a y S A ww a r a
+taj~aysaw~ara t a jj a y s a ww a r a
+taj~iSaw~ara t a jj I0 S A ww a r a
+taj~isaw~ara t a jj i0 s a ww a r a
+taj~uSaw~ara t a jj U0 S A ww a r a
+taj~usaw~ara t a jj u0 s a ww a r a
+taj~wSaw~ara t a jj UU0 S A ww a r a
+taj~wsaw~ara t a jj uu0 s a ww a r a
+taj~ySaw~ara t a jj II0 S A ww a r a
+taj~ysaw~ara t a jj ii0 s a ww a r a
 tako^iyfa t a k ^ ii0 f a
 tako^uru t a k ^ u0 r u0
 takofiy t a k f i0
@@ -7710,45 +7744,45 @@ takotamilu t a k t a m i0 l u0
 takuno t a k u1 n
 takuwna t a k uu0 n a
 takuwnu t a k uu0 n u0
-tak~ASaw~ara t a kk AA S A w w a r a
-tak~Asaw~ara t a kk aa s a w w a r a
-tak~aSaw~ara t a kk A S A w w a r a
-tak~asaw~ara t a kk a s a w w a r a
-tak~awSaw~ara t a kk a w S A w w a r a
-tak~awsaw~ara t a kk a w s a w w a r a
-tak~aySaw~ara t a kk a y S A w w a r a
-tak~aysaw~ara t a kk a y s a w w a r a
-tak~iSaw~ara t a kk I0 S A w w a r a
-tak~isaw~ara t a kk i0 s a w w a r a
-tak~uSaw~ara t a kk U0 S A w w a r a
-tak~usaw~ara t a kk u0 s a w w a r a
-tak~wSaw~ara t a kk UU0 S A w w a r a
-tak~wsaw~ara t a kk uu0 s a w w a r a
-tak~ySaw~ara t a kk II0 S A w w a r a
-tak~ysaw~ara t a kk ii0 s a w w a r a
+tak~ASaw~ara t a kk AA S A ww a r a
+tak~Asaw~ara t a kk aa s a ww a r a
+tak~aSaw~ara t a kk A S A ww a r a
+tak~asaw~ara t a kk a s a ww a r a
+tak~awSaw~ara t a kk a w S A ww a r a
+tak~awsaw~ara t a kk a w s a ww a r a
+tak~aySaw~ara t a kk a y S A ww a r a
+tak~aysaw~ara t a kk a y s a ww a r a
+tak~iSaw~ara t a kk I0 S A ww a r a
+tak~isaw~ara t a kk i0 s a ww a r a
+tak~uSaw~ara t a kk U0 S A ww a r a
+tak~usaw~ara t a kk u0 s a ww a r a
+tak~wSaw~ara t a kk UU0 S A ww a r a
+tak~wsaw~ara t a kk uu0 s a ww a r a
+tak~ySaw~ara t a kk II0 S A ww a r a
+tak~ysaw~ara t a kk ii0 s a ww a r a
 talaAhaA t a l aa h a
 talaAhaA t a l aa h aa
 talaq~iy t a l A qq I0
 talaq~iy t a l A qq II0
 talaq~iyhin~a t a l A qq II0 h i0 nn a
-talaw~u^u t a l a w w u0 ^ u0
+talaw~u^u t a l a ww u0 ^ u0
 taloEabu t a l E a b u0
-tal~ASaw~ara t a ll AA S A w w a r a
-tal~Asaw~ara t a ll aa s a w w a r a
-tal~aSaw~ara t a ll A S A w w a r a
-tal~asaw~ara t a ll a s a w w a r a
-tal~awSaw~ara t a ll a w S A w w a r a
-tal~awsaw~ara t a ll a w s a w w a r a
-tal~aySaw~ara t a ll a y S A w w a r a
-tal~aysaw~ara t a ll a y s a w w a r a
-tal~iSaw~ara t a ll I0 S A w w a r a
-tal~isaw~ara t a ll i0 s a w w a r a
-tal~uSaw~ara t a ll U0 S A w w a r a
-tal~usaw~ara t a ll u0 s a w w a r a
-tal~wSaw~ara t a ll UU0 S A w w a r a
-tal~wsaw~ara t a ll uu0 s a w w a r a
-tal~ySaw~ara t a ll II0 S A w w a r a
-tal~ysaw~ara t a ll ii0 s a w w a r a
+tal~ASaw~ara t a ll AA S A ww a r a
+tal~Asaw~ara t a ll aa s a ww a r a
+tal~aSaw~ara t a ll A S A ww a r a
+tal~asaw~ara t a ll a s a ww a r a
+tal~awSaw~ara t a ll a w S A ww a r a
+tal~awsaw~ara t a ll a w s a ww a r a
+tal~aySaw~ara t a ll a y S A ww a r a
+tal~aysaw~ara t a ll a y s a ww a r a
+tal~iSaw~ara t a ll I0 S A ww a r a
+tal~isaw~ara t a ll i0 s a ww a r a
+tal~uSaw~ara t a ll U0 S A ww a r a
+tal~usaw~ara t a ll u0 s a ww a r a
+tal~wSaw~ara t a ll UU0 S A ww a r a
+tal~wsaw~ara t a ll uu0 s a ww a r a
+tal~ySaw~ara t a ll II0 S A ww a r a
+tal~ysaw~ara t a ll ii0 s a ww a r a
 tamaAmaAF t a m aa m a a n
 tamak~ana t a m a kk a n a
 tamak~anato t a m a kk a n a t
@@ -7760,24 +7794,24 @@ tamohiydAF t a m h ii0 d a n
 tamorK t a m r i1 n
 tamoriyrapK t a m r ii0 r a t i1 n
 tamotaliku t a m t a l i0 k u0
-tam~ASaw~ara t a mm AA S A w w a r a
-tam~Asaw~ara t a mm aa s a w w a r a
+tam~ASaw~ara t a mm AA S A ww a r a
+tam~Asaw~ara t a mm aa s a ww a r a
 tam~a t a mm a
-tam~aSaw~ara t a mm A S A w w a r a
-tam~asaw~ara t a mm a s a w w a r a
-tam~awSaw~ara t a mm a w S A w w a r a
-tam~awsaw~ara t a mm a w s a w w a r a
-tam~aySaw~ara t a mm a y S A w w a r a
-tam~aysaw~ara t a mm a y s a w w a r a
-tam~iSaw~ara t a mm I0 S A w w a r a
-tam~isaw~ara t a mm i0 s a w w a r a
-tam~uSaw~ara t a mm U0 S A w w a r a
-tam~usaw~ara t a mm u0 s a w w a r a
+tam~aSaw~ara t a mm A S A ww a r a
+tam~asaw~ara t a mm a s a ww a r a
+tam~awSaw~ara t a mm a w S A ww a r a
+tam~awsaw~ara t a mm a w s a ww a r a
+tam~aySaw~ara t a mm a y S A ww a r a
+tam~aysaw~ara t a mm a y s a ww a r a
+tam~iSaw~ara t a mm I0 S A ww a r a
+tam~isaw~ara t a mm i0 s a ww a r a
+tam~uSaw~ara t a mm U0 S A ww a r a
+tam~usaw~ara t a mm u0 s a ww a r a
 tam~uwza t a mm uu0 z a
-tam~wSaw~ara t a mm UU0 S A w w a r a
-tam~wsaw~ara t a mm uu0 s a w w a r a
-tam~ySaw~ara t a mm II0 S A w w a r a
-tam~ysaw~ara t a mm ii0 s a w w a r a
+tam~wSaw~ara t a mm UU0 S A ww a r a
+tam~wsaw~ara t a mm uu0 s a ww a r a
+tam~ySaw~ara t a mm II0 S A ww a r a
+tam~ysaw~ara t a mm ii0 s a ww a r a
 tanaAfasa t a n aa f a s a
 tanaAquDK t a n AA q U0 D I1 n
 tanaAsiy t a n aa s i0
@@ -7798,22 +7832,22 @@ tanotaSibu t a n t A S I0 b u0
 tanotaqidu t a n t A q I0 d u0
 tanotaqilu t a n t A q I0 l u0
 tanowiyEi t a n w ii0 E i0
-tan~ASaw~ara t a nn AA S A w w a r a
-tan~Asaw~ara t a nn aa s a w w a r a
-tan~aSaw~ara t a nn A S A w w a r a
-tan~asaw~ara t a nn a s a w w a r a
-tan~awSaw~ara t a nn a w S A w w a r a
-tan~awsaw~ara t a nn a w s a w w a r a
-tan~aySaw~ara t a nn a y S A w w a r a
-tan~aysaw~ara t a nn a y s a w w a r a
-tan~iSaw~ara t a nn I0 S A w w a r a
-tan~isaw~ara t a nn i0 s a w w a r a
-tan~uSaw~ara t a nn U0 S A w w a r a
-tan~usaw~ara t a nn u0 s a w w a r a
-tan~wSaw~ara t a nn UU0 S A w w a r a
-tan~wsaw~ara t a nn uu0 s a w w a r a
-tan~ySaw~ara t a nn II0 S A w w a r a
-tan~ysaw~ara t a nn ii0 s a w w a r a
+tan~ASaw~ara t a nn AA S A ww a r a
+tan~Asaw~ara t a nn aa s a ww a r a
+tan~aSaw~ara t a nn A S A ww a r a
+tan~asaw~ara t a nn a s a ww a r a
+tan~awSaw~ara t a nn a w S A ww a r a
+tan~awsaw~ara t a nn a w s a ww a r a
+tan~aySaw~ara t a nn a y S A ww a r a
+tan~aysaw~ara t a nn a y s a ww a r a
+tan~iSaw~ara t a nn I0 S A ww a r a
+tan~isaw~ara t a nn i0 s a ww a r a
+tan~uSaw~ara t a nn U0 S A ww a r a
+tan~usaw~ara t a nn u0 s a ww a r a
+tan~wSaw~ara t a nn UU0 S A ww a r a
+tan~wsaw~ara t a nn uu0 s a ww a r a
+tan~ySaw~ara t a nn II0 S A ww a r a
+tan~ysaw~ara t a nn ii0 s a ww a r a
 taqad~umAF t A q A dd u0 m a n
 taqal~ubaAtN t A q A ll u0 b aa t u1 n
 taqil~u t A q I0 ll u0
@@ -7832,22 +7866,22 @@ taqulo t A q U1 l
 taqul~u t A q U0 ll u0
 taquwlu t A q UU0 l u0
 taquwmu t A q UU0 m u0
-taq~ASaw~ara t A qq AA S A w w a r a
-taq~Asaw~ara t A qq AA s a w w a r a
-taq~aSaw~ara t A qq A S A w w a r a
-taq~asaw~ara t A qq A s a w w a r a
-taq~awSaw~ara t A qq A w S A w w a r a
-taq~awsaw~ara t A qq A w s a w w a r a
-taq~aySaw~ara t A qq A y S A w w a r a
-taq~aysaw~ara t A qq A y s a w w a r a
-taq~iSaw~ara t A qq I0 S A w w a r a
-taq~isaw~ara t A qq I0 s a w w a r a
-taq~uSaw~ara t A qq U0 S A w w a r a
-taq~usaw~ara t A qq U0 s a w w a r a
-taq~wSaw~ara t A qq UU0 S A w w a r a
-taq~wsaw~ara t A qq uu0 s a w w a r a
-taq~ySaw~ara t A qq II0 S A w w a r a
-taq~ysaw~ara t A qq ii0 s a w w a r a
+taq~ASaw~ara t A qq AA S A ww a r a
+taq~Asaw~ara t A qq AA s a ww a r a
+taq~aSaw~ara t A qq A S A ww a r a
+taq~asaw~ara t A qq A s a ww a r a
+taq~awSaw~ara t A qq A w S A ww a r a
+taq~awsaw~ara t A qq A w s a ww a r a
+taq~aySaw~ara t A qq A y S A ww a r a
+taq~aysaw~ara t A qq A y s a ww a r a
+taq~iSaw~ara t A qq I0 S A ww a r a
+taq~isaw~ara t A qq I0 s a ww a r a
+taq~uSaw~ara t A qq U0 S A ww a r a
+taq~usaw~ara t A qq U0 s a ww a r a
+taq~wSaw~ara t A qq UU0 S A ww a r a
+taq~wsaw~ara t A qq uu0 s a ww a r a
+taq~ySaw~ara t A qq II0 S A ww a r a
+taq~ysaw~ara t A qq ii0 s a ww a r a
 taraAjaEa t a r aa j a E a
 taraAjaEato t a r aa j a E a t
 taraAjuEa t a r aa j u0 E a
@@ -7868,22 +7902,22 @@ taronuw t a r n u0
 taronuw t a r n uu0
 tarowiy t a r w i0
 tarowiy t a r w ii0
-tar~ASaw~ara t a rr AA S A w w a r a
-tar~Asaw~ara t a rr aa s a w w a r a
-tar~aSaw~ara t a rr A S A w w a r a
-tar~asaw~ara t a rr a s a w w a r a
-tar~awSaw~ara t a rr a w S A w w a r a
-tar~awsaw~ara t a rr a w s a w w a r a
-tar~aySaw~ara t a rr a y S A w w a r a
-tar~aysaw~ara t a rr a y s a w w a r a
-tar~iSaw~ara t a rr I0 S A w w a r a
-tar~isaw~ara t a rr i0 s a w w a r a
-tar~uSaw~ara t a rr U0 S A w w a r a
-tar~usaw~ara t a rr u0 s a w w a r a
-tar~wSaw~ara t a rr UU0 S A w w a r a
-tar~wsaw~ara t a rr uu0 s a w w a r a
-tar~ySaw~ara t a rr II0 S A w w a r a
-tar~ysaw~ara t a rr ii0 s a w w a r a
+tar~ASaw~ara t a rr AA S A ww a r a
+tar~Asaw~ara t a rr aa s a ww a r a
+tar~aSaw~ara t a rr A S A ww a r a
+tar~asaw~ara t a rr a s a ww a r a
+tar~awSaw~ara t a rr a w S A ww a r a
+tar~awsaw~ara t a rr a w s a ww a r a
+tar~aySaw~ara t a rr a y S A ww a r a
+tar~aysaw~ara t a rr a y s a ww a r a
+tar~iSaw~ara t a rr I0 S A ww a r a
+tar~isaw~ara t a rr i0 s a ww a r a
+tar~uSaw~ara t a rr U0 S A ww a r a
+tar~usaw~ara t a rr u0 s a ww a r a
+tar~wSaw~ara t a rr UU0 S A ww a r a
+tar~wsaw~ara t a rr uu0 s a ww a r a
+tar~ySaw~ara t a rr II0 S A ww a r a
+tar~ysaw~ara t a rr ii0 s a ww a r a
 tasaAquTa t a s AA q U0 T A
 tasaAquTi t a s AA q U0 T I0
 tasab~aba t a s a bb a b a
@@ -8152,12 +8186,14 @@ tasar~utw t a s a rr u0 t u0
 tasar~utw t a s a rr u0 t uu0
 tasar~uty t a s a rr u0 t i0
 tasar~uty t a s a rr u0 t ii0
+tasar~uwA t a s a rr u0 w
+tasar~uwA t a s a rr u0 w aa
 tasar~uwA t a s a rr uu0
 tasar~uwA t a s a rr uu0 aa
-tasar~uwa t a s a rr uu0 a
-tasar~uwaw t a s a rr uu0 a uu0
-tasar~uway t a s a rr uu0 a ii0
-tasar~uwi t a s a rr uu0 i0
+tasar~uwa t a s a rr u0 w a
+tasar~uwaw t a s a rr u0 w a uu0
+tasar~uway t a s a rr u0 w a ii0
+tasar~uwi t a s a rr u0 w i0
 tasar~uwu t a s a rr uu0 u0
 tasar~uww t a s a rr uu0 uu0
 tasar~uwy t a s a rr uu0 ii0
@@ -8400,15 +8436,15 @@ tasit~i t a s i0 tt i0
 tasit~u t a s i0 tt u0
 tasit~w t a s i0 tt uu0
 tasit~y t a s i0 tt ii0
-tasiw~A t a s i0 w w a
-tasiw~A t a s i0 w w aa
-tasiw~a t a s i0 w w a
-tasiw~aw t a s i0 w w a uu0
-tasiw~ay t a s i0 w w a ii0
-tasiw~i t a s i0 w w i0
-tasiw~u t a s i0 w w u0
-tasiw~w t a s i0 w w uu0
-tasiw~y t a s i0 w w ii0
+tasiw~A t a s i0 ww a
+tasiw~A t a s i0 ww aa
+tasiw~a t a s i0 ww a
+tasiw~aw t a s i0 ww a uu0
+tasiw~ay t a s i0 ww a ii0
+tasiw~i t a s i0 ww i0
+tasiw~u t a s i0 ww u0
+tasiw~w t a s i0 ww uu0
+tasiw~y t a s i0 ww ii0
 tasix~A t a s i0 xx A
 tasix~A t a s i0 xx AA
 tasix~a t a s i0 xx A
@@ -8461,22 +8497,22 @@ tasotaEid~u t a s t a E i0 dd u0
 tasotaTiyEu t a s t A T II0 E u0
 tasotamir~a t a s t a m i0 rr a
 tasotawoEibu t a s t a w E i0 b u0
-tas~ASaw~ara t a ss AA S A w w a r a
-tas~Asaw~ara t a ss aa s a w w a r a
-tas~aSaw~ara t a ss A S A w w a r a
-tas~asaw~ara t a ss a s a w w a r a
-tas~awSaw~ara t a ss a w S A w w a r a
-tas~awsaw~ara t a ss a w s a w w a r a
-tas~aySaw~ara t a ss a y S A w w a r a
-tas~aysaw~ara t a ss a y s a w w a r a
-tas~iSaw~ara t a ss I0 S A w w a r a
-tas~isaw~ara t a ss i0 s a w w a r a
-tas~uSaw~ara t a ss U0 S A w w a r a
-tas~usaw~ara t a ss u0 s a w w a r a
-tas~wSaw~ara t a ss UU0 S A w w a r a
-tas~wsaw~ara t a ss uu0 s a w w a r a
-tas~ySaw~ara t a ss II0 S A w w a r a
-tas~ysaw~ara t a ss ii0 s a w w a r a
+tas~ASaw~ara t a ss AA S A ww a r a
+tas~Asaw~ara t a ss aa s a ww a r a
+tas~aSaw~ara t a ss A S A ww a r a
+tas~asaw~ara t a ss a s a ww a r a
+tas~awSaw~ara t a ss a w S A ww a r a
+tas~awsaw~ara t a ss a w s a ww a r a
+tas~aySaw~ara t a ss a y S A ww a r a
+tas~aysaw~ara t a ss a y s a ww a r a
+tas~iSaw~ara t a ss I0 S A ww a r a
+tas~isaw~ara t a ss i0 s a ww a r a
+tas~uSaw~ara t a ss U0 S A ww a r a
+tas~usaw~ara t a ss u0 s a ww a r a
+tas~wSaw~ara t a ss UU0 S A ww a r a
+tas~wsaw~ara t a ss uu0 s a ww a r a
+tas~ySaw~ara t a ss II0 S A ww a r a
+tas~ysaw~ara t a ss ii0 s a ww a r a
 tata>a^~aru t a t a AH a ^^ a r u0
 tata>a^~aru- t a t a AH a ^^ a r u0
 tata>ax~aru t a t a AH a xx A r u0
@@ -8488,7 +8524,7 @@ tataSar~afu t a t A S A rr a f u0
 tatabaAdaru t a t a b aa d a r u0
 tatajaAwazo t a t a j aa w a z
 tatajaAwazu t a t a j aa w a z u0
-tatakaw~anu t a t a k a w w a n u0
+tatakaw~anu t a t a k a ww a n u0
 tataqad~amu t a t A q A dd a m u0
 tataraAwaHu t a t a r aa w a H u0
 tatawaASalu t a t a w AA S A l u0
@@ -8497,25 +8533,27 @@ tatawal~aY t a t a w a ll a
 tatawal~aY t a t a w a ll aa
 tatawas~aTu t a t a w a ss A T U0
 tatim~u t a t i0 mm u0
-tat~ASaw~ara t a tt AA S A w w a r a
-tat~Asaw~ara t a tt aa s a w w a r a
-tat~aSaw~ara t a tt A S A w w a r a
-tat~asaw~ara t a tt a s a w w a r a
-tat~awSaw~ara t a tt a w S A w w a r a
-tat~awsaw~ara t a tt a w s a w w a r a
-tat~aySaw~ara t a tt a y S A w w a r a
-tat~aysaw~ara t a tt a y s a w w a r a
-tat~iSaw~ara t a tt I0 S A w w a r a
-tat~isaw~ara t a tt i0 s a w w a r a
-tat~uSaw~ara t a tt U0 S A w w a r a
-tat~usaw~ara t a tt u0 s a w w a r a
-tat~wSaw~ara t a tt UU0 S A w w a r a
-tat~wsaw~ara t a tt uu0 s a w w a r a
-tat~ySaw~ara t a tt II0 S A w w a r a
-tat~ysaw~ara t a tt ii0 s a w w a r a
+tat~ASaw~ara t a tt AA S A ww a r a
+tat~Asaw~ara t a tt aa s a ww a r a
+tat~aSaw~ara t a tt A S A ww a r a
+tat~asaw~ara t a tt a s a ww a r a
+tat~awSaw~ara t a tt a w S A ww a r a
+tat~awsaw~ara t a tt a w s a ww a r a
+tat~aySaw~ara t a tt a y S A ww a r a
+tat~aysaw~ara t a tt a y s a ww a r a
+tat~iSaw~ara t a tt I0 S A ww a r a
+tat~isaw~ara t a tt i0 s a ww a r a
+tat~uSaw~ara t a tt U0 S A ww a r a
+tat~usaw~ara t a tt u0 s a ww a r a
+tat~wSaw~ara t a tt UU0 S A ww a r a
+tat~wsaw~ara t a tt uu0 s a ww a r a
+tat~ySaw~ara t a tt II0 S A ww a r a
+tat~ysaw~ara t a tt ii0 s a ww a r a
 tawSobara t a w S b a r a
 tawaAzuni t a w aa z u0 n i0
 tawaS~ala t a w A SS A l a
+tawaS~aluwA t a w A SS A l u0 w
+tawaS~aluwA t a w A SS A l u0 w aa
 tawaS~aluwA t a w A SS A l uu0
 tawaS~aluwA t a w A SS A l uu0 aa
 tawaS~ulahu t a w A SS U0 l a h u0
@@ -8545,69 +8583,69 @@ tawosiyEK t a w s ii0 E i1 n
 tawosiyEa t a w s ii0 E a
 tawosiyEi t a w s ii0 E i0
 tawsobara t a w s b a r a
-taw~ASaw~ara t a w w AA S A w w a r a
-taw~Asaw~ara t a w w aa s a w w a r a
-taw~aSaw~ara t a w w A S A w w a r a
-taw~asaw~ara t a w w a s a w w a r a
-taw~awSaw~ara t a w w a w S A w w a r a
-taw~awsaw~ara t a w w a w s a w w a r a
-taw~aySaw~ara t a w w a y S A w w a r a
-taw~aysaw~ara t a w w a y s a w w a r a
-taw~iSaw~ara t a w w I0 S A w w a r a
-taw~isaw~ara t a w w i0 s a w w a r a
-taw~uSaw~ara t a w w U0 S A w w a r a
-taw~usaw~ara t a w w u0 s a w w a r a
-taw~wSaw~ara t a w w UU0 S A w w a r a
-taw~wsaw~ara t a w w uu0 s a w w a r a
-taw~ySaw~ara t a w w II0 S A w w a r a
-taw~ysaw~ara t a w w ii0 s a w w a r a
+taw~ASaw~ara t a ww AA S A ww a r a
+taw~Asaw~ara t a ww aa s a ww a r a
+taw~aSaw~ara t a ww A S A ww a r a
+taw~asaw~ara t a ww a s a ww a r a
+taw~awSaw~ara t a ww a w S A ww a r a
+taw~awsaw~ara t a ww a w s a ww a r a
+taw~aySaw~ara t a ww a y S A ww a r a
+taw~aysaw~ara t a ww a y s a ww a r a
+taw~iSaw~ara t a ww I0 S A ww a r a
+taw~isaw~ara t a ww i0 s a ww a r a
+taw~uSaw~ara t a ww U0 S A ww a r a
+taw~usaw~ara t a ww u0 s a ww a r a
+taw~wSaw~ara t a ww UU0 S A ww a r a
+taw~wsaw~ara t a ww uu0 s a ww a r a
+taw~ySaw~ara t a ww II0 S A ww a r a
+taw~ysaw~ara t a ww ii0 s a ww a r a
 taxaT~iy t a x A TT I0
 taxaT~iy t a x A TT II0
 taxal~ufahu t a x A ll u0 f a h u0
-taxaw~ufi t a x A w w u0 f i0
+taxaw~ufi t a x A ww u0 f i0
 taxoSiySa t a x S II0 S A
 taxoSiySu t a x S II0 S U0
 taxoliydi t a x l ii0 d i0
 taxoluw t a x l u0
 taxoluw t a x l uu0
-taxoluwa t a x l uu0 a
+taxoluwa t a x l u0 w a
 taxoziyni t a x z ii0 n i0
 taxoziynuhaA t a x z ii0 n u0 h a
 taxoziynuhaA t a x z ii0 n u0 h aa
-tax~ASaw~ara t a xx AA S A w w a r a
-tax~Asaw~ara t a xx AA s a w w a r a
-tax~aSaw~ara t a xx A S A w w a r a
-tax~asaw~ara t a xx A s a w w a r a
-tax~awSaw~ara t a xx A w S A w w a r a
-tax~awsaw~ara t a xx A w s a w w a r a
-tax~aySaw~ara t a xx A y S A w w a r a
-tax~aysaw~ara t a xx A y s a w w a r a
-tax~iSaw~ara t a xx I0 S A w w a r a
-tax~isaw~ara t a xx I0 s a w w a r a
-tax~uSaw~ara t a xx U0 S A w w a r a
-tax~usaw~ara t a xx U0 s a w w a r a
-tax~wSaw~ara t a xx UU0 S A w w a r a
-tax~wsaw~ara t a xx uu0 s a w w a r a
-tax~ySaw~ara t a xx II0 S A w w a r a
-tax~ysaw~ara t a xx ii0 s a w w a r a
+tax~ASaw~ara t a xx AA S A ww a r a
+tax~Asaw~ara t a xx AA s a ww a r a
+tax~aSaw~ara t a xx A S A ww a r a
+tax~asaw~ara t a xx A s a ww a r a
+tax~awSaw~ara t a xx A w S A ww a r a
+tax~awsaw~ara t a xx A w s a ww a r a
+tax~aySaw~ara t a xx A y S A ww a r a
+tax~aysaw~ara t a xx A y s a ww a r a
+tax~iSaw~ara t a xx I0 S A ww a r a
+tax~isaw~ara t a xx I0 s a ww a r a
+tax~uSaw~ara t a xx U0 S A ww a r a
+tax~usaw~ara t a xx U0 s a ww a r a
+tax~wSaw~ara t a xx UU0 S A ww a r a
+tax~wsaw~ara t a xx uu0 s a ww a r a
+tax~ySaw~ara t a xx II0 S A ww a r a
+tax~ysaw~ara t a xx ii0 s a ww a r a
 taySobara t a y S b a r a
 taysobara t a y s b a r a
-tay~ASaw~ara t a y y AA S A w w a r a
-tay~Asaw~ara t a y y aa s a w w a r a
-tay~aSaw~ara t a y y A S A w w a r a
-tay~asaw~ara t a y y a s a w w a r a
-tay~awSaw~ara t a y y a w S A w w a r a
-tay~awsaw~ara t a y y a w s a w w a r a
-tay~aySaw~ara t a y y a y S A w w a r a
-tay~aysaw~ara t a y y a y s a w w a r a
-tay~iSaw~ara t a y y I0 S A w w a r a
-tay~isaw~ara t a y y i0 s a w w a r a
-tay~uSaw~ara t a y y U0 S A w w a r a
-tay~usaw~ara t a y y u0 s a w w a r a
-tay~wSaw~ara t a y y UU0 S A w w a r a
-tay~wsaw~ara t a y y uu0 s a w w a r a
-tay~ySaw~ara t a y y II0 S A w w a r a
-tay~ysaw~ara t a y y ii0 s a w w a r a
+tay~ASaw~ara t a yy AA S A ww a r a
+tay~Asaw~ara t a yy aa s a ww a r a
+tay~aSaw~ara t a yy A S A ww a r a
+tay~asaw~ara t a yy a s a ww a r a
+tay~awSaw~ara t a yy a w S A ww a r a
+tay~awsaw~ara t a yy a w s a ww a r a
+tay~aySaw~ara t a yy a y S A ww a r a
+tay~aysaw~ara t a yy a y s a ww a r a
+tay~iSaw~ara t a yy I0 S A ww a r a
+tay~isaw~ara t a yy i0 s a ww a r a
+tay~uSaw~ara t a yy U0 S A ww a r a
+tay~usaw~ara t a yy u0 s a ww a r a
+tay~wSaw~ara t a yy UU0 S A ww a r a
+tay~wsaw~ara t a yy uu0 s a ww a r a
+tay~ySaw~ara t a yy II0 S A ww a r a
+tay~ysaw~ara t a yy ii0 s a ww a r a
 tazaAlu t a z aa l u0
 tazaAmunAF t a z aa m u0 n a n
 tazaAyadato t a z aa y a d a t
@@ -8615,27 +8653,27 @@ tazayoda t a z a y d a
 taziydu t a z ii0 d u0
 taziydumo t a z ii0 d u1 m
 tazodaHimu t a z d a H i0 m u0
-taz~ASaw~ara t a zz AA S A w w a r a
-taz~Asaw~ara t a zz aa s a w w a r a
-taz~aSaw~ara t a zz A S A w w a r a
-taz~asaw~ara t a zz a s a w w a r a
-taz~awSaw~ara t a zz a w S A w w a r a
-taz~awsaw~ara t a zz a w s a w w a r a
-taz~aySaw~ara t a zz a y S A w w a r a
-taz~aysaw~ara t a zz a y s a w w a r a
-taz~iSaw~ara t a zz I0 S A w w a r a
-taz~isaw~ara t a zz i0 s a w w a r a
-taz~uSaw~ara t a zz U0 S A w w a r a
-taz~usaw~ara t a zz u0 s a w w a r a
-taz~wSaw~ara t a zz UU0 S A w w a r a
-taz~wsaw~ara t a zz uu0 s a w w a r a
-taz~ySaw~ara t a zz II0 S A w w a r a
-taz~ysaw~ara t a zz ii0 s a w w a r a
-ta}ySaw~ara t a AH II0 S A w w a r a
-ta}ysaw~ara t a AH ii0 s a w w a r a
-ta}~iSaw~ara t a AHAH I0 S A w w a r a
-ta}~isaw~ara t a AHAH i0 s a w w a r a
-tdan~iya t d a nn ii0 a
+taz~ASaw~ara t a zz AA S A ww a r a
+taz~Asaw~ara t a zz aa s a ww a r a
+taz~aSaw~ara t a zz A S A ww a r a
+taz~asaw~ara t a zz a s a ww a r a
+taz~awSaw~ara t a zz a w S A ww a r a
+taz~awsaw~ara t a zz a w s a ww a r a
+taz~aySaw~ara t a zz a y S A ww a r a
+taz~aysaw~ara t a zz a y s a ww a r a
+taz~iSaw~ara t a zz I0 S A ww a r a
+taz~isaw~ara t a zz i0 s a ww a r a
+taz~uSaw~ara t a zz U0 S A ww a r a
+taz~usaw~ara t a zz u0 s a ww a r a
+taz~wSaw~ara t a zz UU0 S A ww a r a
+taz~wsaw~ara t a zz uu0 s a ww a r a
+taz~ySaw~ara t a zz II0 S A ww a r a
+taz~ysaw~ara t a zz ii0 s a ww a r a
+ta}ySaw~ara t a AH II0 S A ww a r a
+ta}ysaw~ara t a AH ii0 s a ww a r a
+ta}~iSaw~ara t a AHAH I0 S A ww a r a
+ta}~isaw~ara t a AHAH i0 s a ww a r a
+tdan~iya t d a nn i0 y a
 tiSHoriyna t i0 SH r ii0 n a
 tiSobara t I0 S b a r a
 tijaAriy~apF t i0 j aa r ii0 y a t a n
@@ -8663,7 +8701,7 @@ tu&a^~ira t u0 AH a ^^ i0 r a
 tu&a^~iru t u0 AH a ^^ i0 r u0
 tu&ad~iy t u0 AH a dd i0
 tu&ad~iy t u0 AH a dd ii0
-tu&ad~iya t u0 AH a dd ii0 a
+tu&ad~iya t u0 AH a dd i0 y a
 tu&okala t u0 AH k a l a
 tuDal~ilu t U0 D A ll i0 l u0
 tuDobaTo t U0 D b A T
@@ -8717,13 +8755,13 @@ turaAfiquhaA t u0 r aa f I0 q U0 h a
 turaAfiquhaA t u0 r aa f I0 q U0 h aa
 turak~izu t u0 r a kk i0 z u0
 turobiku t u0 r b i0 k u0
-turokiyaA t u0 r k ii0 a
-turokiyaA t u0 r k ii0 aa
+turokiyaA t u0 r k i0 y a
+turokiyaA t u0 r k i0 y aa
 turokiy~apF t u0 r k ii0 y a t a n
 turokoyaA t u0 r k y a
 turokoyaA t u0 r k y aa
-turowaY t u0 r uu0 a
-turowaY t u0 r uu0 aa
+turowaY t u0 r w a
+turowaY t u0 r w aa
 tusaAEidu t u0 s aa E i0 d u0
 tusaAEiduhumo t u0 s aa E i0 d u0 h u1 m
 tusaAEiduka t u0 s aa E i0 d u0 k a
@@ -8736,13 +8774,13 @@ tusobara t u0 s b a r a
 tusohimu t u0 s h i0 m u0
 tuwSHiynaAriy t uu0 SH ii0 n aa r i0
 tuwSHiynaAriy t uu0 SH ii0 n aa r ii0
-tuwaj~aho t uu0 a jj a h
+tuwaj~aho t u0 w a jj a h
 tuwnisiy~uwna t uu0 n i0 s ii0 y uu0 n a
 tuwnusa t uu0 n u0 s a
 tuwnusiy~N t uu0 n u0 s ii0 y u1 n
 tuwnusu t uu0 n u0 s u0
-tuwufiyato t uu0 u0 f ii0 a t
-tuwuf~iya t uu0 u0 ff ii0 a
+tuwufiyato t uu0 u0 f i0 y a t
+tuwuf~iya t uu0 u0 ff i0 y a
 tuw~ija t uu0 w i0 j a
 tuxaT~iTu t u0 x A TT I0 T U0
 tuxolaTu t u0 x l A T U0
@@ -8776,7 +8814,7 @@ w^alAa^pa uu0 ^ a l aa a ^ t a
 w^alaA^apN uu0 ^ a l aa ^ a t u1 n
 wa w a
 wa<iDoTiraAbaAti w a AH I0 D T I0 r aa b aa t i0
-wa<iSHobiyliyap w a AH i0 SH b ii0 l ii0 a
+wa<iSHobiyliyap w a AH i0 SH b ii0 l i0 y a
 wa<iTHaA w a AH i0 TH a
 wa<iTHaA w a AH i0 TH aa
 wa<iTHo w a AH i1 TH
@@ -8814,6 +8852,8 @@ wa>aHorazati w a AH a H r a z a t i0
 wa>aSHaAra w a AH a SH aa r a
 wa>aSHaArati w a AH a SH aa r a t i0
 wa>aSHaArato w a AH a SH aa r a t
+wa>aSHaAruwA w a AH a SH aa r u0 w
+wa>aSHaAruwA w a AH a SH aa r u0 w aa
 wa>aSHaAruwA w a AH a SH aa r uu0
 wa>aSHaAruwA w a AH a SH aa r uu0 aa
 wa>aSHorafa w a AH a SH r a f a
@@ -8867,14 +8907,16 @@ wa>asotoraAloyaA w a AH a s t r aa l y a
 wa>asotoraAloyaA w a AH a s t r aa l y aa
 wa>awaA}ila w a AH a w aa AH i0 l a
 wa>awoDaHa w a AH a w D A H a
+wa>awoDaHuwA w a AH a w D A H u0 w
+wa>awoDaHuwA w a AH a w D A H u0 w aa
 wa>awoDaHuwA w a AH a w D A H uu0
 wa>awoDaHuwA w a AH a w D A H uu0 aa
 wa>aworaAqu w a AH a w r AA q U0
-wa>aw~awmN w a AH a w w a w m u1 n
-wa>aw~aymN w a AH a w w a y m u1 n
+wa>aw~awmN w a AH a ww a w m u1 n
+wa>aw~aymN w a AH a ww a y m u1 n
 wa>axofati w a AH a x f a t i0
-wa>ay~awmN w a AH a y y a w m u1 n
-wa>ay~aymN w a AH a y y a y m u1 n
+wa>ay~awmN w a AH a yy a w m u1 n
+wa>ay~aymN w a AH a yy a y m u1 n
 wa>azamaAtK w a AH a z a m aa t i1 n
 wa>uToliqati w a AH U0 T l I0 q A t i0
 wa>uno^aY w a AH u0 n ^ a
@@ -8887,8 +8929,8 @@ wa>uxotihaA w a AH u0 x t i0 h a
 wa>uxotihaA w a AH u0 x t i0 h aa
 waADiHK w a D I0 H i1 n
 waADiHK w aa D I0 H i1 n
-waAEiyapK w a E ii0 a t i1 n
-waAEiyapK w aa E ii0 a t i1 n
+waAEiyapK w a E i0 y a t i1 n
+waAEiyapK w aa E i0 y a t i1 n
 waAEotabara w a E t a b a r a
 waAEotabara w aa E t a b a r a
 waAEotabarato w a E t a b a r a t
@@ -9069,8 +9111,8 @@ waAlo>adabiy~api w a l AH a d a b ii0 y a t i0
 waAlo>adabiy~api w aa l AH a d a b ii0 y a t i0
 waAlo>adawaAti w a l AH a d a w aa t i0
 waAlo>adawaAti w aa l AH a d a w aa t i0
-waAlo>agoTiyapi w a l AH a g T II0 a t i0
-waAlo>agoTiyapi w aa l AH a g T II0 a t i0
+waAlo>agoTiyapi w a l AH a g T I0 y a t i0
+waAlo>agoTiyapi w aa l AH a g T I0 y a t i0
 waAlo>ajodaAdi w a l AH a j d aa d i0
 waAlo>ajodaAdi w aa l AH a j d aa d i0
 waAlo>ajohizapi w a l AH a j h i0 z a t i0
@@ -9149,8 +9191,8 @@ waAloHawaAsiyba w a l H a w aa s ii0 b a
 waAloHawaAsiyba w aa l H a w aa s ii0 b a
 waAloHawaAsiybi w a l H a w aa s ii0 b i0
 waAloHawaAsiybi w aa l H a w aa s ii0 b i0
-waAloHay~aAnu w a l H a y y aa n u0
-waAloHay~aAnu w aa l H a y y aa n u0
+waAloHay~aAnu w a l H a yy aa n u0
+waAloHay~aAnu w aa l H a yy aa n u0
 waAloHijaAzi w a l H i0 j aa z i0
 waAloHijaAzi w aa l H i0 j aa z i0
 waAloHirafi w a l H i0 r a f i0
@@ -9225,12 +9267,12 @@ waAlokibaAra w a l k i0 b aa r a
 waAlokibaAra w aa l k i0 b aa r a
 waAlokitaAbapi w a l k i0 t aa b a t i0
 waAlokitaAbapi w aa l k i0 t aa b a t i0
-waAlokoruwaAtiy~i w a l k r uu0 aa t ii0 y i0
-waAlokoruwaAtiy~i w aa l k r uu0 aa t ii0 y i0
+waAlokoruwaAtiy~i w a l k r u0 w aa t ii0 y i0
+waAlokoruwaAtiy~i w aa l k r u0 w aa t ii0 y i0
 waAlokut~aAbi w a l k u0 tt aa b i0
 waAlokut~aAbi w aa l k u0 tt aa b i0
-waAlokuwayotu w a l k uu0 a y t u0
-waAlokuwayotu w aa l k uu0 a y t u0
+waAlokuwayotu w a l k u0 w a y t u0
+waAlokuwayotu w aa l k u0 w a y t u0
 waAlomaA}iy~api w a l m aa AH ii0 y a t i0
 waAlomaA}iy~api w aa l m aa AH ii0 y a t i0
 waAlomaEaAriDi w a l m a E aa r I0 D I0
@@ -9253,8 +9295,8 @@ waAlomanoEi w a l m a n E i0
 waAlomanoEi w aa l m a n E i0
 waAlomasaA'aAti w a l m a s aa AH aa t i0
 waAlomasaA'aAti w aa l m a s aa AH aa t i0
-waAlomaw~aAd~i w a l m a w w aa dd i0
-waAlomaw~aAd~i w aa l m a w w aa dd i0
+waAlomaw~aAd~i w a l m a ww aa dd i0
+waAlomaw~aAd~i w aa l m a ww aa dd i0
 waAlomiSoriy~u w a l m I0 S r ii0 y u0
 waAlomiSoriy~u w aa l m I0 S r ii0 y u0
 waAlomuEaAlijaAti w a l m u0 E aa l i0 j aa t i0
@@ -9321,8 +9363,8 @@ waAloxawofa w a l x A w f a
 waAloxawofa w aa l x A w f a
 waAloxayoru w a l x A y r u0
 waAloxayoru w aa l x A y r u0
-waAloxiyaAraAti w a l x II0 aa r aa t i0
-waAloxiyaAraAti w aa l x II0 aa r aa t i0
+waAloxiyaAraAti w a l x I0 y aa r aa t i0
+waAloxiyaAraAti w aa l x I0 y aa r aa t i0
 waAloxuSuwSiy~api w a l x U0 S UU0 S II0 y a t i0
 waAloxuSuwSiy~api w aa l x U0 S UU0 S II0 y a t i0
 waAloyA'u w a l y aa AH u0
@@ -9359,18 +9401,18 @@ waAls~it~iyna w a ss i0 tt ii0 n a
 waAls~it~iyna w aa ss i0 tt ii0 n a
 waAls~it~iyniy~aAti w a ss i0 tt ii0 n ii0 y aa t i0
 waAls~it~iyniy~aAti w aa ss i0 tt ii0 n ii0 y aa t i0
-waAls~iyaAsaAti w a ss ii0 aa s aa t i0
-waAls~iyaAsaAti w aa ss ii0 aa s aa t i0
-waAls~iyaAsapi w a ss ii0 aa s a t i0
-waAls~iyaAsapi w aa ss ii0 aa s a t i0
+waAls~iyaAsaAti w a ss i0 y aa s aa t i0
+waAls~iyaAsaAti w aa ss i0 y aa s aa t i0
+waAls~iyaAsapi w a ss i0 y aa s a t i0
+waAls~iyaAsapi w aa ss i0 y aa s a t i0
 waAlt~aEaS~ubi w a tt a E A SS U0 b i0
 waAlt~aEaS~ubi w aa tt a E A SS U0 b i0
 waAlt~aEoliymo w a tt a E l ii0 m
 waAlt~aEoliymo w aa tt a E l ii0 m
 waAlt~aHar~uSHi w a tt a H a rr u0 SH i0
 waAlt~aHar~uSHi w aa tt a H a rr u0 SH i0
-waAlt~aTaw~uri w a tt A T A w w u0 r i0
-waAlt~aTaw~uri w aa tt A T A w w u0 r i0
+waAlt~aTaw~uri w a tt A T A ww u0 r i0
+waAlt~aTaw~uri w aa tt A T A ww u0 r i0
 waAlt~aTohiyru w a tt A T h ii0 r u0
 waAlt~aTohiyru w aa tt A T h ii0 r u0
 waAlt~abar~uki w a tt a b a rr u0 k i0
@@ -9391,8 +9433,8 @@ waAlt~ikonuwluwjoyaAti w a tt i0 k n uu0 l uu0 j y aa t i0
 waAlt~ikonuwluwjoyaAti w aa tt i0 k n uu0 l uu0 j y aa t i0
 waAlt~imo^Alu w a tt i0 m ^ aa l u0
 waAlt~imo^Alu w aa tt i0 m ^ aa l u0
-waAlz~iyaAraAti w a zz ii0 aa r aa t i0
-waAlz~iyaAraAti w aa zz ii0 aa r aa t i0
+waAlz~iyaAraAti w a zz i0 y aa r aa t i0
+waAlz~iyaAraAti w aa zz i0 y aa r aa t i0
 waAl~aTHiy w a ll a TH i0
 waAl~aTHiy w a ll a TH ii0
 waAl~aTHiy w aa ll a TH i0
@@ -9434,6 +9476,8 @@ waEaSHarapa w a E a SH a r a t a
 waEaSHori w a E a SH r i0
 waEaSori w a E A S r i0
 waEa^ara w a E a ^ a r a
+waEa^aruwA w a E a ^ a r u0 w
+waEa^aruwA w a E a ^ a r u0 w aa
 waEa^aruwA w a E a ^ a r uu0
 waEa^aruwA w a E a ^ a r uu0 aa
 waEab~ara w a E a bb a r a
@@ -9494,7 +9538,7 @@ waSofa w A S f a
 waSuEuwbaAtK w A S U0 E uu0 b aa t i1 n
 waSuEuwbapF w A S U0 E uu0 b a t a n
 waSufuwfihimo w A S U0 f uu0 f i0 h i1 m
-waSuwarN w A S UU0 a r u1 n
+waSuwarN w A S U0 w a r u1 n
 waTHahabato w a TH a h a b a t
 waTHakara w a TH a k a r a
 waTHalika w a TH a l i0 k a
@@ -9516,8 +9560,8 @@ wa^alA^wna w a ^ a l aa ^ uu0 n a
 wa^alA^yna w a ^ a l aa ^ ii0 n a
 wa^alAa^apa w a ^ a l aa a ^ a t a
 wa^alaA^iyna w a ^ a l aa ^ ii0 n a
-wa^amAniyapK w a ^ a m aa n ii0 a t i1 n
-wa^amAniyapa w a ^ a m aa n ii0 a t a
+wa^amAniyapK w a ^ a m aa n i0 y a t i1 n
+wa^amAniyapa w a ^ a m aa n i0 y a t a
 wa^amAniyna w a ^ a m aa n ii0 n a
 wa^amAniyno w a ^ a m aa n ii0 n
 wa^amAnuwna w a ^ a m aa n uu0 n a
@@ -9525,8 +9569,8 @@ wa^amAnwna w a ^ a m aa n uu0 n a
 wa^amAnyna w a ^ a m aa n ii0 n a
 wa^amAnyno w a ^ a m aa n ii0 n
 wa^amaAni w a ^ a m aa n i0
-wa^amaAniya w a ^ a m aa n ii0 a
-wa^amaAniyapa w a ^ a m aa n ii0 a t a
+wa^amaAniya w a ^ a m aa n i0 y a
+wa^amaAniyapa w a ^ a m aa n i0 y a t a
 wa^amaAniyna w a ^ a m aa n ii0 n a
 wa^amaAniyno w a ^ a m aa n ii0 n
 wa^amaAniy~apK w a ^ a m aa n ii0 y a t i1 n
@@ -9575,7 +9619,7 @@ wadarasato w a d a r a s a t
 wadiboluwmaAsiy~iyna w a d i0 b l uu0 m aa s ii0 y ii0 n a
 wadiraAsapK w a d i0 r aa s a t i1 n
 wadiyEK w a d ii0 E i1 n
-waduwalK w a d uu0 a l i1 n
+waduwalK w a d u0 w a l i1 n
 waduxuwlihaA w a d u0 x UU0 l i0 h a
 waduxuwlihaA w a d u0 x UU0 l i0 h aa
 wafaApK w a f aa t i1 n
@@ -9583,6 +9627,8 @@ wafaApi w a f aa t i0
 wafaAqamato w a f AA q A m a t
 wafaE~aAlK w a f a EE aa l i1 n
 wafahomi w a f a h m i0
+wafaj~aruwA w a f a jj a r u0 w
+wafaj~aruwA w a f a jj a r u0 w aa
 wafaj~aruwA w a f a jj a r uu0
 wafaj~aruwA w a f a jj a r uu0 aa
 wafan~aAniyna w a f a nn aa n ii0 n a
@@ -9616,11 +9662,11 @@ wahaTHaA w a h a TH a
 wahaTHaA w a h a TH aa
 wahaTHihi w a h a TH i0 h i0
 wahadafayoni w a h a d a f a y n i0
-wahiya w a h ii0 a
+wahiya w a h i0 y a
 wahumaA w a h u0 m a
 wahumaA w a h u0 m aa
 wahunaAka w a h u0 n aa k a
-wahuwa w a h uu0 a
+wahuwa w a h u0 w a
 wajaA'a w a j aa AH a
 wajaA'ato w a j aa AH a t
 wajaAmiEaAtK w a j aa m i0 E aa t i1 n
@@ -9736,8 +9782,8 @@ wamuraAqabatihaA w a m u0 r AA q A b a t i0 h aa
 wamurak~abaAtK w a m u0 r a kk a b aa t i1 n
 wamusaAwaAtihi w a m u0 s aa w aa t i0 h i0
 wamusalosalAF w a m u0 s a l s a l a n
-wamusotawaY w a m u0 s t a uu0 a
-wamusotawaY w a m u0 s t a uu0 aa
+wamusotawaY w a m u0 s t a w a
+wamusotawaY w a m u0 s t a w aa
 wamusotawayaAtu w a m u0 s t a w a y aa t u0
 wamuxorijiyna w a m u0 x r i0 j ii0 n a
 wam}atayoni w a m AH a t a y n i0
@@ -9766,14 +9812,14 @@ waqaTaEa w A q A T A E a
 waqabaA}ila w A q A b aa AH i0 l a
 waqado w A q A d
 waqad~amato w A q A dd a m a t
-waqaw~aymN w A q A w w a y m u1 n
-waqaw~wmN w A q A w w uu0 m u1 n
-waqay~awmN w A q A y y a w m u1 n
-waqay~aymN w A q A y y a y m u1 n
+waqaw~aymN w A q A ww a y m u1 n
+waqaw~wmN w A q A ww uu0 m u1 n
+waqay~awmN w A q A yy a w m u1 n
+waqay~aymN w A q A yy a y m u1 n
 waqil~api w A q I0 ll a t i0
 waqinAnK w A q I0 n aa n i1 n
 waqiraA'api w A q I0 r aa AH a t i0
-waqiyaAdaAtK w A q II0 aa d aa t i1 n
+waqiyaAdaAtK w A q I0 y aa d aa t i1 n
 waqiy~wmN w A q II0 y uu0 m u1 n
 waqofi w A q f i0
 waqotK w A q t i1 n
@@ -9786,6 +9832,8 @@ waraH~abato w a r a HH a b a t
 warabaTa w a r a b A T A
 waraboTihi w a r a b T I0 h i0
 warada w a r a d a
+warafaEuwA w a r a f a E u0 w
+warafaEuwA w a r a f a E u0 w aa
 warafaEuwA w a r a f a E uu0
 warafaEuwA w a r a f a E uu0 aa
 warafoDu w a r a f D U0
@@ -9794,13 +9842,13 @@ waraj~aHa w a r a jj a H a
 wariEaAyapK w a r i0 E aa y a t i1 n
 warijaAli w a r i0 j aa l i0
 warijaAlu w a r i0 j aa l u0
-wariyaADiy~apK w a r ii0 AA D II0 y a t i1 n
+wariyaADiy~apK w a r i0 y AA D II0 y a t i1 n
 waroSHapa w a r SH a t a
 warodihA w a r d i0 h a
 warodihA w a r d i0 h aa
 warusuwmaAtK w a r u0 s uu0 m aa t i1 n
-waruwaAnodaA w a r uu0 aa n d a
-waruwaAnodaA w a r uu0 aa n d aa
+waruwaAnodaA w a r u0 w aa n d a
+waruwaAnodaA w a r u0 w aa n d aa
 warwbino w a r uu0 b i1 n
 wasAdoyuw w a s aa d y u0
 wasAdoyuw w a s aa d y uu0
@@ -9878,8 +9926,8 @@ wasatatim~u w a s a t a t i0 mm u0
 wasatunaZ~amu w a s a t u0 n A ZZ A m u0
 wasat~K w a s a tt i1 n
 wasat~N w a s a tt u1 n
-wasaw~K w a s a w w i1 n
-wasaw~N w a s a w w u1 n
+wasaw~K w a s a ww i1 n
+wasaw~N w a s a ww u1 n
 wasax~K w a s a xx I1 n
 wasax~N w a s a xx U1 n
 wasayaHodu^u w a s a y a H d u0 ^ u0
@@ -9890,8 +9938,8 @@ wasayatabaAraY w a s a y a t a b aa r aa
 wasayoTara w a s a y T A r a
 wasayu&ad~iy w a s a y u0 AH a dd i0
 wasayu&ad~iy w a s a y u0 AH a dd ii0
-wasay~K w a s a y y i1 n
-wasay~N w a s a y y u1 n
+wasay~K w a s a yy i1 n
+wasay~N w a s a yy u1 n
 wasaz~K w a s a zz i1 n
 wasaz~N w a s a zz u1 n
 wasibotamobar w a s i0 b t a m b a r
@@ -9915,8 +9963,8 @@ wasoluwfiynoyaA w a s l uu0 f ii0 n y aa
 wasufuwHi w a s u0 f uu0 H i0
 wasuquwTi w a s U0 q UU0 T I0
 wasut~uwna w a s u0 tt uu0 n a
-wasuwisoraA w a s uu0 i0 s r a
-wasuwisoraA w a s uu0 i0 s r aa
+wasuwisoraA w a s u0 w i0 s r a
+wasuwisoraA w a s u0 w i0 s r aa
 wata&uS~ara w a t a AH U0 SS A r a
 wata&us~ara w a t a AH u0 ss a r a
 wata&~uSara w a t a AHAH U0 S A r a
@@ -10264,7 +10312,7 @@ watabawS~ara w a t a b a w SS A r a
 watabaws~ara w a t a b a w ss a r a
 watabayS~ara w a t a b a y SS A r a
 watabays~ara w a t a b a y ss a r a
-watabay~ana w a t a b a y y a n a
+watabay~ana w a t a b a yy a n a
 watabiS~ara w a t a b I0 SS A r a
 watabis~ara w a t a b i0 ss a r a
 wataboTHiyri w a t a b TH ii0 r i0
@@ -10293,7 +10341,7 @@ watab~ysara w a t a bb ii0 s a r a
 watadAS~ara w a t a d AA SS A r a
 watadAs~ara w a t a d aa ss a r a
 watadaS~ara w a t a d A SS A r a
-watadal~iya w a t a d a ll ii0 a
+watadal~iya w a t a d a ll i0 y a
 watadas~ara w a t a d a ss a r a
 watadawS~ara w a t a d a w SS A r a
 watadaws~ara w a t a d a w ss a r a
@@ -10332,7 +10380,7 @@ watafaS~ara w a t a f A SS A r a
 watafas~ara w a t a f a ss a r a
 watafawS~ara w a t a f a w SS A r a
 watafaws~ara w a t a f a w ss a r a
-watafaw~aqa w a t a f a w w A q A
+watafaw~aqa w a t a f a ww A q A
 watafayS~ara w a t a f a y SS A r a
 watafays~ara w a t a f a y ss a r a
 watafiS~ara w a t a f I0 SS A r a
@@ -10370,7 +10418,7 @@ watagayS~ara w a t a g A y SS A r a
 watagays~ara w a t a g A y ss a r a
 watagiS~ara w a t a g I0 SS A r a
 watagis~ara w a t a g I0 ss a r a
-watagoTiyapu w a t a g T II0 a t u0
+watagoTiyapu w a t a g T I0 y a t u0
 wataguS~ara w a t a g U0 SS A r a
 watagus~ara w a t a g U0 ss a r a
 watagwS~ara w a t a g UU0 SS A r a
@@ -10720,7 +10768,7 @@ watataS~ara w a t a t A SS A r a
 watataTal~abu w a t a t A T A ll a b u0
 watatab~aEa w a t a t a bb a E a
 watatama^~alu w a t a t a m a ^^ a l u0
-watatanaw~aEu w a t a t a n a w w a E u0
+watatanaw~aEu w a t a t a n a ww a E u0
 watatas~ara w a t a t a ss a r a
 watatawS~ara w a t a t a w SS A r a
 watatawaASalu w a t a t a w AA S A l u0
@@ -10771,22 +10819,22 @@ watawwS~ara w a t a w UU0 SS A r a
 watawws~ara w a t a w uu0 ss a r a
 watawyS~ara w a t a w II0 SS A r a
 watawys~ara w a t a w ii0 ss a r a
-wataw~ASara w a t a w w AA S A r a
-wataw~Asara w a t a w w aa s a r a
-wataw~aSara w a t a w w A S A r a
-wataw~asara w a t a w w a s a r a
-wataw~awSara w a t a w w a w S A r a
-wataw~awsara w a t a w w a w s a r a
-wataw~aySara w a t a w w a y S A r a
-wataw~aysara w a t a w w a y s a r a
-wataw~iSara w a t a w w I0 S A r a
-wataw~isara w a t a w w i0 s a r a
-wataw~uSara w a t a w w U0 S A r a
-wataw~usara w a t a w w u0 s a r a
-wataw~wSara w a t a w w UU0 S A r a
-wataw~wsara w a t a w w uu0 s a r a
-wataw~ySara w a t a w w II0 S A r a
-wataw~ysara w a t a w w ii0 s a r a
+wataw~ASara w a t a ww AA S A r a
+wataw~Asara w a t a ww aa s a r a
+wataw~aSara w a t a ww A S A r a
+wataw~asara w a t a ww a s a r a
+wataw~awSara w a t a ww a w S A r a
+wataw~awsara w a t a ww a w s a r a
+wataw~aySara w a t a ww a y S A r a
+wataw~aysara w a t a ww a y s a r a
+wataw~iSara w a t a ww I0 S A r a
+wataw~isara w a t a ww i0 s a r a
+wataw~uSara w a t a ww U0 S A r a
+wataw~usara w a t a ww u0 s a r a
+wataw~wSara w a t a ww UU0 S A r a
+wataw~wsara w a t a ww uu0 s a r a
+wataw~ySara w a t a ww II0 S A r a
+wataw~ysara w a t a ww ii0 s a r a
 wataxAS~ara w a t a x AA SS A r a
 wataxAs~ara w a t a x AA ss a r a
 wataxaS~ara w a t a x A SS A r a
@@ -10837,22 +10885,22 @@ wataywS~ara w a t a y UU0 SS A r a
 watayws~ara w a t a y uu0 ss a r a
 watayyS~ara w a t a y II0 SS A r a
 watayys~ara w a t a y ii0 ss a r a
-watay~ASara w a t a y y AA S A r a
-watay~Asara w a t a y y aa s a r a
-watay~aSara w a t a y y A S A r a
-watay~asara w a t a y y a s a r a
-watay~awSara w a t a y y a w S A r a
-watay~awsara w a t a y y a w s a r a
-watay~aySara w a t a y y a y S A r a
-watay~aysara w a t a y y a y s a r a
-watay~iSara w a t a y y I0 S A r a
-watay~isara w a t a y y i0 s a r a
-watay~uSara w a t a y y U0 S A r a
-watay~usara w a t a y y u0 s a r a
-watay~wSara w a t a y y UU0 S A r a
-watay~wsara w a t a y y uu0 s a r a
-watay~ySara w a t a y y II0 S A r a
-watay~ysara w a t a y y ii0 s a r a
+watay~ASara w a t a yy AA S A r a
+watay~Asara w a t a yy aa s a r a
+watay~aSara w a t a yy A S A r a
+watay~asara w a t a yy a s a r a
+watay~awSara w a t a yy a w S A r a
+watay~awsara w a t a yy a w s a r a
+watay~aySara w a t a yy a y S A r a
+watay~aysara w a t a yy a y s a r a
+watay~iSara w a t a yy I0 S A r a
+watay~isara w a t a yy i0 s a r a
+watay~uSara w a t a yy U0 S A r a
+watay~usara w a t a yy u0 s a r a
+watay~wSara w a t a yy UU0 S A r a
+watay~wsara w a t a yy uu0 s a r a
+watay~ySara w a t a yy II0 S A r a
+watay~ysara w a t a yy ii0 s a r a
 watazAS~ara w a t a z AA SS A r a
 watazAs~ara w a t a z aa ss a r a
 watazaAyudi w a t a z aa y u0 d i0
@@ -11112,14 +11160,14 @@ watixiSwxK w a t i0 x I0 S uu0 x I1 n
 watixuSwxK w a t i0 x U0 S uu0 x I1 n
 watixwSwxK w a t i0 x UU0 S uu0 x I1 n
 watixySwxK w a t i0 x II0 S uu0 x I1 n
-watiyASwyK w a t ii0 AA S uu0 y i1 n
-watiyaSwyK w a t ii0 A S uu0 y i1 n
-watiyawSwyK w a t ii0 a w S uu0 y i1 n
-watiyaySwyK w a t ii0 a y S uu0 y i1 n
+watiyASwyK w a t i0 y AA S uu0 y i1 n
+watiyaSwyK w a t i0 y A S uu0 y i1 n
+watiyawSwyK w a t i0 y a w S uu0 y i1 n
+watiyaySwyK w a t i0 y a y S uu0 y i1 n
 watiyiSwyK w a t ii0 I0 S uu0 y i1 n
 watiyrapa w a t ii0 r a t a
 watiyrapi w a t ii0 r a t i0
-watiyuSwyK w a t ii0 U0 S uu0 y i1 n
+watiyuSwyK w a t i0 y U0 S uu0 y i1 n
 watiywSwyK w a t ii0 UU0 S uu0 y i1 n
 watiyySwyK w a t ii0 II0 S uu0 y i1 n
 watizASwzK w a t i0 z AA S uu0 z i1 n
@@ -11724,11 +11772,11 @@ watut~wSa w a t u0 tt UU0 S A
 watut~wsa w a t u0 tt uu0 s a
 watut~ySa w a t u0 tt II0 S A
 watut~ysa w a t u0 tt ii0 s a
-watuwASawN w a t uu0 AA S A w u1 n
-watuwaSawN w a t uu0 A S A w u1 n
-watuwawSawN w a t uu0 a w S A w u1 n
-watuwaySawN w a t uu0 a y S A w u1 n
-watuwiSawN w a t uu0 I0 S A w u1 n
+watuwASawN w a t u0 w AA S A w u1 n
+watuwaSawN w a t u0 w A S A w u1 n
+watuwawSawN w a t u0 w a w S A w u1 n
+watuwaySawN w a t u0 w a y S A w u1 n
+watuwiSawN w a t u0 w I0 S A w u1 n
 watuwuSawN w a t uu0 U0 S A w u1 n
 watuwwSawN w a t uu0 UU0 S A w u1 n
 watuwySawN w a t uu0 II0 S A w u1 n
@@ -11781,22 +11829,22 @@ watuyiSayN w a t u0 y I0 S A y u1 n
 watuyuSayN w a t u0 y U0 S A y u1 n
 watuywSayN w a t u0 y UU0 S A y u1 n
 watuyySayN w a t u0 y II0 S A y u1 n
-watuy~ASa w a t u0 y y AA S A
-watuy~Asa w a t u0 y y aa s a
-watuy~aSa w a t u0 y y A S A
-watuy~asa w a t u0 y y a s a
-watuy~awSa w a t u0 y y a w S A
-watuy~awsa w a t u0 y y a w s a
-watuy~aySa w a t u0 y y a y S A
-watuy~aysa w a t u0 y y a y s a
-watuy~iSa w a t u0 y y I0 S A
-watuy~isa w a t u0 y y i0 s a
-watuy~uSa w a t u0 y y U0 S A
-watuy~usa w a t u0 y y u0 s a
-watuy~wSa w a t u0 y y UU0 S A
-watuy~wsa w a t u0 y y uu0 s a
-watuy~ySa w a t u0 y y II0 S A
-watuy~ysa w a t u0 y y ii0 s a
+watuy~ASa w a t u0 yy AA S A
+watuy~Asa w a t u0 yy aa s a
+watuy~aSa w a t u0 yy A S A
+watuy~asa w a t u0 yy a s a
+watuy~awSa w a t u0 yy a w S A
+watuy~awsa w a t u0 yy a w s a
+watuy~aySa w a t u0 yy a y S A
+watuy~aysa w a t u0 yy a y s a
+watuy~iSa w a t u0 yy I0 S A
+watuy~isa w a t u0 yy i0 s a
+watuy~uSa w a t u0 yy U0 S A
+watuy~usa w a t u0 yy u0 s a
+watuy~wSa w a t u0 yy UU0 S A
+watuy~wsa w a t u0 yy uu0 s a
+watuy~ySa w a t u0 yy II0 S A
+watuy~ysa w a t u0 yy ii0 s a
 watuzASazN w a t u0 z AA S A z u1 n
 watuzaSazN w a t u0 z A S A z u1 n
 watuzawSazN w a t u0 z a w S A z u1 n
@@ -11870,7 +11918,7 @@ wayaHokiy w a y a H k ii0
 wayaHomiyhaA w a y a H m ii0 h a
 wayaHomiyhaA w a y a H m ii0 h aa
 wayaHotaAju w a y a H t aa j u0
-wayaSHotariya w a y a SH t a r ii0 a
+wayaSHotariya w a y a SH t a r i0 y a
 wayaboqaY w a y a b q A
 wayaboqaY w a y a b q AA
 wayaforiDu w a y a f r I0 D U0
@@ -11902,7 +11950,7 @@ wayuEozaY w a y u0 E z aa
 wayuSHaAriku w a y u0 SH aa r i0 k u0
 wayuSHad~idu w a y u0 SH a dd i0 d u0
 wayuSHak~ilu w a y u0 SH a kk i0 l u0
-wayuSaw~iru w a y U0 S A w w i0 r u0
+wayuSaw~iru w a y U0 S A ww i0 r u0
 wayuSiybuhaA w a y U0 S II0 b u0 h a
 wayuSiybuhaA w a y U0 S II0 b u0 h aa
 wayudorikuwna w a y u0 d r i0 k uu0 n a
@@ -11915,14 +11963,14 @@ wayusab~ibu w a y u0 s a bb i0 b u0
 wayusam~aY w a y u0 s a mm a
 wayusam~aY w a y u0 s a mm aa
 wayutiyHu w a y u0 t ii0 H u0
-wayuwaAjihuwna w a y uu0 aa j i0 h uu0 n a
+wayuwaAjihuwna w a y u0 w aa j i0 h uu0 n a
 wayuwjadu w a y uu0 j a d u0
 wayuxaS~aSu w a y u0 x A SS A S U0
 wazaAda w a z aa d a
 wazaArapi w a z aa r a t i0
 wazaArapu w a z aa r a t u0
 wazawojatihi w a z a w j a t i0 h i0
-waziyaAdapi w a z ii0 aa d a t i0
+waziyaAdapi w a z i0 y aa d a t i0
 waziyru w a z ii0 r u0
 wazujaAjiy~apN w a z u0 j aa j ii0 y a t u1 n
 wdirAsapi uu0 d i0 r aa s a t i0
@@ -11937,6 +11985,8 @@ wisobara w i0 s b a r a
 wiyl w ii0 l
 wizaArapu w i0 z aa r a t u0
 wizaAratahu w i0 z aa r a t a h u0
+wqaAluwA UU0 q AA l u0 w
+wqaAluwA UU0 q AA l u0 w aa
 wqaAluwA UU0 q AA l uu0
 wqaAluwA UU0 q AA l uu0 aa
 wsaboEapK uu0 s a b E a t i1 n
@@ -12025,7 +12075,7 @@ xilaAlahaA x I0 l aa l a h aa
 xilaAli x I0 l aa l i0
 xisobara x I0 s b a r a
 xitaAmi x I0 t aa m i0
-xiyaArK x II0 aa r i1 n
+xiyaArK x I0 y aa r i1 n
 xmosapK x m s a t i1 n
 xuSobara x U0 S b a r a
 xuSuwSAF x U0 S UU0 S A n
@@ -12048,7 +12098,7 @@ yASobara y AA S b a r a
 yAsobara y aa s b a r a
 ya>omaluwna y a AH m a l uu0 n a
 ya>omulu y a AH m u0 l u0
-ya>otiya y a AH t ii0 a
+ya>otiya y a AH t i0 y a
 ya>otuwna y a AH t uu0 n a
 yaA y a
 yaA y aa
@@ -12083,8 +12133,8 @@ yaHotawiy y a H t a w i0
 yaHotawiy y a H t a w ii0
 yaHowiy y a H w i0
 yaHowiy y a H w ii0
-yaHoyaY y a H ii0 a
-yaHoyaY y a H ii0 aa
+yaHoyaY y a H y a
+yaHoyaY y a H y aa
 yaHud~u y a H u0 dd u0
 yaSHoEuru y a SH E u0 r u0
 yaSHokuw y a SH k u0
@@ -12124,7 +12174,7 @@ yakuwna y a k uu0 n a
 yakuwnu y a k uu0 n u0
 yakwunu y a k w u0 n u0
 yaloquwna y a l q UU0 n a
-yalotaqiya y a l t A q II0 a
+yalotaqiya y a l t A q I0 y a
 yaluw y a l u0
 yaluw y a l uu0
 yamonaEuhumo y a m n a E u0 h u1 m
@@ -12195,7 +12245,7 @@ yataban~aY y a t a b a nn aa
 yatajaAwazu y a t a j aa w a z u0
 yatama^~alu y a t a m a ^^ a l u0
 yatamak~ana y a t a m a kk a n a
-yatamay~azu y a t a m a y y a z u0
+yatamay~azu y a t a m a yy a z u0
 yatanaAfasu y a t a n aa f a s u0
 yatanaAwalu y a t a n aa w a l u0
 yatawaAraY y a t a w aa r a
@@ -12235,7 +12285,7 @@ yisobara y i0 s b a r a
 yu&a^~iru y u0 AH a ^^ i0 r u0
 yu&ad~iy y u0 AH a dd i0
 yu&ad~iy y u0 AH a dd ii0
-yu&ad~iya y u0 AH a dd ii0 a
+yu&ad~iya y u0 AH a dd i0 y a
 yu&ak~adu y u0 AH a kk a d u0
 yu&oTHihi y u0 AH TH i0 h i0
 yu&oTHiy y u0 AH TH i0
@@ -12272,6 +12322,8 @@ yuSHk~ilu y u0 SH kk i0 l u0
 yuSaAHibuhaA y U0 S AA H i0 b u0 h a
 yuSaAHibuhaA y U0 S AA H i0 b u0 h aa
 yuSobara y U0 S b a r a
+yuSobiHuwA y U0 S b i0 H u0 w
+yuSobiHuwA y U0 S b i0 H u0 w aa
 yuSobiHuwA y U0 S b i0 H uu0
 yuSobiHuwA y U0 S b i0 H uu0 aa
 yuSobiHuwna y U0 S b i0 H uu0 n a
@@ -12289,6 +12341,8 @@ yugoriy y u0 g r ii0
 yuhodiru y u0 h d i0 r u0
 yujad~ida y u0 j a dd i0 d a
 yujobiru y u0 j b i0 r u0
+yuko^iruwA y u0 k ^ i0 r u0 w
+yuko^iruwA y u0 k ^ i0 r u0 w aa
 yuko^iruwA y u0 k ^ i0 r uu0
 yuko^iruwA y u0 k ^ i0 r uu0 aa
 yuloqiy y u0 l q I0
@@ -12306,11 +12360,11 @@ yuqar~ibu y U0 q A rr i0 b u0
 yuqimona y U0 q I0 m n a
 yuraAfiqu y u0 r aa f I0 q U0
 yurak~izu y u0 r a kk i0 z u0
-yuraw~iju y u0 r a w w i0 j u0
+yuraw~iju y u0 r a ww i0 j u0
 yurohiqu y u0 r h I0 q U0
 yuromazu y u0 r m a z u0
-yurowaY y u0 r uu0 a
-yurowaY y u0 r uu0 aa
+yurowaY y u0 r w a
+yurowaY y u0 r w aa
 yusaAEidu y u0 s aa E i0 d u0
 yusaAhimaAni y u0 s aa h i0 m aa n i0
 yusah~ilu y u0 s a hh i0 l u0
@@ -12321,18 +12375,18 @@ yusobara y u0 s b a r a
 yusolima y u0 s l i0 m a
 yusomaHa y u0 s m a H a
 yusotaxolaSu y u0 s t a x l A S U0
-yutaw~aju y u0 t a w w a j u0
-yutaw~ija y u0 t a w w i0 j a
-yuwAfiqu y uu0 aa f I0 q U0
-yuwaAfiqu y uu0 aa f I0 q U0
-yuwaAjihu y uu0 aa j i0 h u0
-yuwaAjihuwna y uu0 aa j i0 h uu0 n a
-yuwaD~iHu y uu0 A DD I0 H u0
-yuwaj~ihuwna y uu0 a jj i0 h uu0 n a
+yutaw~aju y u0 t a ww a j u0
+yutaw~ija y u0 t a ww i0 j a
+yuwAfiqu y u0 w aa f I0 q U0
+yuwaAfiqu y u0 w aa f I0 q U0
+yuwaAjihu y u0 w aa j i0 h u0
+yuwaAjihuwna y u0 w aa j i0 h uu0 n a
+yuwaD~iHu y u0 w A DD I0 H u0
+yuwaj~ihuwna y u0 w a jj i0 h uu0 n a
 yuwgusolaAfoyaA y uu0 g U0 s l aa f y a
 yuwgusolaAfoyaA y uu0 g U0 s l aa f y aa
-yuwniyuw y uu0 n ii0 u0
-yuwniyuw y uu0 n ii0 uu0
+yuwniyuw y uu0 n i0 y u0
+yuwniyuw y uu0 n i0 y uu0
 yuwnoyuw y uu0 n y u0
 yuwnoyuw y uu0 n y uu0
 yuwnuso y uu0 n u1 s
@@ -12342,8 +12396,8 @@ yuwruw y uu0 r u0
 yuwruw y uu0 r uu0
 yuwsufo y uu0 s u1 f
 yuwtoyuwbo y uu0 t y uu0 b
-yuxay~ib y u0 x A y y i1 b
-yuxay~ibo y u0 x A y y i1 b
+yuxay~ib y u0 x A yy i1 b
+yuxay~ibo y u0 x A yy i1 b
 yuzoraEu y u0 z r a E u0
 yw y uu0
 ywSobara y UU0 S b a r a
@@ -12383,43 +12437,43 @@ ziraAEapu z i0 r aa E a t u0
 ziraAEatihaA z i0 r aa E a t i0 h a
 ziraAEatihaA z i0 r aa E a t i0 h aa
 zisobara z i0 s b a r a
-ziyaAdapF z ii0 aa d a t a n
-ziyaAdapK z ii0 aa d a t i1 n
-ziyaAdapa z ii0 aa d a t a
-ziyaArapi z ii0 aa r a t i0
-ziyaAratahu z ii0 aa r a t a h u0
+ziyaAdapF z i0 y aa d a t a n
+ziyaAdapK z i0 y aa d a t i1 n
+ziyaAdapa z i0 y aa d a t a
+ziyaArapi z i0 y aa r a t i0
+ziyaAratahu z i0 y aa r a t a h u0
 zuSobara z U0 S b a r a
 zusobara z u0 s b a r a
-zuwaylo z uu0 a y l
+zuwaylo z u0 w a y l
 zuwmaA z uu0 m a
 zuwmaA z uu0 m aa
 zwSobara z UU0 S b a r a
 zwsobara z uu0 s b a r a
 zySobara z II0 S b a r a
 zysobara z ii0 s b a r a
-|Sobara AH AA S b a r a
-|THaAra AH aa TH aa r a
-|biy AH aa b i0
-|biy AH aa b ii0
-|dama AH aa d a m a
-|kiliyhi AH aa k i0 l ii0 h i0
-|lAfK AH aa l aa f i1 n
-|lAfi AH aa l aa f i0
-|laAfi AH aa l aa f i0
-|laAfu AH aa l aa f u0
-|laAti AH aa l aa t i0
-|li AH aa l i0
-|maAla AH aa m aa l a
-|minK AH aa m i0 n i1 n
-|minN AH aa m i0 n u1 n
-|nK AH aa n i1 n
-|naTHaAka AH aa n a TH aa k a
-|nod AH aa n d
-|riyyino AH aa r ii0 y i1 n
-|sobara AH aa s b a r a
-|soyaA AH aa s y a
-|soyaA AH aa s y aa
-|soyawiy~apK AH aa s y a w ii0 y a t i1 n
-|xarayni AH aa x A r a y n i0
-|xira AH aa x I0 r a
-|xiri AH aa x I0 r i0
+|Sobara AH A S b a r a
+|THaAra AH a TH aa r a
+|biy AH a b i0
+|biy AH a b ii0
+|dama AH a d a m a
+|kiliyhi AH a k i0 l ii0 h i0
+|lAfK AH a l aa f i1 n
+|lAfi AH a l aa f i0
+|laAfi AH a l aa f i0
+|laAfu AH a l aa f u0
+|laAti AH a l aa t i0
+|li AH a l i0
+|maAla AH a m aa l a
+|minK AH a m i0 n i1 n
+|minN AH a m i0 n u1 n
+|nK AH a n i1 n
+|naTHaAka AH a n a TH aa k a
+|nod AH a n d
+|riyyino AH a r ii0 y i1 n
+|sobara AH a s b a r a
+|soyaA AH a s y a
+|soyaA AH a s y aa
+|soyawiy~apK AH a s y a w ii0 y a t i1 n
+|xarayni AH a x A r a y n i0
+|xira AH a x I0 r a
+|xiri AH a x I0 r i0
