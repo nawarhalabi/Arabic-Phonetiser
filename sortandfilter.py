@@ -18,5 +18,5 @@ inputFile.close()
 utterances = sorted(distinct(utterances))
 
 inputFile = codecs.open(inputFileName, 'w', 'utf-8')
-inputFile.write("\n".join(utterances))
+inputFile.write("\n".join(utterances) + '\r\n')
 inputFile.close()

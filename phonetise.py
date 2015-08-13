@@ -6,23 +6,23 @@ import codecs
 import re
 
 unambiguousConsonantMap = {
-	u'\u0628': u'b' , u'\u0630': u'TH', u'\u0637': u'T' , u'\u0645': u'm' ,
+	u'\u0628': u'b' , u'\u0630': u'*' , u'\u0637': u'T' , u'\u0645': u'm' ,
 	u'\u062a': u't' , u'\u0631': u'r' , u'\u0638': u'Z' , u'\u0646': u'n' ,
 	u'\u062b': u'^' , u'\u0632': u'z' , u'\u0639': u'E' , u'\u0647': u'h' ,
 	u'\u062c': u'j' , u'\u0633': u's' , u'\u063a': u'g' , u'\u062d': u'H' ,
 	u'\u0642': u'q' , u'\u0641': u'f' , u'\u062e': u'x' , u'\u0635': u'S' ,
-	u'\u0634': u'SH', u'\u062f': u'd' , u'\u0636': u'D' , u'\u0643': u'k' ,
-	u'\u0623': u'AH', u'\u0621': u'AH', u'\u0626': u'AH', u'\u0624': u'AH',
-	u'\u0625': u'AH'
+	u'\u0634': u'$' , u'\u062f': u'd' , u'\u0636': u'D' , u'\u0643': u'k' ,
+	u'\u0623': u'<' , u'\u0621': u'<' , u'\u0626': u'<' , u'\u0624': u'<' ,
+	u'\u0625': u'<'
 }
 
 buckwalter = {
-	u'\u0628': u'b' , u'\u0630': u'TH', u'\u0637': u'T' , u'\u0645': u'm',
+	u'\u0628': u'b' , u'\u0630': u'*' , u'\u0637': u'T' , u'\u0645': u'm',
 	u'\u062a': u't' , u'\u0631': u'r' , u'\u0638': u'Z' , u'\u0646': u'n',
 	u'\u062b': u'^' , u'\u0632': u'z' , u'\u0639': u'E' , u'\u0647': u'h',
 	u'\u062c': u'j' , u'\u0633': u's' , u'\u063a': u'g' , u'\u062d': u'H',
 	u'\u0642': u'q' , u'\u0641': u'f' , u'\u062e': u'x' , u'\u0635': u'S',
-	u'\u0634': u'SH', u'\u062f': u'd' , u'\u0636': u'D' , u'\u0643': u'k',
+	u'\u0634': u'$' , u'\u062f': u'd' , u'\u0636': u'D' , u'\u0643': u'k',
 	u'\u0623': u'>' , u'\u0621': u'\'', u'\u0626': u'}' , u'\u0624': u'&',
 	u'\u0625': u'<' , u'\u0622': u'|' , u'\u0627': u'A' , u'\u0649': u'Y',
 	u'\u0629': u'p' , u'\u064a': u'y' , u'\u0644': u'l' , u'\u0648': u'w',
@@ -44,7 +44,7 @@ ambiguousConsonantMap = {
 }
 
 maddaMap = {
-	u'\u0622': [[u'AH', u'aa'], [u'AH', u'AA']]
+	u'\u0622': [[u'<', u'aa'], [u'<', u'AA']]
 }
 
 vowelMap = {
@@ -67,14 +67,14 @@ forwardEmphatics = [u'\u063a', u'\u062e']
 consonants = [u'\u0623', u'\u0625', u'\u0626', u'\u0624', u'\u0621', u'\u0628', u'\u062a', u'\u062b', u'\u062c', u'\u062d', u'\u062e', u'\u062f', u'\u0630', u'\u0631', u'\u0632', u'\u0633', u'\u0634', u'\u0635', u'\u0636', u'\u0637', u'\u0638', u'\u0639', u'\u063a', u'\u0641', u'\u0642', u'\u0643', u'\u0644', u'\u0645', u'\u0646', u'\u0647', u'\u0622']
 
 fixedWords = {
-	u'\u0647\u0630\u0627': [u'h aa TH aa', u'h aa TH a',],
-	u'\u0647\u0630\u0647': [u'h aa TH i0 h i0', u'h aa TH i1 h'],
-	u'\u0647\u0630\u0627\u0646': [u'h aa TH aa n i0', u'h aa TH aa n'],
-	u'\u0647\u0624\u0644\u0627\u0621': [u'h aa AH u0 l aa AH i0', u'h aa AH u0 l aa AH'],
-	u'\u0630\u0644\u0643': [u'TH aa l i0 k a', u'TH aa l i0 k'],
-	u'\u0643\u0630\u0644\u0643': [u'k a TH aa l i0 k a', u'k a TH aa l i1 k'],
-	u'\u0630\u0644\u0643\u0645': u'TH aa l i0 k u1 m',
-	u'\u0623\u0648\u0644\u0626\u0643': [u'AH u0 l aa AH i0 k a', u'AH u0 l aa AH i1 k'],
+	u'\u0647\u0630\u0627': [u'h aa * aa', u'h aa * a',],
+	u'\u0647\u0630\u0647': [u'h aa * i0 h i0', u'h aa * i1 h'],
+	u'\u0647\u0630\u0627\u0646': [u'h aa * aa n i0', u'h aa * aa n'],
+	u'\u0647\u0624\u0644\u0627\u0621': [u'h aa < u0 l aa < i0', u'h aa < u0 l aa <'],
+	u'\u0630\u0644\u0643': [u'* aa l i0 k a', u'* aa l i0 k'],
+	u'\u0643\u0630\u0644\u0643': [u'k a * aa l i0 k a', u'k a * aa l i1 k'],
+	u'\u0630\u0644\u0643\u0645': u'* aa l i0 k u1 m',
+	u'\u0623\u0648\u0644\u0626\u0643': [u'< u0 l aa < i0 k a', u'< u0 l aa < i1 k'],
 	u'\u0637\u0647': u'T aa h a',
 	u'\u0644\u0643\u0646': [u'l aa k i0 nn a', u'l aa k i1 n'],
 	u'\u0644\u0643\u0646\u0647': u'l aa k i0 nn a h u0',
@@ -85,7 +85,7 @@ fixedWords = {
 	u'\u0644\u0643\u0646\u0646\u0627': u'l aa k i0 nn a n aa',
 	u'\u0627\u0644\u0631\u062D\u0645\u0646': [u'rr a H m aa n i0',  u'rr a H m aa n'],
 	u'\u0627\u0644\u0644\u0647': [u'll aa h i0', u'll aa h', u'll AA h u0', u'll AA h a', u'll AA h', u'll A'],
-	u'\u0647\u0630\u064a\u0646': [u'h aa TH a y n i0', u'h aa TH a y n'],
+	u'\u0647\u0630\u064a\u0646': [u'h aa * a y n i0', u'h aa * a y n'],
 	
 	u'\u0646\u062a': u'n i1 t',
 	u'\u0641\u064a\u062F\u064a\u0648': u'v i0 d y uu1',
@@ -199,7 +199,7 @@ for utterance in utterances:
 				#----------------------------------------------------------------------------------------------------------------
 				if(letter in vowelMap):
 					if(letter in [u'\u0648', u'\u064a']): #Waw and Ya are complex they could be consonants or vowels and their gemination is complex as it could be a combination of a vowel and consonants
-						if(letter1 in diacriticsWithoutShadda + [u'\u0627', u'\u0649'] or (letter1 in [u'\u0648', u'\u064a'] and not letter2 in diacritics + [u'\u0627', u'\u0648', u'\u064a']) or (letter_1 in diacriticsWithoutShadda and letter1 in consonants)):
+						if(letter1 in diacriticsWithoutShadda + [u'\u0627', u'\u0649'] or (letter1 in [u'\u0648', u'\u064a'] and not letter2 in diacritics + [u'\u0627', u'\u0648', u'\u064a']) or (letter_1 in diacriticsWithoutShadda and letter1 in consonants + [u'e'])):
 							if((letter in [u'\u0648'] and letter_1 in [u'\u064f'] and not letter1 in [u'\u064e', u'\u0650', u'\u0627', u'\u0649']) or (letter in [u'\u064a'] and letter_1 in [u'\u0650'] and not letter1 in [u'\u064e', u'\u064f', u'\u0627', u'\u0649'])):
 								if(emphaticContext):
 									phones += [vowelMap[letter][1][0]]
