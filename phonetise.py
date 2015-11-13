@@ -91,6 +91,7 @@ fixedWords = {
 	u'\u0641\u064a\u062F\u064a\u0648': u'v i0 d y uu1',
 	u'\u0644\u0646\u062F\u0646': u'l A n d u1 n'
 }
+
 def isFixedWord(word, results, orthography):
 	lastLetter = word[-1]
 	if(lastLetter == u'\u064e'):
@@ -144,6 +145,17 @@ for utterance in utterances:
 	utterance = utterance.replace(u'\u064c', u'\u064f\u0646')
 	utterance = utterance.replace(u'\u064d', u'\u0650\u0646')
 	utterance = utterance.replace(u'\u0622', u'\u0623\u0627')
+	
+	#Deal with Hamza types that when not followed by a short vowel letter, this short vowel is added automatically
+	utterance = re.sub(u'\u0627\u0650', u'\u0625\u0650', utterance)
+	utterance = re.sub(u'\u0627\u064e', u'\u0623\u064e', utterance)
+	utterance = re.sub(u'\u0627\u064f', u'\u0623\u064f', utterance)
+	utterance = re.sub(u'^\u0623([^\u064e\u064f\u0627\u0648])', u'\u0623\u064e\\1', utterance)
+	utterance = re.sub(u' \u0623([^\u064e\u064f\u0627\u0648 ])', u' \u0623\u064e\\1', utterance)
+	utterance = re.sub(u'\u0625([^\u0650])', u'\u0625\u0650\\1', utterance)
+	if(utteranceNumber < 3):
+		print utterance
+	
 	utterance = utterance.split(u' ')
 
 	wordIndex = -1
