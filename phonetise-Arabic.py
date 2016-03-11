@@ -22,17 +22,17 @@ buckwalter = { #mapping from Arabic script to Buckwalter
 }
 
 ArabicScript = { #mapping from Buckwalter to Arabic script
-	u'b': u'\u0628' , u'*':  u'\u0630' , u'T': u'\u0637' , u'm': u'\u0645',
-	u't': u'\u062a' , u'r':  u'\u0631' , u'Z': u'\u0638' , u'n': u'\u0646',
-	u'^': u'\u062b' , u'z':  u'\u0632' , u'E': u'\u0639' , u'h': u'\u0647',
-	u'j': u'\u062c' , u's':  u'\u0633' , u'g': u'\u063a' , u'H': u'\u062d',
-	u'q': u'\u0642' , u'f':  u'\u0641' , u'x': u'\u062e' , u'S': u'\u0635',
-	u'$': u'\u0634' , u'd':  u'\u062f' , u'D': u'\u0636' , u'k': u'\u0643',
-	u'>': u'\u0623' , u'\'': u'\u0621' , u'}': u'\u0626' , u'&': u'\u0624',
-	u'<': u'\u0625' , u'|':  u'\u0622' , u'A': u'\u0627' , u'Y': u'\u0649',
-	u'p': u'\u0629' , u'y':  u'\u064a' , u'l': u'\u0644' , u'w': u'\u0648',
-	u'F': u'\u064b' , u'N':  u'\u064c' , u'K': u'\u064d' , u'a': u'\u064e',
-	u'u': u'\u064f' , u'i':  u'\u0650' , u'~': u'\u0651' , u'o': u'\u0652'
+	u'b': u'\u0628' , u'*': u'\u0630' , u'T': u'\u0637' , u'm': u'\u0645',
+	u't': u'\u062a' , u'r': u'\u0631' , u'Z': u'\u0638' , u'n': u'\u0646',
+	u'^': u'\u062b' , u'z': u'\u0632' , u'E': u'\u0639' , u'h': u'\u0647',
+	u'j': u'\u062c' , u's': u'\u0633' , u'g': u'\u063a' , u'H': u'\u062d',
+	u'q': u'\u0642' , u'f': u'\u0641' , u'x': u'\u062e' , u'S': u'\u0635',
+	u'$': u'\u0634' , u'd': u'\u062f' , u'D': u'\u0636' , u'k': u'\u0643',
+	u'>': u'\u0623' , u'\'': u'\u0621', u'}': u'\u0626' , u'&': u'\u0624',
+	u'<': u'\u0625' , u'|': u'\u0622' , u'A': u'\u0627' , u'Y': u'\u0649',
+	u'p': u'\u0629' , u'y': u'\u064a' , u'l': u'\u0644' , u'w': u'\u0648',
+	u'F': u'\u064b' , u'N': u'\u064c' , u'K': u'\u064d' , u'a': u'\u064e',
+	u'u': u'\u064f' , u'i': u'\u0650' , u'~': u'\u0651' , u'o': u'\u0652'
 }
 
 def arabicToBuckwalter(word): #Convert input string to Buckwalter
@@ -99,7 +99,13 @@ consonants = [u'>', u'<', u'}', u'&', u'\'', u'b', u't', u'^', u'j', u'H', u'x',
 #------------------------------------------------------------------------------------
 fixedWords = {
 	u'h*A': [u'h aa * aa', u'h aa * a',],
+	u'bh*A': [u'b i0 h aa * aa', u'b i0 h aa * a',],
+	u'kh*A': [u'k a h aa * aa', u'k a h aa * a',],
+	u'fh*A': [u'f a h aa * aa', u'f a h aa * a',],
 	u'h*h': [u'h aa * i0 h i0', u'h aa * i1 h'],
+	u'bh*h': [u'b i0 h aa * i0 h i0', u'b i0 h aa * i1 h'],
+	u'kh*h': [u'k a h aa * i0 h i0', u'k a h aa * i1 h'],
+	u'fh*h': [u'f a h aa * i0 h i0', u'f a h aa * i1 h'],
 	u'h*An': [u'h aa * aa n i0', u'h aa * aa n'],
 	u'h&lA\'': [u'h aa < u0 l aa < i0', u'h aa < u0 l aa <'],
 	u'*lk': [u'* aa l i0 k a', u'* aa l i0 k'],
@@ -118,7 +124,43 @@ fixedWords = {
 	u'AlrHmn': [u'rr a H m aa n i0',  u'rr a H m aa n'],
 	u'Allh': [u'll aa h i0', u'll aa h', u'll AA h u0', u'll AA h a', u'll AA h', u'll A'],
 	u'h*yn': [u'h aa * a y n i0', u'h aa * a y n'],
+	
+	u'wh*A': [u'w a h aa * aa', u'w a h aa * a',],
+	u'wbh*A': [u'w a b i0 h aa * aa', u'w a b i0 h aa * a',],
+	u'wkh*A': [u'w a k a h aa * aa', u'w a k a h aa * a',],
+	u'wh*h': [u'w a h aa * i0 h i0', u'w a h aa * i1 h'],
+	u'wbh*h': [u'w a b i0 h aa * i0 h i0', u'w a b i0 h aa * i1 h'],
+	u'wkh*h': [u'w a k a h aa * i0 h i0', u'w a k a h aa * i1 h'],
+	u'wh*An': [u'w a h aa * aa n i0', u'w a h aa * aa n'],
+	u'wh&lA\'': [u'w a h aa < u0 l aa < i0', u'w a h aa < u0 l aa <'],
+	u'w*lk': [u'w a * aa l i0 k a', u'w a * aa l i0 k'],
+	u'wb*lk': [u'w a b i0 * aa l i0 k a', u'w a b i0 * aa l i0 k'],
+	u'wk*lk': [u'w a k a * aa l i0 k a', u'w a k a * aa l i1 k'],
+	u'w*lkm': u'w a * aa l i0 k u1 m',
+	u'w>wl}k': [u'w a < u0 l aa < i0 k a', u'w a < u0 l aa < i1 k'],
+	u'wTh': u'w a T aa h a',
+	u'wlkn': [u'w a l aa k i0 nn a', u'w a l aa k i1 n'],
+	u'wlknh': u'w a l aa k i0 nn a h u0',
+	u'wlknhm': u'w a l aa k i0 nn a h u1 m',
+	u'wlknk': [u'w a l aa k i0 nn a k a', u'w a l aa k i0 nn a k i0'],
+	u'wlknkm': u'w a l aa k i0 nn a k u1 m',
+	u'wlknkmA': u'w a l aa k i0 nn a k u0 m aa',
+	u'wlknnA': u'w a l aa k i0 nn a n aa',
+	u'wAlrHmn': [u'w a rr a H m aa n i0',  u'w a rr a H m aa n'],
+	u'wAllh': [u'w a ll aa h i0', u'w a ll aa h', u'w a ll AA h u0', u'w a ll AA h a', u'w a ll AA h', u'w a ll A'],
+	u'wh*yn': [u'w a h aa * a y n i0', u'w a h aa * a y n'],
+	u'w': [u'w a'],
+	u'Aw': [u'< a w'],
+	u'>w': [u'< a w'],
 
+	u'Alf': [u'< a l f'],
+	u'>lf': [u'< a l f'],
+	u'b>lf': [u'b i0 < a l f'],
+	u'f>lf': [u'f a < a l f'],
+	u'wAlf': [u'w a < a l f'],
+	u'w>lf': [u'w a < a l f'],
+	u'wb>lf': [u'w a b i0 < a l f'],
+	
 	u'nt': u'n i1 t',
 	u'fydyw': u'v i0 d y uu1',
 	u'lndn': u'l A n d u1 n'
@@ -138,13 +180,18 @@ def isFixedWord(word, results, orthography, pronunciations):
 		lastLetter = [u'i0']
 	elif(lastLetter in unambiguousConsonantMap):
 		lastLetter = [unambiguousConsonantMap[lastLetter]]
-	wordConsonants = re.sub(u'[^h*Ahn\'>wl}kmyTtfdb]', '', word)  # Remove all dacritics from word
+	wordConsonants = re.sub(u'[^h*Ahn\'>wl}kmyTtfdb]', u'', word)  # Remove all dacritics from word
 	if(wordConsonants in fixedWords):  # check if word is in the fixed word lookup table
 		if(isinstance(fixedWords[wordConsonants], list)):
+			done = False
 			for pronunciation in fixedWords[wordConsonants]:
 				if(pronunciation.split(u' ')[-1] in lastLetter):
-					results += word + u' ' + pronunciation + '\n' # add each pronunciation to the pronunciation dictionary
+					results += word + u' ' + pronunciation + u'\n' # add each pronunciation to the pronunciation dictionary
 					pronunciations.append(pronunciation.split(u' '))
+					done = True
+			if(not done):
+				results += word + u' ' + fixedWords[wordConsonants][0] + u'\n' # add each pronunciation to the pronunciation dictionary
+				pronunciations.append(fixedWords[wordConsonants][0].split(u' '))
 		else:
 			results += word + u' ' + fixedWords[wordConsonants] + u'\n' # add pronunciation to the pronunciation dictionary
 			pronunciations.append(fixedWords[wordConsonants].split(u' '))
@@ -152,7 +199,7 @@ def isFixedWord(word, results, orthography, pronunciations):
 
 def phonetise(text):
 	utterances = text.splitlines()
-	result = '' #Pronunciations Dictionary
+	result = u'' #Pronunciations Dictionary
 	utterancesPronuncations = [] #Most likely pronunciation for all utterances
 	utterancesPronuncationsWithBoundaries = [] #Most likely pronunciation for all utterances
 
@@ -185,15 +232,17 @@ def phonetise(text):
 		utterance = re.sub(u'^Ai', u'<i', utterance)
 		utterance = re.sub(u'^Aa', u'>a', utterance)
 		utterance = re.sub(u'^Au', u'>u', utterance)
-		utterance = re.sub(u' Ai', u' <i', utterance)
-		utterance = re.sub(u' Aa', u' >a', utterance)
-		utterance = re.sub(u' Au', u' >u', utterance)
+		utterance = re.sub(u'Ai', u'<i', utterance)
+		utterance = re.sub(u'Aa', u'>a', utterance)
+		utterance = re.sub(u'Au', u'>u', utterance)
 		utterance = re.sub(u'^Al', u'>al', utterance)
 		utterance = re.sub(u' - Al', u' - >al', utterance)
 		utterance = re.sub(u'^- Al', u'- >al', utterance)
 		utterance = re.sub(u'^>([^auAw])', u'>a\\1', utterance)
 		utterance = re.sub(u' >([^auAw ])', u' >a\\1', utterance)
 		utterance = re.sub(u'<([^i])', u'<i\\1', utterance)
+		utterance = re.sub(u' A([^aui])', u' \\1', utterance)
+		utterance = re.sub(u'^A([^aui])', u'\\1', utterance)
 		
 		utterance = utterance.split(u' ')
 		#---------------------------
@@ -233,7 +282,7 @@ def phonetise(text):
 						phones += [unambiguousConsonantMap[letter]]
 					#----------------------------------------------------------------------------------------------------------------
 					if(letter == u'l'): #Lam is a consonant which requires special treatment
-						if((not letter1 in diacritics and not letter1 in vowelMap) and letter2 in [u'~']):#Lam could be omitted in definite article (sun letters)
+						if((not letter1 in diacritics and not letter1 in vowelMap) and letter2 in [u'~'] and ((letter_1 in [u'A', u'l', u'b']) or (letter_1 in diacritics and letter_2 in [u'A', u'l', u'b']))):#Lam could be omitted in definite article (sun letters)
 							phones += [ambiguousConsonantMap[u'l'][1]] #omit
 						else:
 							phones += [ambiguousConsonantMap[u'l'][0]] #do not omit
