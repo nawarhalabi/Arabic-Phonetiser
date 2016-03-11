@@ -5,6 +5,8 @@ Convert Arabic diacritised text to a sequence of phonemes and create a pronuncia
       from phonetise-Arabic import phonetise
       phonemes = phonetise(Arabic_text)
       
+or
+      
       phonetise-Buckwalter.py [inputfile]
 
 [inputfile] should be a utf8 text file contianing in every line:
