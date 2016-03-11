@@ -2,7 +2,9 @@
 Convert Arabic diacritised text to a sequence of phonemes and create a pronunciation dictionary from them for alignment using HTK
 
 # Usage
-
+      from phonetise-Arabic import phonetise
+      phonemes = phonetise(Arabic_text)
+      
       phonetise-Buckwalter.py [inputfile]
 
 [inputfile] should be a utf8 text file contianing in every line:
